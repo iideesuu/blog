@@ -10,8 +10,8 @@ export function SiteHeader() {
   return (
     <header className="site-header">
       <div className="site-header-inner page-width">
-        <Link className="wordmark" href="/" aria-label="传信给你，返回首页">
-          传信给你
+        <Link className="wordmark" href="/" aria-label="传信予你，返回首页">
+          传信予你
         </Link>
         <nav className="site-nav" aria-label="主要导航">
           {navigation.map((item) => (

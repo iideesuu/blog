@@ -14,8 +14,8 @@ export default function HomePage() {
         <section className="hero" aria-labelledby="home-title">
           <PhilosophyField />
           <div className="hero-copy">
-            <p className="eyebrow">THE WHITE WHALE / PLATE XLI</p>
-            <h1 id="home-title">传信给你</h1>
+            <p className="eyebrow">“AND I ONLY AM ESCAPED ALONE TO TELL THEE” — JOB</p>
+            <h1 id="home-title">传信予你</h1>
             <p className="hero-statement">
               没有一种当下的判断，
               <br />
@@ -23,7 +23,7 @@ export default function HomePage() {
             </p>
             <div className="hero-reading" aria-hidden="true">
               <span>PHYSETER MACROCEPHALUS</span>
-              <span>THE WHITE WHALE · CHAPTER XLI</span>
+              <span>MOBY-DICK · EPILOGUE</span>
             </div>
           </div>
           <WhaleScene />

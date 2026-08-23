@@ -223,6 +223,12 @@ a {
   letter-spacing: 0.24em;
 }
 
+.hero-copy > .eyebrow {
+  max-width: 38rem;
+  letter-spacing: 0.16em;
+  line-height: 1.7;
+}
+
 .hero h1 {
   max-width: 7em;
   margin: 0;

@@ -6,8 +6,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "传信给你",
-    template: "%s · 传信给你"
+    default: "传信予你",
+    template: "%s · 传信予你"
   },
   description: "一个记录生活碎片与宇宙漫步的个人博客。",
   robots: {
