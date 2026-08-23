@@ -37,7 +37,7 @@ export default async function PostPage({ params }: PostPageProps) {
   const section = sectionConfig[post.section];
 
   return (
-    <main id="main-content" className="article-page">
+    <main id="main-content" className="article-page" data-section={post.section}>
       <article>
         <header className="article-heading">
           <Link className="article-section" href={section.href}>{section.label}</Link>

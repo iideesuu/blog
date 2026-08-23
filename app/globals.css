@@ -936,18 +936,29 @@ a {
   margin-block: 1.2rem;
 }
 
+.contact-email {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: rgba(225, 231, 232, 0.5);
+  text-underline-offset: 0.25em;
+}
+
+.contact-email:hover,
+.contact-email:focus-visible {
+  text-decoration-color: currentColor;
+}
+
+.contact-safety {
+  color: var(--muted) !important;
+  font-size: 0.88rem;
+}
+
 .site-boundary {
   margin-top: 5rem;
   padding: clamp(1.5rem, 5vw, 3rem);
   background: rgba(9, 38, 52, 0.56);
   border: 1px solid rgba(173, 205, 214, 0.16);
   border-radius: 1rem;
-}
-
-.resource-note {
-  margin-bottom: 0;
-  color: var(--muted) !important;
-  font-size: 0.84rem;
 }
 
 .not-found {
@@ -970,12 +981,13 @@ a {
 .site-footer {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 2rem;
   padding-block: 2.2rem;
   color: #829fa9;
   font-family: var(--serif);
   font-size: 0.76rem;
+  text-align: center;
   border-top: 1px solid rgba(173, 205, 214, 0.12);
 }
 
@@ -1016,6 +1028,85 @@ a {
   width: min(780px, calc(100% - 3rem));
   min-height: 62vh;
   padding: clamp(3rem, 8vw, 5rem);
+}
+
+.article-page[data-section="fragments"] .article-heading {
+  display: grid;
+  grid-template-areas:
+    "section meta"
+    "title title";
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.4rem 1rem;
+  margin-bottom: clamp(2.5rem, 6vw, 3.2rem);
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(157, 181, 188, 0.18);
+}
+
+.article-page[data-section="fragments"] .article-section {
+  grid-area: section;
+  margin: 0;
+}
+
+.article-page[data-section="fragments"] .article-heading h1 {
+  grid-area: title;
+  font-size: clamp(2.1rem, 5vw, 3.15rem);
+  line-height: 1.35;
+}
+
+.article-page[data-section="fragments"] .article-meta {
+  grid-area: meta;
+  justify-content: flex-end;
+  margin: 0;
+  text-align: right;
+}
+
+.article-page[data-section="fragments"] .article-body {
+  --journal-gutter: clamp(1.35rem, 3vw, 1.75rem);
+
+  position: relative;
+  max-width: 38em;
+  padding-inline-start: var(--journal-gutter);
+  letter-spacing: 0.02em;
+}
+
+.article-page[data-section="fragments"] .article-body::before {
+  position: absolute;
+  top: 0.9em;
+  bottom: 0.9em;
+  left: 0;
+  width: 1px;
+  content: "";
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgba(134, 185, 195, 0.28) 8%,
+    rgba(134, 185, 195, 0.28) 92%,
+    transparent
+  );
+}
+
+.article-page[data-section="fragments"] .article-body > p {
+  position: relative;
+  margin: 0;
+  padding-bottom: clamp(2.1rem, 5vw, 2.5rem);
+}
+
+.article-page[data-section="fragments"] .article-body > p:last-child {
+  padding-bottom: 0;
+}
+
+.article-page[data-section="fragments"] .article-body > p::before {
+  position: absolute;
+  top: 0.72em;
+  left: calc(0px - var(--journal-gutter) - 0.21rem);
+  width: 0.42rem;
+  height: 0.42rem;
+  content: "";
+  pointer-events: none;
+  background: var(--deep);
+  border: 1px solid rgba(134, 185, 195, 0.72);
+  border-radius: 50%;
 }
 
 .help-page {
@@ -1162,12 +1253,35 @@ a {
   }
 
   .site-footer {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
   }
 }
 
 @media (max-width: 560px) {
+  .article-page[data-section="fragments"] {
+    padding: 2.5rem 1.25rem 3rem;
+  }
+
+  .article-page[data-section="fragments"] .article-heading {
+    gap: 1rem 0.75rem;
+    margin-bottom: 2.25rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .article-page[data-section="fragments"] .article-heading h1 {
+    font-size: clamp(2rem, 9vw, 2.55rem);
+  }
+
+  .article-page[data-section="fragments"] .article-body {
+    --journal-gutter: 1.05rem;
+
+    letter-spacing: 0.01em;
+  }
+
+  .article-page[data-section="fragments"] .article-body > p {
+    padding-bottom: 1.9rem;
+  }
+
   .site-header-inner {
     flex-wrap: wrap;
     width: calc(100% - 2rem);

@@ -77,13 +77,27 @@ export default function HelpPage() {
         </div>
       </section>
 
+      <section className="help-section" aria-labelledby="contact-title">
+        <p className="section-number" aria-hidden="true">04</p>
+        <div>
+          <h2 id="contact-title">联系站长</h2>
+          <p>
+            如果你对本站有任何问题，或正处在低谷、抑郁阶段，想找一个人说说此刻的感受，可以写信至{" "}
+            <a className="contact-email" href="mailto:ii@deesuu.com">ii@deesuu.com</a>。你不必先把一切想清楚，也不必把文字整理得很完整。
+          </p>
+          <p>
+            这里所能提供的是非实时的文字倾听、陪伴与语言抚慰，不能提供心理治疗、医学诊断或紧急危机干预，也不能替代专业帮助。
+          </p>
+          <p className="contact-safety">
+            如果你已经有伤害自己或他人的打算、正在实施，或无法保证自己此刻安全，请不要等待邮件回复：立即拨打 120、110 或 12356，前往最近的医院急诊，并联系现实中可信的人陪在你身边。
+          </p>
+        </div>
+      </section>
+
       <aside className="site-boundary" aria-labelledby="boundary-title">
         <h2 id="boundary-title">关于本站</h2>
         <p>
           文学与哲学可以陪伴我们理解痛苦，但不能替代精神科诊疗、心理治疗或紧急援助。本站不提供诊断、治疗或全天候危机干预。
-        </p>
-        <p className="resource-note">
-          求助信息适用于中国大陆，页面更新：<time dateTime="2026-08-23">2026 年 8 月 23 日</time>。若你不在中国大陆，请联系所在地的紧急服务或危机干预资源。
         </p>
       </aside>
     </main>

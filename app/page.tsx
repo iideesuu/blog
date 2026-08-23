@@ -48,14 +48,14 @@ export default function HomePage() {
 
             <section className="home-columns" aria-label="最新文章">
               <PostList
-                heading="日记碎片"
-                href="/fragments/"
-                posts={fragments}
-              />
-              <PostList
                 heading="宇宙漫步"
                 href="/cosmic-walk/"
                 posts={cosmicWalk}
+              />
+              <PostList
+                heading="日记碎片"
+                href="/fragments/"
+                posts={fragments}
               />
             </section>
           </div>
