@@ -6,7 +6,7 @@ COPY package.json package-lock.json ./
 RUN npm ci --no-audit --no-fund
 
 COPY . .
-RUN npm run build
+RUN npm run build && cp LICENSE out/LICENSE
 
 FROM node:22-alpine AS runtime
 WORKDIR /app

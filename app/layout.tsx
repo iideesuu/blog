@@ -9,11 +9,7 @@ export const metadata: Metadata = {
     default: "传信予你",
     template: "%s · 传信予你"
   },
-  description: "一个记录生活碎片与宇宙漫步的个人博客。",
-  robots: {
-    index: false,
-    follow: false
-  }
+  description: "一个记录生活碎片与宇宙漫步的个人博客。"
 };
 
 export const viewport: Viewport = {

@@ -69,6 +69,16 @@ if [ ! -f "$staging_directory/.nojekyll" ]; then
   exit 1
 fi
 
+if [ ! -f "$staging_directory/robots.txt" ] || ! cmp -s "$project_directory/public/robots.txt" "$staging_directory/robots.txt"; then
+  printf '%s\n' "导出失败：robots.txt 缺失或与 public/robots.txt 不一致。" >&2
+  exit 1
+fi
+
+if [ ! -f "$staging_directory/LICENSE" ] || ! cmp -s "$project_directory/LICENSE" "$staging_directory/LICENSE"; then
+  printf '%s\n' "导出失败：MIT LICENSE 缺失或与仓库根目录的 LICENSE 不一致。" >&2
+  exit 1
+fi
+
 if [ -L "$release_directory" ]; then
   printf '%s\n' "导出失败：dist 不能是符号链接。" >&2
   exit 1

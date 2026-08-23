@@ -102,7 +102,7 @@ git commit -m "content: update posts"
 git subtree push --prefix dist origin gh-pages
 ```
 
-导出脚本会执行 `docker compose up --build -d`，等待容器健康，再检查 `index.html`、`CNAME` 和 `.nojekyll`；全部成功后才整体替换 `dist/`。因此构建失败时不会误发旧内容，删除或改名的旧文章也不会残留。`git subtree` 只能读取已经提交的内容，所以必须先执行 `git commit`，再执行 `git subtree push`。
+导出脚本会执行 `docker compose up --build -d`，等待容器健康，再检查 `index.html`、`CNAME`、`.nojekyll`、`robots.txt` 和 `LICENSE`；全部成功后才整体替换 `dist/`。因此构建失败时不会误发旧内容，删除或改名的旧文章也不会残留。`git subtree` 只能读取已经提交的内容，所以必须先执行 `git commit`，再执行 `git subtree push`。
 
 这套流程不会切换本地分支，也不会执行 `git push origin main`。不要切换到 `gh-pages` 后手动复制文件，也不要使用 `git push origin main:gh-pages`。如果除文章外还修改了页面、样式或发布脚本，请在提交时一并 `git add` 对应的源文件。
 
@@ -127,6 +127,21 @@ git subtree push --prefix dist origin gh-pages
 自定义域名生效前，通过 `https://iideesuu.github.io/blog/` 预览可能出现资源路径错误；正式访问地址以 `https://blog.deesuu.com/` 为准。
 
 以后发布新内容时，只需要编辑 `content/` 中的 Markdown，然后重复“导出 → 提交 → subtree push”三步。
+
+## 爬虫规则
+
+正常内容页面不输出 `noindex` 或 `nofollow` 元数据；Next.js 生成的 404 错误页会保留框架自动添加的 `noindex`，避免无效地址进入搜索结果。根目录的 `robots.txt` 使用下面的规则，请求遵守 Robots Exclusion Protocol 的爬虫不要访问任何页面：
+
+```text
+User-agent: *
+Disallow: /
+```
+
+`robots.txt` 是公开约定而不是访问控制，不能阻止无视规则的采集程序直接请求公开页面。
+
+## 许可证
+
+本项目采用 [MIT License](./LICENSE)。
 
 ## 本期范围
 
