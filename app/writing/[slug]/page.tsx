@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { formatPostDate, getPostBySlug, posts, sectionConfig } from "@/data/posts";
+import { formatPostDate, getPostBySlug, posts, sectionConfig } from "@/lib/posts";
 
 type PostPageProps = {
   params: Promise<{ slug: string }>;
@@ -48,24 +48,10 @@ export default async function PostPage({ params }: PostPageProps) {
           </div>
         </header>
 
-        <div className="article-body">
-          {post.blocks.map((block, index) => {
-            if (block.type === "heading") {
-              return <h2 key={index}>{block.text}</h2>;
-            }
-
-            if (block.type === "quote") {
-              return (
-                <blockquote key={index}>
-                  <p>{block.text}</p>
-                  {block.cite ? <cite>{block.cite}</cite> : null}
-                </blockquote>
-              );
-            }
-
-            return <p key={index}>{block.text}</p>;
-          })}
-        </div>
+        <div
+          className="article-body"
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
       </article>
 
       <nav className="article-end" aria-label="文章结束后的入口">

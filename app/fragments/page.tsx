@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { PostIndex } from "@/components/PostIndex";
-import { getPostsBySection } from "@/data/posts";
+import { getPostsBySection } from "@/lib/posts";
 
 export const metadata: Metadata = {
   title: "日记碎片"

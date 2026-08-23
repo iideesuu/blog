@@ -2,7 +2,7 @@ import Link from "next/link";
 import { PhilosophyField } from "@/components/PhilosophyField";
 import { PostList } from "@/components/PostList";
 import { WhaleScene } from "@/components/WhaleScene";
-import { getPostsBySection } from "@/data/posts";
+import { getPostsBySection } from "@/lib/posts";
 
 export default function HomePage() {
   const fragments = getPostsBySection("fragments").slice(0, 3);

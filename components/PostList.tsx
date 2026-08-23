@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { formatPostDate, type Post } from "@/data/posts";
+import { formatPostDate, type Post } from "@/lib/posts";
 
 type PostListProps = {
   heading: string;
