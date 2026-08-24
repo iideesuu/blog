@@ -16,7 +16,7 @@ export default function HelpPage() {
         <p className="eyebrow">YOU DO NOT HAVE TO DO THIS ALONE</p>
         <h1>需要帮助</h1>
         <p className="help-lead">
-          如果你正在经历强烈的痛苦，先不用把所有问题想明白。现在只做下一件能让自己更安全的事。
+          你不必一次解决整个人生。先喝一点水，去有人的地方，把感受告诉一个信任的人。只做下一件小事，也算向前。
         </p>
       </header>
 
@@ -34,6 +34,9 @@ export default function HelpPage() {
           <a className="secondary-action" href="tel:110">紧急求助 110</a>
         </div>
         <p className="card-note">危险迫在眉睫时，请拨打 120/110，或直接前往最近的医院急诊。</p>
+        <p className="waiting-guidance">
+          <strong>等待帮助时：</strong>去明亮且有人在的地方，保持电话畅通，做缓慢呼吸，把注意力放在接下来的十分钟。此页不能替代紧急服务。
+        </p>
       </section>
 
       <section className="help-section" aria-labelledby="copy-title">

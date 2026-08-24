@@ -20,12 +20,13 @@
 
 html {
   background: var(--abyss);
+  overflow-x: hidden;
+  overflow-x: clip;
   scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
-  min-width: 320px;
   min-height: 100vh;
   color: var(--text);
   background: #040d13;
@@ -155,6 +156,51 @@ a {
 
 .home-page {
   min-height: calc(100svh - 4.25rem);
+}
+
+.home-manifesto {
+  width: min(1040px, calc(100% - 3rem));
+  margin-inline: auto;
+  padding-bottom: clamp(2.75rem, 5vw, 4rem);
+}
+
+.home-manifesto h2 {
+  width: 100%;
+  margin: 0;
+  padding: clamp(1.25rem, 3.5vw, 2.25rem) clamp(1.1rem, 4vw, 2.75rem);
+  color: #e1eaec;
+  background: linear-gradient(135deg, rgba(15, 57, 71, 0.88), rgba(7, 29, 40, 0.9));
+  border: 1px solid rgba(134, 185, 195, 0.36);
+  border-left: 3px solid rgba(134, 185, 195, 0.82);
+  box-shadow: 0 20px 55px rgba(0, 5, 10, 0.2);
+  font-family: var(--serif);
+  font-size: clamp(1.25rem, 2.4vw, 2rem);
+  font-weight: 400;
+  letter-spacing: 0.035em;
+  line-height: 1.62;
+  overflow-wrap: anywhere;
+  text-align: left;
+}
+
+.home-manifesto-copy {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  min-width: 0;
+  margin-inline: auto;
+}
+
+.home-manifesto-line {
+  display: block;
+  min-width: 0;
+}
+
+.home-manifesto-line + .home-manifesto-line {
+  margin-top: 0.35em;
+}
+
+.home-manifesto-line-offset {
+  padding-inline-start: clamp(1.75rem, 6vw, 5rem);
 }
 
 .home-stage {
@@ -595,6 +641,12 @@ a {
   padding-block: clamp(5rem, 10vw, 9rem) 7rem;
 }
 
+.article-page > article,
+.article-body {
+  min-width: 0;
+  max-width: 100%;
+}
+
 .article-heading {
   margin-bottom: 4rem;
 }
@@ -616,6 +668,7 @@ a {
   font-weight: 500;
   letter-spacing: 0.035em;
   line-height: 1.3;
+  overflow-wrap: anywhere;
 }
 
 .article-meta {
@@ -638,6 +691,7 @@ a {
   font-family: var(--serif);
   font-size: clamp(1.05rem, 2vw, 1.16rem);
   line-height: 1.95;
+  overflow-wrap: anywhere;
 }
 
 .article-body p {
@@ -740,6 +794,59 @@ a {
   font-family: var(--sans);
   font-size: 0.72rem;
   font-style: normal;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body {
+  font-size: clamp(1rem, 1.3vw, 1.06rem);
+  line-height: 1.8;
+}
+
+.article-page[data-section="cosmic-walk"] .article-heading {
+  margin-bottom: 3.25rem;
+}
+
+.article-page[data-section="cosmic-walk"] .article-heading h1 {
+  font-size: clamp(2.15rem, 5vw, 3.5rem);
+}
+
+.article-page[data-section="cosmic-walk"] .article-body p {
+  margin-bottom: 1.35rem;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body h1 {
+  margin: 3.4rem 0 1.15rem;
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 1.8rem);
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body h2 {
+  margin: 2.8rem 0 1rem;
+  font-size: 1.35rem;
+  line-height: 1.5;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body h3 {
+  margin: 2.1rem 0 0.8rem;
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body ul,
+.article-page[data-section="cosmic-walk"] .article-body ol {
+  margin-bottom: 1.45rem;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body blockquote {
+  margin-block: 2rem;
+  padding: 1rem 0 1rem 1.2rem;
+}
+
+.article-page[data-section="cosmic-walk"] .article-body blockquote p {
+  margin: 0;
+  font-size: 1em;
 }
 
 .article-end {
@@ -855,6 +962,20 @@ a {
   color: #b9cdd2;
   font-size: 0.85rem;
   line-height: 1.7;
+}
+
+.waiting-guidance {
+  margin: 1.3rem 0 0;
+  padding-top: 1.15rem;
+  color: #d8e5e7;
+  border-top: 1px solid var(--line);
+  font-size: 0.92rem;
+  line-height: 1.8;
+}
+
+.waiting-guidance strong {
+  color: var(--text);
+  font-weight: 600;
 }
 
 .help-section {
@@ -981,18 +1102,31 @@ a {
 .site-footer {
   display: flex;
   align-items: center;
+  flex-direction: column;
   justify-content: center;
-  gap: 2rem;
+  gap: 0.3rem;
   padding-block: 2.2rem;
-  color: #829fa9;
   font-family: var(--serif);
-  font-size: 0.76rem;
   text-align: center;
   border-top: 1px solid rgba(173, 205, 214, 0.12);
 }
 
 .site-footer p {
   margin: 0;
+}
+
+.site-footer-wish {
+  color: #9db2b8;
+  font-size: 0.8rem;
+  letter-spacing: 0.035em;
+  line-height: 1.8;
+}
+
+.site-footer-copyright {
+  color: #718c95;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  line-height: 1.7;
 }
 
 .site-footer.page-width {
@@ -1136,10 +1270,12 @@ a {
   .article-page,
   .not-found {
     width: min(780px, calc(100% - 2rem));
+    padding-inline: clamp(1.25rem, calc(7vw - 1.2rem), 3rem);
   }
 
   .help-page {
     width: min(920px, calc(100% - 2rem));
+    padding-inline: clamp(1.25rem, calc(7vw - 1.2rem), 3rem);
   }
 
   .site-footer.page-width {
@@ -1151,6 +1287,19 @@ a {
     gap: 2.5rem;
     width: min(840px, calc(100% - 2rem));
     padding-block: 1.75rem 5rem;
+  }
+
+  .home-manifesto {
+    width: min(30rem, calc(100% - 2rem));
+  }
+
+  .home-manifesto h2 {
+    padding-inline: clamp(1rem, 3vw, 1.5rem);
+    font-size: clamp(1.15rem, 2vw, 1.25rem);
+  }
+
+  .home-manifesto-line-offset {
+    padding-inline-start: clamp(1.25rem, 4vw, 2.25rem);
   }
 
   .hero,
@@ -1258,6 +1407,23 @@ a {
 }
 
 @media (max-width: 560px) {
+  .section-page,
+  .article-page,
+  .help-page,
+  .not-found {
+    width: calc(100% - 1rem);
+    padding: 2.5rem 1.25rem 3.5rem;
+  }
+
+  .article-page[data-section="cosmic-walk"] .article-heading {
+    margin-bottom: 2.5rem;
+  }
+
+  .article-page[data-section="cosmic-walk"] .article-heading h1 {
+    font-size: clamp(1.8rem, 8vw, 2.15rem);
+    line-height: 1.35;
+  }
+
   .article-page[data-section="fragments"] {
     padding: 2.5rem 1.25rem 3rem;
   }
@@ -1284,7 +1450,7 @@ a {
 
   .site-header-inner {
     flex-wrap: wrap;
-    width: calc(100% - 2rem);
+    width: calc(100% - 1rem);
     min-height: 4rem;
     gap: 0.35rem;
     padding-block: 0.35rem;
@@ -1310,7 +1476,22 @@ a {
   }
 
   .home-stage {
-    width: calc(100% - 2rem);
+    width: calc(100% - 1rem);
+  }
+
+  .home-manifesto {
+    width: min(30rem, calc(100% - 1rem));
+  }
+
+  .home-manifesto h2 {
+    padding: 1.15rem 0.75rem;
+    font-size: clamp(1rem, 4.6vw, 1.3rem);
+    letter-spacing: 0.02em;
+    line-height: 1.7;
+  }
+
+  .home-manifesto-line-offset {
+    padding-inline-start: clamp(0.35rem, 3vw, 1.1rem);
   }
 
   .hero {

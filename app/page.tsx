@@ -61,6 +61,17 @@ export default function HomePage() {
           </div>
         </div>
       </div>
+
+      <section className="home-manifesto" aria-labelledby="home-manifesto-title">
+        <h2 id="home-manifesto-title">
+          <span className="home-manifesto-copy">
+            <span className="home-manifesto-line">活着不是一场必须完美完成的考试。</span>
+            <span className="home-manifesto-line home-manifesto-line-offset">
+              今天能够来到这里，就已经很勇敢。
+            </span>
+          </span>
+        </h2>
+      </section>
     </main>
   );
 }
