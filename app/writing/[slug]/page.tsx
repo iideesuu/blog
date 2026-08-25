@@ -48,6 +48,21 @@ export default async function PostPage({ params }: PostPageProps) {
           </div>
         </header>
 
+        {post.tableOfContents.length > 0 ? (
+          <nav className="article-toc" aria-label="文章目录">
+            <details>
+              <summary>目录</summary>
+              <ol>
+                {post.tableOfContents.map((item) => (
+                  <li key={item.id} data-depth={item.depth}>
+                    <a href={`#${item.id}`}>{item.title}</a>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          </nav>
+        ) : null}
+
         <div
           className="article-body"
           dangerouslySetInnerHTML={{ __html: post.html }}

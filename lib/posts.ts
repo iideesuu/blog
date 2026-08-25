@@ -1,7 +1,10 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
+import GithubSlugger from "github-slugger";
+import type { Heading, Root } from "mdast";
 import { remark } from "remark";
+import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 
 export const sectionConfig = {
@@ -24,6 +27,13 @@ export type Post = {
   date: string;
   demo: boolean;
   html: string;
+  tableOfContents: TableOfContentsItem[];
+};
+
+export type TableOfContentsItem = {
+  id: string;
+  title: string;
+  depth: number;
 };
 
 type LoadedPost = Post & {
@@ -35,6 +45,7 @@ const contentRoot = path.join(process.cwd(), "content");
 const sections = Object.keys(sectionConfig) as Section[];
 const slugPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+const sanitizedHeadingIdPrefix = "user-content-";
 
 function sourceLabel(sourcePath: string) {
   return path.relative(process.cwd(), sourcePath);
@@ -83,13 +94,72 @@ function readBoolean(value: unknown, fallback: boolean, field: string, sourcePat
   return value;
 }
 
+function nodeText(node: unknown): string {
+  if (!node || typeof node !== "object") {
+    return "";
+  }
+
+  if ("value" in node && typeof node.value === "string") {
+    return node.value;
+  }
+
+  if ("alt" in node && typeof node.alt === "string") {
+    return node.alt;
+  }
+
+  if ("children" in node && Array.isArray(node.children)) {
+    return node.children.map(nodeText).join("");
+  }
+
+  return "";
+}
+
+function addHeadingAnchors(tableOfContents: TableOfContentsItem[]) {
+  return (tree: Root) => {
+    const slugger = new GithubSlugger();
+
+    for (const node of tree.children) {
+      if (node.type !== "heading") {
+        continue;
+      }
+
+      const heading = node as Heading;
+      const title = nodeText(heading).trim();
+      const id = slugger.slug(title || "section");
+
+      heading.data = {
+        ...heading.data,
+        hProperties: {
+          ...heading.data?.hProperties,
+          id
+        }
+      };
+
+      if (heading.depth === 2) {
+        // remark-html 的默认安全规则会给 id 加此前缀，目录必须指向最终输出的值。
+        tableOfContents.push({
+          id: `${sanitizedHeadingIdPrefix}${id}`,
+          title,
+          depth: heading.depth
+        });
+      }
+    }
+  };
+}
+
 function renderMarkdown(markdown: string, sourcePath: string) {
+  const tableOfContents: TableOfContentsItem[] = [];
+
   try {
-    return String(
+    const html = String(
       remark()
+        .use(remarkGfm)
+        .use(() => addHeadingAnchors(tableOfContents))
         .use(remarkHtml, { allowDangerousHtml: false })
         .processSync(markdown)
     );
+
+    return { html, tableOfContents };
   } catch (error) {
     const reason = error instanceof Error ? error.message : String(error);
     contentError(sourcePath, `Markdown 正文无法解析：${reason}`);
@@ -119,6 +189,8 @@ function readPost(section: Section, fileName: string): LoadedPost {
     contentError(sourcePath, "准备发布的文章不能没有正文；未完成时可设置 draft: true。");
   }
 
+  const rendered = renderMarkdown(parsed.content, sourcePath);
+
   return {
     slug,
     section,
@@ -126,7 +198,8 @@ function readPost(section: Section, fileName: string): LoadedPost {
     date: readDate(parsed.data.date, sourcePath),
     draft,
     demo,
-    html: renderMarkdown(parsed.content, sourcePath),
+    html: rendered.html,
+    tableOfContents: rendered.tableOfContents,
     sourcePath
   };
 }
@@ -158,13 +231,14 @@ function loadPosts(): Post[] {
 
   return loadedPosts
     .filter((post) => !post.draft)
-    .map(({ slug, section, title, date, demo, html }) => ({
+    .map(({ slug, section, title, date, demo, html, tableOfContents }) => ({
       slug,
       section,
       title,
       date,
       demo,
-      html
+      html,
+      tableOfContents
     }))
     .sort((a, b) => b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug));
 }

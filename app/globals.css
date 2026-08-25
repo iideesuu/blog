@@ -77,11 +77,15 @@ a {
   color: var(--abyss);
   background: var(--whale);
   border-radius: 0.25rem;
+  opacity: 0;
+  pointer-events: none;
   transform: translateY(-160%);
-  transition: transform 160ms ease;
+  transition: opacity 160ms ease, transform 160ms ease;
 }
 
 .skip-link:focus {
+  opacity: 1;
+  pointer-events: auto;
   transform: translateY(0);
 }
 
@@ -686,6 +690,48 @@ a {
   border-left: 1px solid var(--line);
 }
 
+.article-toc {
+  margin: -1rem 0 3.5rem;
+  border-block: 1px solid var(--line);
+  font-family: var(--sans);
+}
+
+.article-toc summary {
+  min-height: 2.75rem;
+  padding: 0.8rem 0;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+}
+
+.article-toc summary::marker {
+  color: var(--whale);
+}
+
+.article-toc ol {
+  margin: 0;
+  padding: 0.25rem 0 1.25rem 1.4rem;
+}
+
+.article-toc li + li {
+  margin-top: 0.65rem;
+}
+
+.article-toc a {
+  color: var(--text);
+  font-family: var(--serif);
+  line-height: 1.55;
+  text-decoration: underline;
+  text-decoration-color: rgba(221, 232, 232, 0.32);
+  text-underline-offset: 0.22rem;
+}
+
+.article-toc a:hover,
+.article-toc a:focus-visible {
+  text-decoration-color: currentColor;
+}
+
 .article-body {
   color: #dce7e9;
   font-family: var(--serif);
@@ -711,6 +757,18 @@ a {
   color: var(--text);
   font-size: 1.2rem;
   font-weight: 500;
+}
+
+.article-body h4 {
+  margin: 1.8rem 0 0.7rem;
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.article-body :is(h2, h3, h4) {
+  scroll-margin-top: 2rem;
 }
 
 .article-body ul,
@@ -768,6 +826,33 @@ a {
   background: transparent;
 }
 
+.article-body table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 2.2rem 0;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  line-height: 1.6;
+  -webkit-overflow-scrolling: touch;
+}
+
+.article-body th,
+.article-body td {
+  min-width: 8rem;
+  padding: 0.7rem 0.8rem;
+  border: 1px solid var(--line);
+  vertical-align: top;
+}
+
+.article-body th {
+  color: var(--text);
+  background: var(--layer-soft);
+  font-weight: 600;
+}
+
 .article-body img {
   display: block;
   max-width: 100%;
@@ -813,7 +898,7 @@ a {
   margin-bottom: 1.35rem;
 }
 
-.article-page[data-section="cosmic-walk"] .article-body h1 {
+.article-page[data-section="cosmic-walk"] .article-body h2 {
   margin: 3.4rem 0 1.15rem;
   color: var(--text);
   font-family: var(--serif);
@@ -822,13 +907,13 @@ a {
   line-height: 1.45;
 }
 
-.article-page[data-section="cosmic-walk"] .article-body h2 {
+.article-page[data-section="cosmic-walk"] .article-body h3 {
   margin: 2.8rem 0 1rem;
   font-size: 1.35rem;
   line-height: 1.5;
 }
 
-.article-page[data-section="cosmic-walk"] .article-body h3 {
+.article-page[data-section="cosmic-walk"] .article-body h4 {
   margin: 2.1rem 0 0.8rem;
   font-size: 1.08rem;
   line-height: 1.55;
@@ -1417,6 +1502,10 @@ a {
 
   .article-page[data-section="cosmic-walk"] .article-heading {
     margin-bottom: 2.5rem;
+  }
+
+  .article-toc {
+    margin-bottom: 2.75rem;
   }
 
   .article-page[data-section="cosmic-walk"] .article-heading h1 {
