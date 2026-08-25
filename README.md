@@ -1,6 +1,6 @@
 # 传信予你
 
-这是一个以深海蓝与《白鲸》为视觉底色的 React 博客 Demo。首页采用响应式双联页布局：左页是取自小说特征的抹香鲸海事蚀刻画与多语言思想语录，右页是一扇窄幅阅读窗；首期只包含两个内容栏目和一个独立帮助页面。文章使用 Markdown 写作，构建与静态文件服务都在容器中运行。
+这是一个以深海蓝与《白鲸》为视觉底色的 React 博客。首页采用响应式双联页布局：左页是取自小说特征的抹香鲸海事蚀刻画与多语言思想语录，右页是一扇窄幅阅读窗。文章使用 Markdown 写作，构建与静态文件服务都在容器中运行。
 
 ## 本地运行
 
@@ -81,7 +81,7 @@ draft: false
 仓库已经预置：
 
 ```text
-public/CNAME       # 自定义域名：blog.deesuu.com
+public/CNAME
 public/.nojekyll   # 避免 GitHub Pages 忽略 _next 资源
 ```
 
@@ -116,16 +116,6 @@ git subtree push --prefix dist origin gh-pages
 4. Custom domain 填写 `blog.deesuu.com`。
 5. DNS 生效后启用 **Enforce HTTPS**。
 
-在域名服务商处添加下面的 DNS 记录：
-
-```text
-类型：CNAME
-主机记录：blog
-目标：iideesuu.github.io
-```
-
-自定义域名生效前，通过 `https://iideesuu.github.io/blog/` 预览可能出现资源路径错误；正式访问地址以 `https://blog.deesuu.com/` 为准。
-
 以后发布新内容时，只需要编辑 `content/` 中的 Markdown，然后重复“导出 → 提交 → subtree push”三步。
 
 ## 爬虫规则
@@ -143,13 +133,24 @@ Disallow: /
 
 本项目采用 [MIT License](./LICENSE)。
 
-## 本期范围
+### TODO
 
-- 响应式双联页首页、原创 Moby Dick 蚀刻 SVG 与多语言哲学语录轨道
-- 日记碎片、宇宙漫步两个栏目
-- Markdown 文章工作流、正文模板与少量版式示例
-- Docker 静态导出、Git subtree 与 GitHub Pages 发布流程
-- 独立的需要帮助页面
-- 桌面端、移动端和减少动态效果适配
+1. 立即处理两个实际问题
+    - robots.txt 当前是 Disallow: /，会禁止搜索引擎抓取全站。如果不是故意隐藏网站，这是最高优先级。
+    - 两篇哲学长文的 Markdown 表格没有渲染，直接显示了 |---| 等源码。应启用 GFM 表格或转成 HTML 表格，并给移动端增加横向滚动。
 
-文章正文目前是用于验证版式的占位内容，不从私人聊天记录直接发布。RSS、搜索与其他内容能力留在后续阶段。
+2. 给哲学长文增加“阅读路径”
+    建议增加：
+    - 可折叠目录和标题锚点
+    - 全文只保留文章标题一个 h1，各“编”降为 h2
+    - 上一篇、下一篇和相关阅读
+
+3. 完善内容发现与 SEO
+    目前缺少 sitemap、RSS、canonical、OG/Twitter 分享卡片和结构化数据；文章也共用通用描述。建议依次补：
+    - 每篇独立的摘要和较短的title
+    - canonical，避免 /index.html 等重复地址
+    - Open Graph 分享图
+    - sitemap.xml 和 RSS
+    - BlogPosting 结构化数据
+
+4. 修正移动页面下拉网页最上方有白色跳转图框
