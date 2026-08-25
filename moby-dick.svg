@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 650" fill="none">
   <defs>
-    <path id="moby-body" d="M119 181C89 190 73 213 71 246L67 320C64 355 86 379 126 394C236 434 357 468 503 472C654 476 783 452 878 416C949 389 1007 361 1062 346C1099 336 1136 331 1170 327L1173 289C1107 285 1054 274 1001 253C958 236 923 220 895 214C884 203 876 187 864 174C853 184 847 196 839 203C723 157 577 125 397 135C278 141 176 156 119 181Z"/>
+    <path id="moby-body" d="M119 181C89 190 73 213 71 246L67 320C64 355 86 379 126 394C236 434 357 468 503 472C654 476 783 452 878 416C949 389 1007 361 1062 346C1101 335 1135 329 1156 325C1177 336 1201 351 1225 367C1246 378 1263 383 1283 382C1275 365 1262 347 1244 328C1235 320 1226 314 1218 309C1224 304 1231 299 1238 293C1260 276 1272 253 1281 232C1259 229 1245 236 1228 253C1208 273 1185 288 1158 296C1099 288 1053 274 1001 253C958 236 923 220 896 214C885 208 878 201 872 194C869 190 866 189 863 192C856 199 849 202 839 203C723 157 577 125 397 135C278 141 176 156 119 181Z"/>
     <clipPath id="moby-clip">
       <use href="#moby-body"/>
     </clipPath>
@@ -23,13 +23,10 @@
   </g>
 
   <g>
-    <path d="M1157 291C1201 261 1263 238 1327 246C1304 277 1264 298 1219 311C1197 309 1175 302 1157 291Z" fill="#a6b2b0" fill-opacity=".38" stroke="#c8d2d0" stroke-opacity=".72" stroke-width="1.45" vector-effect="non-scaling-stroke"/>
-    <path d="M1158 310C1210 321 1282 350 1341 394C1274 403 1210 374 1155 332C1149 323 1150 316 1158 310Z" fill="#839493" fill-opacity=".54" stroke="#c8d2d0" stroke-opacity=".78" stroke-width="1.6" vector-effect="non-scaling-stroke"/>
-    <path d="M1163 294C1211 273 1261 253 1310 253M1163 316C1222 328 1273 350 1319 382M1219 311C1246 294 1267 275 1281 254" stroke="#405963" stroke-opacity=".55" stroke-width="1" vector-effect="non-scaling-stroke"/>
-
     <use href="#moby-body" fill="#aebbb9" fill-opacity=".62"/>
     <g clip-path="url(#moby-clip)">
       <rect x="52" y="116" width="1130" height="370" fill="url(#hatch-primary)"/>
+      <path d="M1162 297C1191 289 1213 275 1232 257C1248 242 1263 234 1278 235C1268 254 1257 273 1238 289C1228 297 1221 303 1218 309C1201 302 1183 299 1162 297Z" fill="#eef1eb" fill-opacity=".15"/>
       <path d="M59 314C178 338 318 362 456 350C579 339 690 295 811 283C924 272 1021 299 1156 311L1189 508H35Z" fill="#334d58" fill-opacity=".2"/>
       <path d="M55 321C208 357 358 389 516 383C654 378 768 337 884 328C992 319 1075 338 1182 349L1189 490H41Z" fill="url(#hatch-cross)" opacity=".72"/>
 
@@ -37,7 +34,7 @@
       <path d="M92 183C178 146 281 143 390 137C336 169 298 211 282 261C240 235 178 217 92 228Z" fill="#f0f1e9" fill-opacity=".2"/>
       <path d="M348 143C431 131 519 136 604 148C566 180 541 221 535 268C478 234 424 206 348 193Z" fill="#e9ebe4" fill-opacity=".17"/>
       <path d="M568 148C658 157 746 176 839 204C803 229 772 262 753 302C694 266 632 240 565 221Z" fill="#edf0e9" fill-opacity=".13"/>
-      <path d="M839 203C849 194 856 183 864 174C876 186 884 202 895 214L883 239C864 232 850 220 839 203Z" fill="#eff1ea" fill-opacity=".64"/>
+      <path d="M845 204C858 208 875 212 891 212" stroke="#526b73" stroke-opacity=".3" stroke-width="1" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
       <path d="M739 371C814 337 890 317 963 315C921 349 894 382 872 417C820 438 770 450 713 459Z" fill="#dde2dc" fill-opacity=".16"/>
 
       <path d="M121 200C113 244 112 286 122 329M151 181C137 225 136 277 147 339M184 170C168 221 169 280 180 347M219 162C205 215 205 275 214 352M254 154C243 211 242 272 249 359M291 148C284 204 283 268 286 365M328 143C324 201 323 265 323 369" stroke="#425c65" stroke-opacity=".5" stroke-width="1.05" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
@@ -51,14 +48,16 @@
     </g>
 
     <use href="#moby-body" stroke="#d4dcda" stroke-opacity=".9" stroke-width="1.9" vector-effect="non-scaling-stroke"/>
-    <path d="M68 318C168 342 302 360 448 340C410 371 302 383 177 369C117 362 79 345 68 318Z" fill="#859796" fill-opacity=".68" stroke="#c8d2cf" stroke-opacity=".78" stroke-width="1.45" vector-effect="non-scaling-stroke"/>
-    <path d="M70 325C181 348 315 359 448 340" stroke="#2b444e" stroke-opacity=".78" stroke-width="1.35" vector-effect="non-scaling-stroke"/>
+    <path d="M1169 307C1188 305 1204 306 1218 309C1244 328 1263 350 1274 371" stroke="#405963" stroke-opacity=".5" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <path d="M68 318C170 329 306 337 448 340C410 364 302 375 178 367C117 360 79 342 68 318Z" fill="#859796" fill-opacity=".68" stroke="#c8d2cf" stroke-opacity=".78" stroke-width="1.45" vector-effect="non-scaling-stroke"/>
+    <path d="M82 324C177 334 306 340 432 338C338 348 203 347 101 336C91 333 85 329 82 324Z" fill="#203944" fill-opacity=".48"/>
+    <g stroke="#dce2dd" stroke-opacity=".68" stroke-width="1.2" stroke-linecap="round" vector-effect="non-scaling-stroke">
+      <path d="M145 331L146 339M177 333L177 341M212 335L211 343M250 336L251 344M289 337L288 346M329 338L330 345M369 339L368 346"/>
+    </g>
+    <path d="M70 324C181 334 315 339 448 340" stroke="#2b444e" stroke-opacity=".84" stroke-width="1.35" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
     <path d="M493 374C522 398 564 416 614 419C584 386 554 365 513 353Z" fill="#657d82" fill-opacity=".7" stroke="#c2cdcb" stroke-opacity=".62" stroke-width="1.35" vector-effect="non-scaling-stroke"/>
     <path d="M509 368C537 388 563 399 590 405M525 362C545 380 561 392 574 405" stroke="#283f48" stroke-opacity=".52" stroke-width=".9" vector-effect="non-scaling-stroke"/>
 
-    <g stroke="#334d57" stroke-opacity=".64" stroke-width=".85" vector-effect="non-scaling-stroke">
-      <path d="M158 344L160 354M181 348L183 358M205 350L207 360M231 352L233 362M258 353L260 363M286 352L288 362M316 349L318 359M347 346L349 356"/>
-    </g>
     <path d="M81 230C92 223 102 222 113 226" stroke="#263e48" stroke-opacity=".72" stroke-width="1.5" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
     <circle cx="425" cy="318" r="3.2" fill="#071117" stroke="#dbe1de" stroke-opacity=".8" stroke-width="1" vector-effect="non-scaling-stroke"/>
     <path d="M405 309C419 303 433 305 443 313" stroke="#354f58" stroke-opacity=".8" stroke-width="1" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
