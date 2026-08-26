@@ -1,2 +1,12 @@
+# 只允许常规搜索引擎抓取公开页面。
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Baiduspider
+User-agent: DuckDuckBot
+User-agent: Sogou web spider
+User-agent: 360Spider
+Allow: /
+
+# 其他自动化客户端声明不允许抓取。
 User-agent: *
 Disallow: /
