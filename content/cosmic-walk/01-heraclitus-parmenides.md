@@ -1,5 +1,6 @@
 ---
 title: "赫拉克利特与巴门尼德：流变、逻各斯与“存在”的诞生"
+author: "iideesuu"
 date: "2026-08-22"
 draft: false
 ---

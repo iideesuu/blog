@@ -1,5 +1,6 @@
 ---
 title: "苏格拉底、柏拉图与亚里士多德：从灵魂审问到理念与实体的古典哲学体系"
+author: "iideesuu"
 date: "2026-08-23"
 draft: false
 ---
