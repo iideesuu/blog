@@ -45,6 +45,7 @@ content/
 ```md
 ---
 title: "一个雨夜"
+author: "iideesuu"
 date: "2026-08-24"
 draft: false
 ---
@@ -61,7 +62,8 @@ draft: false
 - 文件所在目录决定栏目，不需要另外填写栏目名称。
 - 文件名决定文章地址：`a-rainy-night.md` 会生成 `/writing/a-rainy-night/`。
 - 两个栏目不能使用相同的文件名。
-- `title` 和 `date` 必填；日期使用 `YYYY-MM-DD` 格式并保留引号。
+- `title`、`author` 和 `date` 必填；日期使用 `YYYY-MM-DD` 格式并保留引号。
+- `author` 是文章公开署名，也会写入页面的作者 metadata；现有文章使用 `iideesuu`，新文章请填写你希望公开显示的署名。
 - `draft: true` 表示草稿，不会出现在首页、栏目或文章页面；准备发布时改成 `false`。
 - `demo: true` 只用于现有示例文章，正式文章不需要填写。
 - Markdown 原始文件不会直接公开；构建会把已发布文章转换成静态 HTML。
@@ -120,33 +122,27 @@ git subtree push --prefix dist origin gh-pages
 
 ## 爬虫规则
 
-正常内容页面不输出 `noindex` 或 `nofollow` 元数据；Next.js 生成的 404 错误页会保留框架自动添加的 `noindex`，避免无效地址进入搜索结果。根目录的 `robots.txt` 使用下面的规则，请求遵守 Robots Exclusion Protocol 的爬虫不要访问任何页面：
+正常内容页面不输出 `noindex` 或 `nofollow` 元数据；Next.js 生成的 404 错误页会保留框架自动添加的 `noindex`，避免无效地址进入搜索结果。
+
+根目录的 `robots.txt` 采用允许名单：Google、Bing、百度、DuckDuckGo、搜狗和 360 等常规搜索引擎可以抓取，未列出的自动化客户端会看到“不允许抓取”的声明。它只对遵守 Robots Exclusion Protocol 的客户端有效；User-Agent 可以伪造，因此不能把它当成访问控制。需要真正阻断恶意采集时，仍需在服务器、CDN 或 WAF 层做限速和封禁。
 
 ```text
+# 常规搜索引擎
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Baiduspider
+User-agent: DuckDuckBot
+User-agent: Sogou web spider
+User-agent: 360Spider
+Allow: /
+
+# 其他自动化客户端声明不允许抓取
 User-agent: *
 Disallow: /
 ```
 
-`robots.txt` 是公开约定而不是访问控制，不能阻止无视规则的采集程序直接请求公开页面。
+文章 front matter 中的 `author` 会同时显示在文章页，并写入该文章的 metadata；这有助于搜索结果理解内容归属，但不会阻止抓取。
 
 ## 许可证
 
 本项目采用 [MIT License](./LICENSE)。
-
-### TODO
-
-已完成：
-
-- [x] 启用 GFM 表格，并为窄屏表格增加横向滚动。
-- [x] 规范哲学长文的标题层级，为标题生成稳定锚点，并增加轻量可折叠目录。
-- [x] 修复移动页面顶部下拉时露出浅色跳转框的问题，同时保留键盘和屏幕阅读器使用的“跳到主要内容”入口。
-
-后续先决定：
-
-1. 是否允许搜索引擎收录。`robots.txt` 当前是 `Disallow: /`；如果这是有意的低曝光策略则保持不变，如果希望公开搜索发现，则先开放抓取。
-2. 确认公开收录后，再依次补充每篇独立摘要和短 SEO 标题、canonical 与 `sitemap.xml`。
-
-暂缓：
-
-- 上一篇、下一篇和相关阅读。
-- 逐篇 Open Graph 分享图、RSS、Twitter 专属字段与 `BlogPosting` 结构化数据。

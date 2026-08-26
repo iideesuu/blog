@@ -22,7 +22,8 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
   }
 
   return {
-    title: post.title
+    title: post.title,
+    authors: [{ name: post.author }]
   };
 }
 
@@ -44,6 +45,7 @@ export default async function PostPage({ params }: PostPageProps) {
           <h1>{post.title}</h1>
           <div className="article-meta">
             <time dateTime={post.date}>{formatPostDate(post.date)}</time>
+            <span>作者：{post.author}</span>
             {post.demo ? <span>Demo 示例文本</span> : null}
           </div>
         </header>

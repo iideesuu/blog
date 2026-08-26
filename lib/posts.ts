@@ -24,6 +24,7 @@ export type Post = {
   slug: string;
   section: Section;
   title: string;
+  author: string;
   date: string;
   demo: boolean;
   html: string;
@@ -58,6 +59,14 @@ function contentError(sourcePath: string, message: string): never {
 function readTitle(value: unknown, sourcePath: string) {
   if (typeof value !== "string" || value.trim().length === 0) {
     contentError(sourcePath, "front matter 中必须填写非空的 title。");
+  }
+
+  return value.trim();
+}
+
+function readAuthor(value: unknown, sourcePath: string) {
+  if (typeof value !== "string" || value.trim().length === 0) {
+    contentError(sourcePath, "front matter 中必须填写非空的 author。");
   }
 
   return value.trim();
@@ -195,6 +204,7 @@ function readPost(section: Section, fileName: string): LoadedPost {
     slug,
     section,
     title: readTitle(parsed.data.title, sourcePath),
+    author: readAuthor(parsed.data.author, sourcePath),
     date: readDate(parsed.data.date, sourcePath),
     draft,
     demo,
@@ -231,10 +241,11 @@ function loadPosts(): Post[] {
 
   return loadedPosts
     .filter((post) => !post.draft)
-    .map(({ slug, section, title, date, demo, html, tableOfContents }) => ({
+    .map(({ slug, section, title, author, date, demo, html, tableOfContents }) => ({
       slug,
       section,
       title,
+      author,
       date,
       demo,
       html,
