@@ -1,0 +1,1695 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","851","static/chunks/app/writing/%5Bslug%5D/page-f97a96b85b5a8f7c.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/28fb2a6b41a5e453.css","style"]
+0:{"P":null,"b":"L5EblGbjavMmm1CIlZf5L","p":"","c":["","writing","03-augustine-aquinas",""],"i":false,"f":[[["",{"children":["writing",{"children":[["slug","03-augustine-aquinas","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28fb2a6b41a5e453.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳到主要内容"}],["$","div",null,{"className":"site-shell","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header-inner page-width","children":[["$","$L2",null,{"className":"wordmark","href":"/","aria-label":"传信予你，返回首页","children":"传信予你"}],["$","nav",null,{"className":"site-nav","aria-label":"主要导航","children":[["$","$L2","/cosmic-walk/",{"className":"nav-link","href":"/cosmic-walk/","children":"宇宙漫步"}],["$","$L2","/fragments/",{"className":"nav-link","href":"/fragments/","children":"日记碎片"}],["$","$L2","/help/",{"className":"nav-link nav-help","href":"/help/","children":"需要帮助"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main-content","className":"not-found page-width","children":[["$","p",null,{"className":"eyebrow","children":"404 · LOST AT SEA"}],["$","h1",null,{"children":"这里没有找到文字"}],["$","p",null,{"children":"这条航线暂时没有留下记录。"}],["$","$L2",null,{"className":"text-link","href":"/","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer page-width","children":[["$","p",null,{"className":"site-footer-wish","children":"愿你在这里，找到继续走一小步的理由。"}],["$","p",null,{"className":"site-footer-copyright","children":"© 2026 传信予你"}]]}]]}]]}]}]]}],{"children":["writing",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","03-augustine-aquinas","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T16e5b,<blockquote>
+<p>一份结合拉丁原文、英文译文与中文直译的中世纪哲学研究笔记<br>
+主题：信仰与理性、知识、神、创造、恶、自由、时间、灵魂、伦理、政治及后世影响</p>
+</blockquote>
+<h3 id="user-content-摘要">摘要</h3>
+<p>奥古斯丁与托马斯·阿奎那分别代表拉丁基督教哲学的两个决定性阶段：</p>
+<ul>
+<li>**奥古斯丁（Augustinus，354—430）**身处晚期罗马帝国，严格说并非典型“中世纪人”，却为此后一千年的拉丁思想奠定了问题框架。他把新柏拉图主义的内在上升、不变真理和恶之匮乏，与创造、道成肉身、恩典、原罪和线性历史结合起来；其对怀疑、记忆、意志、时间、爱与两座城的分析深刻塑造了西方主体性和历史意识。</li>
+<li>**托马斯·阿奎那（Thomas Aquinas，约1224/1225—1274）**处在十三世纪大学、翻译运动和亚里士多德全面回归的语境中。他吸收亚里士多德、阿维森纳、阿威罗伊、迈蒙尼德与伪狄奥尼修斯，建立信仰—理性、存在—本质、潜能—现实、自然—恩典、永恒法—自然法之间的系统联系。</li>
+</ul>
+<p>二人的共同目标并不是“用信仰取消哲学”，而是说明：</p>
+<ol>
+<li>人类理性能够凭自身认识什么；</li>
+<li>理性为何仍需要超越自身的真理与终向；</li>
+<li>一个全善的创造者与恶、自由和苦难如何并存；</li>
+<li>受造物为何拥有真实的自然、因果能力和道德责任；</li>
+<li>有限心灵如何与永恒、真理和神发生关系。</li>
+</ol>
+<p>二人的方法和重心存在显著差异：</p>
+<blockquote>
+<p>奥古斯丁主要沿着“由外而内、由内而上”的道路，从心灵的确定性、记忆、意志和永恒真理上升至神；<br>
+阿奎那主要从感觉经验、受造物的变化和因果出发，经抽象、证明和形而上学分析上升至第一原则。</p>
+</blockquote>
+<p>这种差异不能简化成“柏拉图主义对亚里士多德主义”。奥古斯丁对新柏拉图主义作了基督教创造论和恩典论的根本改造；阿奎那的存在参与论、神名类比和宇宙返回结构也带有强烈的新柏拉图主义资源。</p>
+<hr>
+<h3 id="user-content-一时代范围与文本说明">一、时代范围与文本说明</h3>
+<h4 id="user-content-1-奥古斯丁为何被放入中世纪哲学">1. 奥古斯丁为何被放入中世纪哲学？</h4>
+<p>奥古斯丁生活于晚期古代：西罗马帝国尚未灭亡，古典修辞教育仍然活跃，基督教刚成为帝国主导宗教。他的直接环境不是十三世纪大学，而是：</p>
+<ul>
+<li>罗马修辞学校和公共政治；</li>
+<li>米兰主教安布罗斯的讲道与释经；</li>
+<li>摩尼教、学院怀疑主义和新柏拉图主义；</li>
+<li>多纳图派、伯拉纠主义等教会争论；</li>
+<li>410年西哥特人攻陷罗马后的文明危机。</li>
+</ul>
+<p>但从波爱修、安瑟尔谟、波拿文都拉到路德、加尔文，拉丁中世纪和宗教改革的许多基本问题都以奥古斯丁语言提出。因此，他更准确的身份是：<strong>晚期古代的教父哲学家，也是拉丁中世纪思想的奠基者。</strong></p>
+<h4 id="user-content-2-阿奎那的大学与经院语境">2. 阿奎那的大学与经院语境</h4>
+<p>阿奎那属于多明我会，曾在那不勒斯、巴黎、科隆和意大利多地学习与任教。其思想形成依赖：</p>
+<ul>
+<li>巴黎大学的艺术学院和神学院；</li>
+<li>伦巴第彼得《箴言四书》的教学传统；</li>
+<li>亚里士多德自然哲学、形而上学和伦理学的全面翻译；</li>
+<li>阿维森纳、阿威罗伊、迈蒙尼德等伊斯兰与犹太哲学；</li>
+<li>伪狄奥尼修斯和《原因论》的新柏拉图主义传统；</li>
+<li>quaestio、disputatio、quodlibet 等制度化辩论形式。</li>
+</ul>
+<p>“经院哲学”首先是一种以文本注释、问题提出、反方论证、区分和答辩为核心的学术方法，而不是所有中世纪人共同遵守的一套教义。</p>
+<h4 id="user-content-3-引文说明">3. 引文说明</h4>
+<p>本文关键原典均提供：</p>
+<ul>
+<li><strong>Latin</strong>：拉丁原文；</li>
+<li><strong>English rendering</strong>：参考通行译本所作英文直译；</li>
+<li><strong>中文直译</strong>：本文依据拉丁文所作解释性翻译；</li>
+<li><strong>坐标</strong>：奥古斯丁采用卷—章—节，阿奎那采用《神学大全》的部、问题、条目，例如 I q.2 a.3。</li>
+</ul>
+<p>New Advent 的英文译本便于检索但年代较早；奥古斯丁严格校勘应参考 CSEL、CCSL，阿奎那应参考 Leonine Edition。本文拉丁文主要依据 Augustinus.it 与 Corpus Thomisticum 对照整理。</p>
+<hr>
+<h3 id="user-content-二中世纪哲学并非封闭的黑暗时代">二、中世纪哲学并非封闭的“黑暗时代”</h3>
+<table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>制度与知识条件</th>
+<th>哲学意义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4—5世纪</td>
+<td>教父论战、罗马修辞学校、主教制度</td>
+<td>奥古斯丁综合古代哲学与基督教启示</td>
+</tr>
+<tr>
+<td>6—9世纪</td>
+<td>波爱修翻译逻辑著作；修道院和宫廷学校保存文本</td>
+<td>亚里士多德“旧逻辑”和奥古斯丁主义成为拉丁思想基础</td>
+</tr>
+<tr>
+<td>11—12世纪</td>
+<td>主教座堂学校、安瑟尔谟、阿伯拉尔；托莱多和西西里翻译运动</td>
+<td>辩证方法发展，希腊—阿拉伯—拉丁知识网络形成</td>
+</tr>
+<tr>
+<td>13世纪</td>
+<td>巴黎、牛津、博洛尼亚等大学；方济各会与多明我会</td>
+<td>完整亚里士多德体系进入课程，经院哲学达到制度化高峰</td>
+</tr>
+<tr>
+<td>1270与1277年</td>
+<td>巴黎地方性谴责若干命题</td>
+<td>反映亚里士多德主义、拉丁阿威罗伊主义与神学边界的激烈争论</td>
+</tr>
+</tbody>
+</table>
+<p>需要纠正三种旧叙事：</p>
+<ol>
+<li><strong>中世纪哲学不只属于拉丁基督教。</strong> 拜占庭希腊文、阿拉伯文、希伯来文和拉丁文传统互相翻译、批评和重构。</li>
+<li><strong>阿拉伯语哲学传统中的穆斯林与犹太哲学家不是单纯的古籍保管员。</strong> 阿维森纳的存在—本质、阿威罗伊的理智理论，以及犹太哲学家迈蒙尼德的神圣语言问题，都直接改变了拉丁哲学。</li>
+<li><strong>教会没有在整个中世纪全面禁止亚里士多德。</strong> 限制具有地方性和阶段性；到十三世纪中叶，亚里士多德已成为大学课程核心。</li>
+</ol>
+<h3 id="user-content-三经院问题法如何阅读">三、经院问题法如何阅读？</h3>
+<p>《神学大全》每个 articulus（条目）通常具有以下结构：</p>
+<ol>
+<li><strong>Videtur quod...</strong>：“看来似乎……”——列出反对作者最终立场的论证；</li>
+<li><strong>Sed contra...</strong>：“但与此相反……”——引入权威或反证；</li>
+<li><strong>Respondeo dicendum quod...</strong>：“我的回答是……”——主体论证；</li>
+<li><strong>Ad primum / secundum...</strong>：“答第一项/第二项……”——逐一回应最初反方。</li>
+</ol>
+<p>这意味着不能只截取开头的“看来……”就说那是阿奎那本人主张。经院文本的哲学价值也不只在结论，而在它主动构造最强反方、作出概念区分并逐项答复。</p>
+<hr>
+<h2 id="user-content-第一编奥古斯丁在内在心灵中追问永恒真理">第一编　奥古斯丁：在内在心灵中追问永恒真理</h2>
+<h3 id="user-content-四生平与思想转折">四、生平与思想转折</h3>
+<p>奥古斯丁出生于北非塔加斯特，受古典修辞教育。其思想经历并非简单“异教—基督教”二分，而是多次转向：</p>
+<ol>
+<li>西塞罗《荷尔顿西乌斯篇》唤起对智慧的追求；</li>
+<li>加入摩尼教，希望解释善恶和物质世界；</li>
+<li>对摩尼教自然理论与权威失望，接近学院怀疑主义；</li>
+<li>在米兰接触安布罗斯的非字面释经；</li>
+<li>阅读“柏拉图主义者的书”，理解非物质实在与恶之匮乏；</li>
+<li>386年皈依基督教，后成为希波主教；</li>
+<li>在多纳图派和伯拉纠主义论争中发展教会、自由、原罪和恩典理论。</li>
+</ol>
+<p>其早期著作更强调自由选择和理性上升；晚期反伯拉纠著作更强烈强调堕落意志、先行恩典和预定。把奥古斯丁当成一套从未发展的固定体系，会掩盖其思想张力。</p>
+<h3 id="user-content-五不安之心欲望的结构与人的终向">五、不安之心：欲望的结构与人的终向</h3>
+<h4 id="user-content-忏悔录i11">《忏悔录》I.1.1</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>fecisti nos ad te et inquietum est cor nostrum, donec requiescat in te.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>You have made us for yourself, and our heart is restless until it rests in you.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>你为了你自己创造了我们；我们的心不得安宁，直到它安息于你。</p>
+</blockquote>
+<p>这句话不是说人所有日常欲望都毫无价值，而是提出欲望的终向结构：</p>
+<ul>
+<li>财富、名誉、身体快乐和知识都是真实但有限的善；</li>
+<li>有限善不能承担无限终极善的位置；</li>
+<li>人的欲望不断越过已获得对象，暴露其不能自足；</li>
+<li>幸福不是取消爱，而是让爱找到正确对象和秩序。</li>
+</ul>
+<p>奥古斯丁的伦理学不是首先问“哪条规则必须遵守”，而是问：</p>
+<blockquote>
+<p>你爱什么？以何种顺序去爱？你把什么当作最终安息？</p>
+</blockquote>
+<h3 id="user-content-六由外而内由内而上">六、由外而内、由内而上</h3>
+<h4 id="user-content-论真宗教3972">《论真宗教》39.72</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Noli foras ire, in te ipsum redi; in interiore homine habitat veritas; et si tuam naturam mutabilem inveneris, transcende et te ipsum.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Do not go outward; return into yourself. Truth dwells in the inner human being; and if you find your nature changeable, transcend even yourself.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>不要向外奔逐；返回你自身。真理居于内在的人之中；如果你发现自己的本性仍会变化，就连你自己也要超越。</p>
+</blockquote>
+<p>奥古斯丁的“内在性”不是把私人感受宣布为真理。相反：</p>
+<ol>
+<li>感官对象可变；</li>
+<li>心理状态也会变化；</li>
+<li>心灵却能判断某些逻辑、数学和道德真理具有不变有效性；</li>
+<li>既然有限心灵不是这些真理的最终尺度，它必须上升至高于自身的真理根据。</li>
+</ol>
+<p>因此，他的路径不是“真理就是我的内心”，而是：</p>
+<blockquote>
+<p>在内心发现一种高于任意个人意见的规范，由此超越内心的可变部分。</p>
+</blockquote>
+<h3 id="user-content-七怀疑与确定性即使我错了我也存在">七、怀疑与确定性：“即使我错了，我也存在”</h3>
+<h4 id="user-content-上帝之城xi26">《上帝之城》XI.26</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Quid si falleris? Si enim fallor, sum. Nam qui non est, utique nec falli potest; ac per hoc sum, si fallor.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>What if you are mistaken? If I am mistaken, I exist. For one who does not exist certainly cannot be mistaken; therefore, if I am mistaken, I exist.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>如果你错了呢？即使我错了，我也存在；因为不存在者当然不可能犯错。因此，只要我犯错，我就存在。</p>
+</blockquote>
+<p>论证结构是：</p>
+<ol>
+<li>怀疑者提出“你的信念也许全错”；</li>
+<li>错误本身是一种心灵活动；</li>
+<li>若完全不存在，就不可能犯错；</li>
+<li>因而在犯错或怀疑的行动中，主体至少确定自己存在。</li>
+</ol>
+<p>这与笛卡尔的 cogito 有结构相似性，却不是同一项目：</p>
+<ul>
+<li>奥古斯丁用它反驳学院怀疑主义，并从存在、认识和爱上升至三一形象；</li>
+<li>笛卡尔把我思置于方法怀疑后的知识重建起点；</li>
+<li>奥古斯丁没有把孤立自我设定为整个哲学体系的唯一基础。</li>
+</ul>
+<h3 id="user-content-八神圣照明知识不是神秘灌输">八、神圣照明：知识不是神秘灌输</h3>
+<h4 id="user-content-忏悔录vii1016">《忏悔录》VII.10.16</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>intravi et vidi qualicumque oculo animae meae supra eundem oculum animae meae, supra mentem meam lucem incommutabilem.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>I entered within and, with the eye of my soul—such as it was—saw above that same eye of my soul, above my mind, an unchangeable light.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我进入内在，以我的灵魂之眼——无论它当时处于何种状态——看见在同一灵魂之眼之上、在我的心灵之上的不变之光。</p>
+</blockquote>
+<p>“照明论”试图解释：可变、有限、可能犯错的心灵，如何判断不变的真理？</p>
+<p>它不必被理解成神在每次计算或推理时把答案直接灌入大脑。较审慎的解释是：</p>
+<ul>
+<li>神是真理和可理解性的最终光源；</li>
+<li>心灵具有受造的理性能力，仍需感觉、学习和论证；</li>
+<li>照明保证真理规范不由私人心灵创造；</li>
+<li>特殊启示、预言与普通自然认识还应区分。</li>
+</ul>
+<p>照明论的“强解释”认为每次确定知识都需特殊神圣作用；“弱解释”把神视为理智和永恒真理持续有效的第一根据。奥古斯丁文本允许不同强调，现代研究没有完全一致结论。</p>
+<h3 id="user-content-九记忆心灵与三一形象">九、记忆、心灵与三一形象</h3>
+<p>《忏悔录》卷 X 把记忆描写为“广大无边的宫殿”。记忆不只是储存过去图像，还包含：</p>
+<ul>
+<li>感觉经验和语言；</li>
+<li>技艺、数学关系和概念；</li>
+<li>情感被记忆时不必重新以同样强度发生；</li>
+<li>“遗忘”这一概念本身也以某种方式被记得；</li>
+<li>自我寻找神时，也在追问自己如何已经能够认出所寻找者。</li>
+</ul>
+<p>《论三位一体》以心灵中的 memoria、intelligentia、voluntas——记忆、理解、意志——作为三一的心理形象。三者可区分，却属于一个心灵的相互关系。</p>
+<p>这不是在“证明人心就是三位一体”，而是以受造心灵的自我关系寻找有限类比。类比始终不充分，神不能被人的心理结构穷尽。</p>
+<p>奥古斯丁对记忆和第一人称经验的分析塑造了自传与内在性传统；它与笛卡尔式主体性在结构上常被比较，也成为胡塞尔时间意识、海德格尔和利科相关讨论的重要古典资源。</p>
+<h3 id="user-content-十信仰与理解不是因为荒谬所以相信">十、信仰与理解：不是“因为荒谬所以相信”</h3>
+<p>奥古斯丁常被概括为 crede ut intelligas（相信，以便理解），但他的立场具有双向结构：</p>
+<ul>
+<li>人在学习语言、历史和宗教时无法从零开始，必须先信任教师、见证和共同体；</li>
+<li>权威和信任开启探究，却不能取代理解；</li>
+<li>理性帮助解释信仰内容、排除矛盾、辨别错误权威；</li>
+<li>理解反过来深化信仰。</li>
+</ul>
+<p>《讲道集》43.7.9 中的完整对举是：</p>
+<blockquote>
+<p>Intellege, ut credas, verbum meum; crede, ut intellegas, verbum Dei.<br>
+<em>Understand in order to believe my word; believe in order to understand the word of God.</em><br>
+理解，以便相信我的话；相信，以便理解神的话。</p>
+</blockquote>
+<p>它常被凝练为 <em>intellege ut credas, crede ut intellegas</em>；采用 <em>intelligere</em> 拼写的版本也常写作 <em>intellige ut credas, crede ut intelligas</em>（理解，以便相信；相信，以便理解）。</p>
+<p>“Credo quia absurdum”（因为荒谬，所以相信）不是奥古斯丁原话，也不能概括他的信仰—理性关系。</p>
+<h3 id="user-content-十一恶不是实体而是善的缺失">十一、恶不是实体，而是善的缺失</h3>
+<h4 id="user-content-忏悔录vii1218">《忏悔录》VII.12.18</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>quaecumque sunt, bona sunt; malumque illud ... non est substantia, quia, si substantia esset, bonum esset.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Whatever exists is good; and that evil which I was seeking is not a substance, for if it were a substance, it would be good.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>凡存在者都是善的；而我所追问的那个恶并不是一种实体，因为如果它是实体，它就会是善的。</p>
+</blockquote>
+<p>论证背景是对摩尼教二元论的反驳。若一切存在来自善的创造者，恶是否必须是一种与善对立的黑暗实体？奥古斯丁回答：</p>
+<ol>
+<li>存在本身是一种善；</li>
+<li>可腐败之物必须先具有某种可失去的完善；</li>
+<li>完全失去一切善，也就完全失去存在；</li>
+<li>恶因此不是独立实体，而是某主体中“本应有的善”发生缺失、损坏或失序。</li>
+</ol>
+<p>失明不是一种与视觉并列的“黑色物质”，而是一个本应能看见的生物缺少视觉。</p>
+<p>这不意味着恶“虚幻”或受害不真实。缺失可以造成真实痛苦、罪责和破坏。恶之所以寄生于善，是因为错误行动仍需存在、能力、欲望和对象；恶在于这些善的方向和秩序发生偏离。</p>
+<h3 id="user-content-十二自由意志恶来自意志的转向">十二、自由意志：恶来自意志的转向</h3>
+<p>奥古斯丁早期《论自由意志》强调：</p>
+<ul>
+<li>神创造自由意志本身是善的；</li>
+<li>没有自由，就没有可归责的正义行动；</li>
+<li>道德恶不是神创造一种恶实体，而是意志转离较高善、执著较低善；</li>
+<li>意志的失序不能归咎于善的创造者。</li>
+</ul>
+<p>罪不是“爱了一个完全无善之物”，而是以错误方式爱真实的有限善。例如身体、食物、权力和自我保存本身可善；问题在于把它们置于真理、正义和神之上。</p>
+<p>由此产生 ordo amoris（爱的秩序）：</p>
+<blockquote>
+<p>德性不是没有欲望，而是让不同的爱依对象价值获得恰当次序。</p>
+</blockquote>
+<h3 id="user-content-十三恩典与给我你所命令的">十三、恩典与“给我你所命令的”</h3>
+<h4 id="user-content-忏悔录x2940">《忏悔录》X.29.40</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Da quod iubes et iube quod vis.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Give what you command, and command what you will.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>请赐下你所命令的，然后命令你所愿意的一切。</p>
+</blockquote>
+<p>这句话触发伯拉纠的反感，因为它意味着仅有命令不足以使堕落的人完成善。</p>
+<p>奥古斯丁晚期恩典论的关键区分是：</p>
+<ul>
+<li><strong>liberum arbitrium</strong>：作出选择的能力并未完全消失；</li>
+<li><strong>libertas</strong>：从错误欲望的奴役中获得真正自由；</li>
+<li>堕落者仍自愿行动，却不能仅靠自身使爱恢复正确秩序；</li>
+<li>恩典不是把人当木偶，而是医治意志、改变喜悦和爱，使人自愿趋向善；</li>
+<li>最初恩典不能由此前功德挣得。</li>
+</ul>
+<p>这里以 <em>liberum arbitrium</em> 与 <em>libertas</em> 作出的对照是一种分析性重构；奥古斯丁本人对两个词的使用并非在所有时期和文本中都严格固定。</p>
+<p>奥古斯丁思想确有发展：早期较强调自由选择对恶的责任，反伯拉纠时期更强调原罪、先行恩典和预定。后世天主教、路德宗、改革宗、詹森主义对这些文本作出不同解释，不能把其中任何一派简单等同于奥古斯丁全部立场。</p>
+<h3 id="user-content-十四时间问题神创造世界也创造时间">十四、时间问题：神创造世界，也创造时间</h3>
+<h4 id="user-content-1-时间是什么">1. “时间是什么？”</h4>
+<p>《忏悔录》XI.14.17：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Quid est ergo tempus? Si nemo ex me quaerat, scio; si quaerenti explicare velim, nescio.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>What, then, is time? If no one asks me, I know; if I wish to explain it to someone who asks, I do not know.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>那么，时间是什么？若无人问我，我知道；若要向询问者解释，我便不知道。</p>
+</blockquote>
+<p>奥古斯丁反对一个伪问题：“神在创造世界以前做什么？”如果时间本身与受造世界一同被创造，就不存在一个早已流逝的“创造以前”。</p>
+<p>神的永恒不是无限延长的时间，而是没有过去和未来消逝的恒常现在。受造时间则依变化、消逝和期待展开。</p>
+<h4 id="user-content-2-三种现在">2. 三种“现在”</h4>
+<p>《忏悔录》XI.20.26：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>tempora sunt tria, praesens de praeteritis, praesens de praesentibus, praesens de futuris ... praesens de praeteritis memoria, praesens de praesentibus contuitus, praesens de futuris exspectatio.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>There are three times: a present of past things, a present of present things, and a present of future things—the present of past things is memory, the present of present things attention, and the present of future things expectation.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>有三种时间：过去之事的现在、现在之事的现在、未来之事的现在。过去之事的现在是记忆，现在之事的现在是注意，未来之事的现在是期待。</p>
+</blockquote>
+<p>过去已经不在，未来尚未到来；但我们能测量、叙述和期待，因为它们以记忆痕迹、当前注意和面向未来的期待存在于心灵中。</p>
+<h4 id="user-content-3-时间是心灵的延展">3. 时间是心灵的延展</h4>
+<p>《忏悔录》XI.26.33：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Inde mihi visum est nihil esse aliud tempus quam distentionem; sed cuius rei, nescio, et mirum, si non ipsius animi.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>From this it seemed to me that time is nothing other than a distension; but of what, I do not know—and it would be strange if not of the mind itself.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因此在我看来，时间无非是一种延展；但是什么的延展，我不知道——若不是心灵自身的延展，反倒令人惊异。</p>
+</blockquote>
+<p>distentio animi 不是简单说“时间只存在于主观想象”。奥古斯丁关注的是：心灵如何在朗诵一首诗时，同时保持已过去音节、注意当前音节并期待尚未来临音节，由此测量一个不再完整在场的过程。</p>
+<p>这构成后世时间现象学反复调用的一条古典问题线索，但不取消宇宙运动和公共时间秩序。</p>
+<h3 id="user-content-十五爱美与内在转向">十五、爱、美与内在转向</h3>
+<h4 id="user-content-忏悔录x2738">《忏悔录》X.27.38</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Sero te amavi, pulchritudo tam antiqua et tam nova, sero te amavi! Et ecce intus eras et ego foris.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Late have I loved you, Beauty so ancient and so new; late have I loved you! You were within, and I was outside.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我爱你太迟了，既古老又新颖的美；我爱你太迟了！你原在内，我却在外。</p>
+</blockquote>
+<p>这里并非否定外在世界之美。后文说受造美物若不在神内就不会存在。问题是奥古斯丁曾停留于对象的可占有外表，没有透过有限美看见其来源。</p>
+<p>其美学和伦理具有同一结构：</p>
+<ul>
+<li>受造物是善和美；</li>
+<li>把有限者当最终者，会使爱发生黏附和失序；</li>
+<li>正确之爱不是摧毁有限对象，而是在神之中重新爱它们。</li>
+</ul>
+<h3 id="user-content-十六两座城不是教会与国家的一一对应">十六、两座城：不是教会与国家的一一对应</h3>
+<h4 id="user-content-上帝之城xiv28">《上帝之城》XIV.28</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Fecerunt itaque civitates duas amores duo, terrenam scilicet amor sui usque ad contemptum Dei, caelestem vero amor Dei usque ad contemptum sui.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Two loves have made two cities: the earthly city by love of self extending to contempt of God, and the heavenly city by love of God extending to contempt of self.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>两种爱造就了两座城：自爱以至轻蔑神，造就尘世之城；爱神以至轻看自身，造就天上之城。</p>
+</blockquote>
+<p>原文 <em>contemptum sui</em> 的修辞强度不能抹去，但它并非赞成自我仇恨，而是拒绝把自我置于神之上、当作终极尺度。</p>
+<p>两座城由“终极所爱”界定，而不是两个可直接画在地图上的机构：</p>
+<ul>
+<li>可见教会内部可能有受自爱支配的人；</li>
+<li>政治共同体中也可能有朝向天上之城的人；</li>
+<li>两城在历史中混合，直到末世才完全显明；</li>
+<li>地上政治和平是真实但相对的善，不能成为终极救赎。</li>
+</ul>
+<p>《上帝之城》是在410年罗马陷落后的护教和历史哲学著作。它反对把罗马帝国神圣化，也不等于主张基督徒退出公共生活。</p>
+<h3 id="user-content-十七和平是秩序的宁静">十七、和平是秩序的宁静</h3>
+<h4 id="user-content-上帝之城xix13">《上帝之城》XIX.13</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>pax omnium rerum tranquillitas ordinis. Ordo est parium dispariumque rerum sua cuique loca tribuens dispositio.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>The peace of all things is the tranquility of order. Order is the arrangement that assigns to equal and unequal things their appropriate places.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>万物的和平是秩序的宁静；秩序就是把相等与不相等的事物分别安置于其适当位置的安排。</p>
+</blockquote>
+<p>和平并非只有“没有战争”，而包含身体、灵魂、家庭、城邦与神之间的有序协调。甚至战争者也寻求某种自己所理解的和平。</p>
+<p>这一理论既可批判无序暴力，也可能被等级社会用来把既有位置神圣化。因此，现代继承必须追问：“适当位置”由谁决定？秩序是否服务于正义和共同善？</p>
+<p>奥古斯丁对正义战争传统产生深远影响，但他没有写出一部完整独立的“正义战争论”。后世才从其书信与政治神学中系统整理正当权威、正确意图和和平目标。</p>
+<h3 id="user-content-十八身体性别与历史局限">十八、身体、性别与历史局限</h3>
+<p>奥古斯丁明确反对摩尼教“物质本恶”，认为身体、婚姻和性别作为创造物是善的，也坚持身体复活。</p>
+<p>但其原罪理论、对性欲失序的强调和古代父权结构中的性别判断，确实对西方身体与性伦理产生复杂影响。不能用“他仇恨身体”一笔抹杀，也不能因其反二元论就忽视具体文本中的等级与压抑问题。</p>
+<h3 id="user-content-十九奥古斯丁提出了什么理论">十九、奥古斯丁提出了什么理论？</h3>
+<table>
+<thead>
+<tr>
+<th>理论</th>
+<th>核心命题</th>
+<th>哲学贡献</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>内在上升</td>
+<td>从外物回到心灵，再超越可变心灵</td>
+<td>奠定西方内在性与主体反思传统</td>
+</tr>
+<tr>
+<td>反怀疑论</td>
+<td>即使犯错，犯错者也确定存在</td>
+<td>提供自我确定性的早期经典论证</td>
+</tr>
+<tr>
+<td>神圣照明</td>
+<td>不变真理的规范性不由有限心灵创造</td>
+<td>解释知识的客观性与心灵依赖</td>
+</tr>
+<tr>
+<td>记忆—理解—意志</td>
+<td>心灵在自我关系中呈现三重统一</td>
+<td>深化心灵哲学和三一类比</td>
+</tr>
+<tr>
+<td>恶之匮乏</td>
+<td>恶不是实体，而是应有善的缺失</td>
+<td>反驳善恶实体二元论</td>
+</tr>
+<tr>
+<td>自由与恩典</td>
+<td>选择仍自愿，但真正自由需要恩典医治</td>
+<td>建立西方自由、罪责和恩典争论框架</td>
+</tr>
+<tr>
+<td>时间的心灵延展</td>
+<td>时间以记忆、注意、期待呈现</td>
+<td>成为后世时间意识与现象学讨论的重要古典资源</td>
+</tr>
+<tr>
+<td>爱的秩序</td>
+<td>德性是对善按恰当次序去爱</td>
+<td>把伦理学从规则推进到欲望结构</td>
+</tr>
+<tr>
+<td>两城论</td>
+<td>两种终极之爱形成两种历史共同体</td>
+<td>建立基督教历史哲学与政治神学</td>
+</tr>
+<tr>
+<td>和平秩序论</td>
+<td>和平是正当秩序的宁静</td>
+<td>影响政治秩序与正义战争传统</td>
+</tr>
+</tbody>
+</table>
+<h3 id="user-content-二十奥古斯丁的后世影响">二十、奥古斯丁的后世影响</h3>
+<ul>
+<li><strong>安瑟尔谟、波拿文都拉</strong>继承信仰寻求理解、内在照明和柏拉图主义路线；</li>
+<li><strong>路德、加尔文与詹森主义</strong>以不同方式援引其恩典、原罪和预定理论；</li>
+<li><strong>笛卡尔</strong>的我思与 si fallor, sum 常被比较，但方法和体系功能不同；</li>
+<li><strong>马勒伯朗士、帕斯卡、克尔凯郭尔</strong>继承内在性、意志和信仰问题；</li>
+<li><strong>胡塞尔、海德格尔、利科</strong>重视其时间、记忆和第一人称经验；</li>
+<li><strong>维特根斯坦</strong>《哲学研究》开篇引用《忏悔录》I.8讨论语言学习，但奥古斯丁语言思想不能被简化成“名称贴对象”；</li>
+<li>政治上，两城论影响基督教现实主义、历史神学和对帝国自我神化的批判。</li>
+</ul>
+<h2 id="user-content-第二编阿奎那信仰理性与存在的经院综合">第二编　阿奎那：信仰、理性与存在的经院综合</h2>
+<h3 id="user-content-二十一生平作品与思想网络">二十一、生平、作品与思想网络</h3>
+<p>托马斯·阿奎那出生于意大利南部贵族家庭，早年进入蒙特卡西诺，后在那不勒斯学习并加入多明我会。他在巴黎和科隆受大阿尔伯特指导，两度执教巴黎，后在意大利教学，1274年赴里昂会议途中去世。</p>
+<p>主要作品包括：</p>
+<ul>
+<li>《论存在者与本质》；</li>
+<li>《箴言书注》；</li>
+<li>《论真理》《论潜能》《论恶》等争议问题集；</li>
+<li>《反异教大全》；</li>
+<li>未完成的《神学大全》；</li>
+<li>《驳阿威罗伊派论理智唯一性》；</li>
+<li>对亚里士多德《形而上学》《论灵魂》《尼各马可伦理学》等的注释。</li>
+</ul>
+<p>其思想不是“亚里士多德加圣经”的机械拼接，而是一张多源网络：</p>
+<table>
+<thead>
+<tr>
+<th>来源</th>
+<th>阿奎那吸收</th>
+<th>阿奎那修正或拒绝</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>亚里士多德</td>
+<td>潜能—现实、质料—形式、四因、德性、自然政治</td>
+<td>世界必然永恒、纯自然的最高幸福</td>
+</tr>
+<tr>
+<td>奥古斯丁</td>
+<td>恶的匮乏、恩典、神圣理念、三一与意志</td>
+<td>普通知识所需的特殊照明</td>
+</tr>
+<tr>
+<td>阿维森纳</td>
+<td>本质—存在、必然存在、内感觉</td>
+<td>世界从第一者必然流溢</td>
+</tr>
+<tr>
+<td>阿威罗伊</td>
+<td>亚里士多德注释、理智问题</td>
+<td>全人类共享一个理智</td>
+</tr>
+<tr>
+<td>迈蒙尼德</td>
+<td>创造、神名和否定神学问题</td>
+<td>纯粹否定语言不足以表达神</td>
+</tr>
+<tr>
+<td>伪狄奥尼修斯</td>
+<td>参与、神圣名称、否定与卓越之路</td>
+<td>通过类比保持肯定神学的认知内容</td>
+</tr>
+</tbody>
+</table>
+<h3 id="user-content-二十二信仰与理性区别但不冲突">二十二、信仰与理性：区别但不冲突</h3>
+<p>阿奎那区分：</p>
+<ol>
+<li><strong>自然理性原则上可知的神圣真理</strong>：例如神存在、神唯一；</li>
+<li><strong>只能由启示获知的奥秘</strong>：例如三位一体、道成肉身。</li>
+</ol>
+<p>超出理性不等于违反理性。若自然理性和启示同源于真理，它们不可能真正矛盾；表面冲突来自错误推理、错误解释或超出论证能力的僭越。</p>
+<h4 id="user-content-神学大全i-q1-a8-ad-2">《神学大全》I q.1 a.8 ad 2</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Cum enim gratia non tollat naturam, sed perficiat, oportet quod naturalis ratio subserviat fidei.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Since grace does not destroy nature but perfects it, natural reason ought to serve faith.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>既然恩典并不取消自然，而是成全自然，自然理性就应服务于信仰。</p>
+</blockquote>
+<p>“服务”不等于哲学没有自主规则。同一条答复还说，神学使用人类理性不是为了证明信仰奥秘，而是为了阐明由神圣学说传递的其他内容。</p>
+<p>恩典成全自然意味着：</p>
+<ul>
+<li>自然具有创造赋予的真实结构和目的；</li>
+<li>理性、政治、德性和自然因果不是幻觉；</li>
+<li>超自然终向超过自然能力，却不摧毁自然；</li>
+<li>恩典既医治堕落自然，也提升它达到本来无法达到的荣福直观。</li>
+</ul>
+<h3 id="user-content-二十三五路阿奎那究竟证明了什么">二十三、五路：阿奎那究竟证明了什么？</h3>
+<h4 id="user-content-神学大全i-q2-a3">《神学大全》I q.2 a.3</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Respondeo dicendum quod Deum esse quinque viis probari potest.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>I answer that the existence of God can be demonstrated in five ways.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我的回答是：神存在可以通过五条道路加以论证。</p>
+</blockquote>
+<p>五路都是从受造效果上升至第一原因的后验形而上学论证。它们不是现代自然科学实验，也不是一次性证明全部基督教教义。</p>
+<h4 id="user-content-1-第一条从运动或变化出发">1. 第一条：从运动或变化出发</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Certum est enim, et sensu constat, aliqua moveri in hoc mundo ... Ergo necesse est devenire ad aliquod primum movens, quod a nullo movetur, et hoc omnes intelligunt Deum.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>It is certain and evident to sense that some things in this world are changing ... Therefore it is necessary to arrive at a first mover moved by none; and this everyone understands to be God.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>可以确定，感觉也表明，世界中有些事物正在变化……因此必须达到一个不被任何他者推动的第一推动者；所有人把它理解为神。</p>
+</blockquote>
+<p>这里 motus 不只是空间移动，而是潜能被实现为现实。木材潜在地热，只有现实热的东西才能使其成为现实热。</p>
+<p>关键论点：</p>
+<ul>
+<li>同一事物不能在同一方面仅凭其尚未现实的潜能，使自己成为现实；</li>
+<li>中间推动者若只有派生因果力，就需要一个不以同样方式被推动的根源；</li>
+<li>“第一”首先是依赖秩序中的第一，不是时间最早的事件。</li>
+</ul>
+<h4 id="user-content-2-第二条从动力因出发">2. 第二条：从动力因出发</h4>
+<blockquote>
+<p>Invenimus enim in istis sensibilibus esse ordinem causarum efficientium ... Ergo est necesse ponere aliquam causam efficientem primam, quam omnes Deum nominant.</p>
+</blockquote>
+<blockquote>
+<p><em>We find an order of efficient causes among sensible things ... Therefore a first efficient cause must be posited, which all call God.</em></p>
+</blockquote>
+<blockquote>
+<p>我们在可感事物中发现动力因的秩序……因此必须设定某个第一动力因，所有人都称它为神。</p>
+</blockquote>
+<p>没有事物能够作为自身完整的动力因，否则它必须先于自身。阿奎那主要反对所有成员都只拥有派生因果力的本质有序系列无限倒退；不能笼统写成他已否定一切无限时间序列。</p>
+<h4 id="user-content-3-第三条从可能与必然出发">3. 第三条：从可能与必然出发</h4>
+<blockquote>
+<p>necesse est ponere aliquid quod sit per se necessarium ... quod est causa necessitatis aliis, quod omnes dicunt Deum.</p>
+</blockquote>
+<blockquote>
+<p><em>It is necessary to posit something necessary through itself ... which is the cause of necessity in others; this all call God.</em></p>
+</blockquote>
+<blockquote>
+<p>必须设定某个凭自身而必然的存在者……它是其他事物获得必然性的原因；所有人称它为神。</p>
+</blockquote>
+<p>该路最受争议。由“每个偶然物都可能不存在”直接推出“曾有一刻一切同时不存在”，逻辑上并不显然。支持者通常把它重构为依存性论证：所有事物若都从他者取得存在，仍需一个非派生的必然根源。</p>
+<h4 id="user-content-4-第四条从完善程度出发">4. 第四条：从完善程度出发</h4>
+<blockquote>
+<p>est aliquid quod omnibus entibus est causa esse, et bonitatis, et cuiuslibet perfectionis, et hoc dicimus Deum.</p>
+</blockquote>
+<blockquote>
+<p><em>There is something that is the cause, for all beings, of being, goodness, and every perfection; and this we call God.</em></p>
+</blockquote>
+<blockquote>
+<p>有某种东西是一切存在者之存在、善和一切完善的原因；这就是我们所说的神。</p>
+</blockquote>
+<p>它不能简化成“有更好，就一定有一个最好个体”。论证依赖超越属性和参与形而上学：有限事物以不同受限方式拥有存在、真和善，因而指向非参与、根源性的完善。</p>
+<h4 id="user-content-5-第五条从目的秩序出发">5. 第五条：从目的秩序出发</h4>
+<blockquote>
+<p>Videmus enim quod aliqua quae cognitione carent ... operantur propter finem ... Ergo est aliquid intelligens, a quo omnes res naturales ordinantur ad finem.</p>
+</blockquote>
+<blockquote>
+<p><em>We see that things lacking cognition act for an end ... Therefore there is something intelligent by which all natural things are ordered to an end.</em></p>
+</blockquote>
+<blockquote>
+<p>我们看到，没有认知的自然事物仍朝向目的活动……因此存在一个理智根源，一切自然事物由它被安排趋向目的。</p>
+</blockquote>
+<p>这不是佩利式“钟表复杂，所以有钟表匠”，也不是从进化论空缺推断设计者。它基于亚里士多德自然目的论：无认知过程为何稳定表现出功能和趋向？</p>
+<h4 id="user-content-五路的边界">五路的边界</h4>
+<p>五路直接得到第一推动者、第一因、自身必然者、完善根源或理智秩序者。神为何唯一、简单、无限、善、具有知识与意志，需要在《神学大全》I q.3—26继续论证。</p>
+<p>所以，“五路证明了三位一体和全部基督教教义”是错误的。</p>
+<h3 id="user-content-二十四第一因不是宇宙最早事件">二十四、第一因不是宇宙最早事件</h3>
+<h4 id="user-content-神学大全i-q46-a2">《神学大全》I q.46 a.2</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Mundum non semper fuisse, sola fide tenetur, et demonstrative probari non potest.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>That the world has not always existed is held by faith alone and cannot be demonstratively proved.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>世界并非始终存在，这一点只能由信仰持守，不能以严格证明推出。</p>
+</blockquote>
+<p>阿奎那认为：</p>
+<ul>
+<li>世界有时间开端是启示真理；</li>
+<li>理性无法证明世界必然无始，也无法证明其必然有始；</li>
+<li>即使假设世界时间上永恒，它仍可在每一时刻完全依赖神而被创造；</li>
+<li>“被创造”首先意味着存在依赖，不等于很久以前发生一次制造事件。</li>
+</ul>
+<p>这直接排除把五路写成“大爆炸之前是谁推动”的通俗版本。</p>
+<h3 id="user-content-二十五创造不是变化也不是用无作材料">二十五、创造不是变化，也不是用“无”作材料</h3>
+<h4 id="user-content-神学大全i-q45-a1-corpus">《神学大全》I q.45 a.1, corpus</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Creatio, quae est emanatio totius esse, est ex non ente quod est nihil.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Creation, which is the procession of the whole of being, is from non-being, which is nothing.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>创造作为全部存在的产生，是从非存在而来；这里的非存在就是无。</p>
+</blockquote>
+<p>“从无”不是把“无”当成材料，而是不预设任何既存材料。普通变化需要一个主体从状态 A 变成状态 B；创造给予的是主体、材料、形式及其存在的全部。</p>
+<p>因此：</p>
+<p>《神学大全》I q.45 a.2 ad 2：</p>
+<blockquote>
+<p>Creatio non est mutatio nisi secundum modum intelligendi tantum.<br>
+<em>Creation is not a change except according to our manner of understanding.</em><br>
+创造严格说并非变化；只有依我们的理解方式才被表述得像变化。</p>
+</blockquote>
+<h3 id="user-content-二十六第一因与第二因神与自然不是抢同一份工作">二十六、第一因与第二因：神与自然不是抢同一份工作</h3>
+<h4 id="user-content-反异教大全iii70">《反异教大全》III.70</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Non sic idem effectus causae naturali et divinae virtuti attribuitur quasi partim a Deo, et partim a naturali agente fiat, sed totus ab utroque secundum alium modum.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>The same effect is not attributed to a natural cause and divine power as though partly made by God and partly by the natural agent; rather, it is wholly from each according to a different mode.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>同一结果并不是一部分由神、一部分由自然行动者造成；相反，它依不同方式完整地出自二者。</p>
+</blockquote>
+<p>例如树木生长：</p>
+<ul>
+<li>在自然科学层面完整地由基因、细胞、环境和有机过程解释；</li>
+<li>在形而上学层面，其存在和因果能力持续依赖第一因。</li>
+</ul>
+<p>第一因与第二因不是同一层次的竞争解释。科学越完整说明自然原因，并不因此自动排除第一因；同样，诉诸第一因也不能代替具体自然研究。</p>
+<h3 id="user-content-二十七本质与存在受造物为什么不是自己的存在">二十七、本质与存在：受造物为什么不是自己的存在？</h3>
+<p>阿奎那区分：</p>
+<ul>
+<li><strong>essentia / quidditas</strong>：事物是什么；</li>
+<li><strong>esse / actus essendi</strong>：事物现实存在的实现。</li>
+</ul>
+<h4 id="user-content-论存在者与本质第3章">《论存在者与本质》第3章</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Omnis autem essentia vel quiditas potest intelligi sine hoc quod aliquid intelligatur de esse suo; possum enim intelligere quid est homo vel Phoenix et tamen ignorare an esse habeat in rerum natura.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Every essence or quiddity can be understood without understanding its act of being; I can understand what a human being or a phoenix is and yet not know whether it exists in reality.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>任何本质或“是什么”都可以在不理解其存在实现的情况下被理解；我可以理解人或凤凰是什么，却仍不知道它是否在现实中存在。</p>
+</blockquote>
+<p>凤凰例子首先证明概念上可把“是什么”与“是否存在”分开。要推出受造物中真实的本质—存在区分，还需因果论证：</p>
+<ol>
+<li>若某物的存在不属于其本质，它就不是凭自身必然存在；</li>
+<li>它的存在必须被接受、限定并来自原因；</li>
+<li>受造物“拥有存在”，但不是存在本身；</li>
+<li>因此有限存在者以参与方式存在。</li>
+</ol>
+<p>“存在”在这里不只是现代逻辑量词，而是使本质成为现实者的 actus essendi——存在之实现或存在行动。</p>
+<h3 id="user-content-二十八神是自存的存在本身">二十八、神是自存的存在本身</h3>
+<h4 id="user-content-神学大全i-q3-a4">《神学大全》I q.3 a.4</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Deus autem non solum est sua essentia, ut ostensum est, sed etiam suum esse.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>God is not only his own essence, as has been shown, but also his own act of being.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>神不仅就是其自身的本质，而且也是其自身的存在。</p>
+</blockquote>
+<p>在受造物中，本质接受存在；在神内，本质与存在不分。神不是“一个拥有无限多属性的最高对象”，而是 ipsum esse subsistens——自存的存在本身。</p>
+<p>由此形成神圣简一论：</p>
+<ul>
+<li>神没有质料与形式组合；</li>
+<li>没有实体与偶性组合；</li>
+<li>没有本质与存在组合；</li>
+<li>神的善、智慧、能力不是附加性质，而在神内实在同一。</li>
+</ul>
+<p>该理论面临当代争议：如果神的本质、知识、意志和行动完全同一，如何保证神自由创造这个世界，而非产生模态坍缩？托马斯主义者以概念区分、受造效果的偶然性和神意志关系作出回应，但争论仍然开放。</p>
+<h3 id="user-content-二十九类比语言我们如何谈论神">二十九、类比语言：我们如何谈论神？</h3>
+<p>“神是善的”和“人是善的”不能完全同义，否则神与受造物属于同一属；也不能完全异义，否则神学语言毫无认知内容。</p>
+<h4 id="user-content-神学大全i-q13-a5">《神学大全》I q.13 a.5</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>huiusmodi nomina dicuntur de Deo et creaturis secundum analogiam ... et non aequivoce pure, neque univoce.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Names of this kind are said of God and creatures according to analogy, neither purely equivocally nor univocally.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>这类名称以类比方式用于神与受造物，既非纯粹异义，也非单义。</p>
+</blockquote>
+<p>类比的基本结构是：</p>
+<ul>
+<li>受造物以有限、分散、参与的方式拥有完善；</li>
+<li>神不是同一种完善的更大实例，而是其非受限根源；</li>
+<li>我们从受造效果肯定一种完善；</li>
+<li>否定其中的受限与缺陷；</li>
+<li>以卓越方式把它归于神。</li>
+</ul>
+<p>这试图在不可知论和拟人化之间保持道路。司各脱后来认为哲学证明至少需要“存在”的某种单义概念，对阿奎那类比论形成重要挑战。</p>
+<h3 id="user-content-三十人的灵魂是身体的形式">三十、人的灵魂是身体的形式</h3>
+<h4 id="user-content-1-人不只是灵魂">1. 人不只是灵魂</h4>
+<p>《神学大全》I q.75 a.4：</p>
+<blockquote>
+<p>Manifestum est quod homo non est anima tantum, sed est aliquid compositum ex anima et corpore.</p>
+</blockquote>
+<blockquote>
+<p><em>It is clear that a human being is not the soul alone, but something composed of soul and body.</em></p>
+</blockquote>
+<blockquote>
+<p>显然，人并不只是灵魂，而是由灵魂与身体构成的存在者。</p>
+</blockquote>
+<h4 id="user-content-2-理智灵魂作为身体形式">2. 理智灵魂作为身体形式</h4>
+<p>《神学大全》I q.76 a.1：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Necesse est dicere quod intellectus, qui est intellectualis operationis principium, sit humani corporis forma.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>It is necessary to say that the intellect, as the principle of intellectual operation, is the form of the human body.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>必须主张，作为理智活动原则的理智，是人类身体的形式。</p>
+</blockquote>
+<p>这与“灵魂住在身体机器里”的笛卡尔式图景不同：</p>
+<ul>
+<li>灵魂使这具身体成为一个有生命、感觉和理性的统一人；</li>
+<li>营养、感觉和理性能力属于同一个灵魂；</li>
+<li>“苏格拉底思考”，不是外部共同理智借苏格拉底身体思考；</li>
+<li>分离灵魂可因理智活动的非器官性而存续，但它不是完整的人类状态；</li>
+<li>身体复活不是灵魂已经完整后的可有可无附件。</li>
+</ul>
+<p>阿奎那据此反对拉丁阿威罗伊主义的“全人类共享一个理智”。</p>
+<h3 id="user-content-三十一知识始于感觉但不止于感觉">三十一、知识始于感觉，但不止于感觉</h3>
+<h4 id="user-content-神学大全i-q85-a1">《神学大全》I q.85 a.1</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Necesse est dicere quod intellectus noster intelligit materialia abstrahendo a phantasmatibus.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Our intellect understands material things by abstracting from phantasms.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我们的理智通过从感性表象中抽象，而理解物质事物。</p>
+</blockquote>
+<p>认识过程可简化为：</p>
+<ol>
+<li>外在事物作用于感觉；</li>
+<li>内感觉形成和保存 phantasmata（感性表象）；</li>
+<li>主动理智抽取不依个别物质条件的可理解形式；</li>
+<li>可能理智以此现实地理解普遍本性；</li>
+<li>理智再返回表象判断具体个体。</li>
+</ol>
+<p>可理解形式首先是 quo intelligitur——理智“借以”认识的媒介，而不是首要认识对象。首要对象仍是外在事物，而非一层隔绝心灵与世界的内部图像。</p>
+<p>阿奎那没有彻底抛弃神圣照明：人的理智之光仍由神创造和维持。但普通自然知识不需要每一次额外的超自然灌输；荣福直观、预言和信仰则需要超越自然能力的光。</p>
+<h3 id="user-content-三十二恶第一因与人的责任">三十二、恶、第一因与人的责任</h3>
+<p>阿奎那继承奥古斯丁：恶是应有完善的缺失。</p>
+<ul>
+<li>神是行动所具有的存在、能力和现实性的原因；</li>
+<li>罪的缺陷在于意志没有遵循应有理性秩序；</li>
+<li>第一因造成行动的“存在”，却不是缺陷作为缺陷的原因；</li>
+<li>自然缺陷、惩罚之恶和罪责之恶需要区分。</li>
+</ul>
+<p>例如跛行既依赖腿的运动能力，也依赖腿部缺陷。运动来自能力，跛的缺陷来自受损器官。类比地，罪恶行动仍依赖真实能力和对象，偏离规范的缺陷却属于有限意志。</p>
+<p>这并未完全解决“全能、全知、全善者为何许可如此多恶”的问题。阿奎那认为神可允许局部缺失，使更完整秩序和善成为可能；但具体苦难是否被充分解释，仍是神义论的持续争议。</p>
+<h3 id="user-content-三十三自由意志与神圣因果">三十三、自由意志与神圣因果</h3>
+<p>阿奎那认为：</p>
+<ul>
+<li>意志必然趋向普遍意义上的善与幸福；</li>
+<li>但有限对象都不能以必然方式充满意志；</li>
+<li>对不同手段和有限善，人具有选择自由；</li>
+<li>理智提供判断，意志作为理性欲望作出选择；</li>
+<li>神作为第一因使自由行动真实发生，却依第二因的性质使其以自由方式发生。</li>
+</ul>
+<p>神圣因果与自由不是“神控制百分之五十、人控制百分之五十”。同一行动可全部依赖第一因，又全部是人的自由行动，二者属于不同因果层级。</p>
+<p>这一解释是否足以调和预知、预定和可替代选择，后来引发托马斯派巴涅斯主义与耶稣会莫利纳主义争论，不能把后世任何一派简单等同于阿奎那本人。</p>
+<h3 id="user-content-三十四幸福德性与恩典">三十四、幸福、德性与恩典</h3>
+<h4 id="user-content-1-完善幸福">1. 完善幸福</h4>
+<p>《神学大全》I–II q.3 a.8：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Ultima et perfecta beatitudo non potest esse nisi in visione divinae essentiae.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Final and perfect happiness cannot exist except in the vision of the divine essence.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>最终而完善的幸福只能存在于对神圣本质的直观之中。</p>
+</blockquote>
+<p>阿奎那继承亚里士多德幸福论，却作出超自然提升：</p>
+<ul>
+<li>财富、荣誉、权力、快乐和有限知识不能完全满足理智与意志；</li>
+<li>尘世幸福可包含德性、友谊、共同善和沉思，但始终不完整；</li>
+<li>完满幸福是荣福直观，理智直接认识神本质，意志在爱中安息；</li>
+<li>该终向超出人性比例，必须由恩典提升。</li>
+</ul>
+<h4 id="user-content-2-德性">2. 德性</h4>
+<p>德性是稳定的善习性，使行动者和行动成为善。阿奎那区分：</p>
+<ul>
+<li>理智德性与道德德性；</li>
+<li>枢德：明智、正义、勇敢、节制；</li>
+<li>神学德性：信、望、爱；</li>
+<li>经反复行动获得的德性；</li>
+<li>由恩典灌注、指向超自然终向的德性。</li>
+</ul>
+<p>激情本身并非恶。德性不是消灭感情，而是使愤怒、恐惧、快乐和欲望接受理性秩序。</p>
+<p>爱德被称为诸德之形式，因为它使其他德性行动指向神和最终目的。</p>
+<h4 id="user-content-3-自然能力与恩典">3. 自然能力与恩典</h4>
+<p>阿奎那不主张“没有恩典便完全不能行任何自然善”。《神学大全》I–II q.109 a.5说，人能够实行导向某种与人性相称之善的行动；但永生超出人性比例，没有恩典不能达到。</p>
+<p>恩典具有双重作用：</p>
+<ul>
+<li><strong>医治</strong>：修复堕落后意志和欲望的失序；</li>
+<li><strong>提升</strong>：使人参与超出自然能力的神圣生命。</li>
+</ul>
+<p>这正是“恩典成全自然”的伦理含义。</p>
+<h3 id="user-content-三十五法律的四要素">三十五、法律的四要素</h3>
+<h4 id="user-content-神学大全iii-q90-a4">《神学大全》I–II q.90 a.4</h4>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>Lex nihil est aliud quam quaedam rationis ordinatio ad bonum commune, ab eo qui curam communitatis habet, promulgata.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Law is nothing other than an ordinance of reason for the common good, promulgated by one who has care of the community.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>法无非是一项指向共同善的理性安排，由照管共同体者予以公布。</p>
+</blockquote>
+<p>真正的法必须具备：</p>
+<ol>
+<li><strong>理性</strong>：不是统治者任性命令；</li>
+<li><strong>共同善</strong>：不只服务私人利益；</li>
+<li><strong>正当权威</strong>：由承担共同体责任者制定；</li>
+<li><strong>公布</strong>：必须能为受约束者知悉。</li>
+</ol>
+<p>这一定义为批评暴政和纯权力命令提供规范基础，同时仍需讨论“共同善”由谁解释、谁被纳入共同体。</p>
+<h3 id="user-content-三十六永恒法自然法人法与神法">三十六、永恒法、自然法、人法与神法</h3>
+<h4 id="user-content-1-自然法的定义">1. 自然法的定义</h4>
+<p>《神学大全》I–II q.91 a.2：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>lex naturalis nihil aliud est quam participatio legis aeternae in rationali creatura.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Natural law is nothing other than the rational creature’s participation in eternal law.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>自然法无非是理性受造者对永恒法的参与。</p>
+</blockquote>
+<p>自然法不是直接听见神谕，也不是一张外在宗教禁令表。它是实践理性从人的基本善和自然倾向中把握行动秩序。</p>
+<h4 id="user-content-2-第一原则">2. 第一原则</h4>
+<p>《神学大全》I–II q.94 a.2：</p>
+<p><strong>Latin</strong></p>
+<blockquote>
+<p>bonum est faciendum et prosequendum, et malum vitandum.</p>
+</blockquote>
+<p><strong>English rendering</strong></p>
+<blockquote>
+<p>Good is to be done and pursued, and evil is to be avoided.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>善应当被实行并追求，恶应当被避免。</p>
+</blockquote>
+<p>从人的自然倾向可进一步把握：</p>
+<ul>
+<li>保存生命；</li>
+<li>生育、照料和教育后代；</li>
+<li>寻求真理，尤其关于神的真理；</li>
+<li>在社会中生活并避免伤害他人。</li>
+</ul>
+<p>但倾向必须由实践理性排序，不能把所有自然冲动直接变成道德命令。第一原则高度形式化；具体规范还需要推论、制度规定和 phronesis（实践智慧）。</p>
+<h4 id="user-content-3-不正义法律">3. 不正义法律</h4>
+<p>阿奎那沿用奥古斯丁“非正义之法似乎不成其为法”的传统。不正义法律可能：</p>
+<ul>
+<li>违背共同善，只服务统治者私利；</li>
+<li>超越立法者权限；</li>
+<li>分配负担不公平；</li>
+<li>违背更高神法。</li>
+</ul>
+<p>是否不服从还要考虑公共骚乱、伤害他人和更高义务。它不是一句“凡我认为不公，就可任意违抗”。</p>
+<h3 id="user-content-三十七政治共同体与共同善">三十七、政治共同体与共同善</h3>
+<p>阿奎那比奥古斯丁更直接继承亚里士多德：政治社会不仅是堕落后惩罚，也植根于人的自然社会性。</p>
+<ul>
+<li>人需要分工、语言、教育和共同判断；</li>
+<li>城邦或政治共同体使德性生活成为可能；</li>
+<li>统治的正当性以共同善为目标；</li>
+<li>暴政把共同体变成统治者私人利益工具；</li>
+<li>统一统治可能有效，却不等于无限绝对君主制；</li>
+<li>抵抗暴君也须考虑是否引发更大灾难。</li>
+</ul>
+<p>不能把阿奎那直接称为现代民主主义者或政教分离论者。他承认政治的自然目的，也把人的超自然终向置于属灵秩序之中。</p>
+<p>其关于异端强制、女性、社会等级和奴役的判断带有中世纪限制，不能借“自然法”之名未经批判地普遍化。</p>
+<h3 id="user-content-三十八阿奎那提出了什么理论">三十八、阿奎那提出了什么理论？</h3>
+<table>
+<thead>
+<tr>
+<th>理论</th>
+<th>核心命题</th>
+<th>哲学贡献</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>信仰—理性区分</td>
+<td>启示奥秘超出理性，但真理不与真理冲突</td>
+<td>为自然神学和学科自主性建立框架</td>
+</tr>
+<tr>
+<td>五路</td>
+<td>从变化、原因、依存、完善和目的秩序上升至第一原则</td>
+<td>建立经典后验自然神学</td>
+</tr>
+<tr>
+<td>本质—存在区分</td>
+<td>受造物是什么与其现实存在不同</td>
+<td>构成参与存在论与创造论核心</td>
+</tr>
+<tr>
+<td>自存存在论</td>
+<td>神不是一个仅仅“拥有存在”的存在者，而是 ipsum esse subsistens</td>
+<td>重构神圣简一与第一因</td>
+</tr>
+<tr>
+<td>类比述谓</td>
+<td>神名既非完全单义，也非纯粹异义</td>
+<td>在拟人化与不可知论之间建立语言理论</td>
+</tr>
+<tr>
+<td>创造依赖论</td>
+<td>创造是全部存在依赖，不只是时间起点</td>
+<td>区分创造与宇宙开端</td>
+</tr>
+<tr>
+<td>第一—第二原因</td>
+<td>神圣因果与自然因果在不同层次完整作用</td>
+<td>为自然自主性与神学解释并存提供框架</td>
+</tr>
+<tr>
+<td>质料形式灵魂论</td>
+<td>人是灵魂—身体统一，灵魂为身体形式</td>
+<td>提出二元论与物理还原论之外的人论</td>
+</tr>
+<tr>
+<td>抽象认识论</td>
+<td>理智从感性表象抽象普遍形式</td>
+<td>综合经验起点与普遍知识</td>
+</tr>
+<tr>
+<td>德性—恩典论</td>
+<td>自然德性真实，超自然幸福需要恩典提升</td>
+<td>综合亚里士多德伦理与基督教救赎论</td>
+</tr>
+<tr>
+<td>自然法</td>
+<td>理性受造者参与永恒法</td>
+<td>系统化自然法理论，并深刻影响中世纪晚期与近代法哲学</td>
+</tr>
+<tr>
+<td>共同善政治论</td>
+<td>法与统治以共同体的德性兴盛为目的</td>
+<td>连接伦理、法律与政治合法性</td>
+</tr>
+</tbody>
+</table>
+<h3 id="user-content-三十九阿奎那的主要争议与常见误读">三十九、阿奎那的主要争议与常见误读</h3>
+<h4 id="user-content-1-五路是现代科学证明">1. “五路是现代科学证明”</h4>
+<p>错误。五路依赖现实—潜能、因果依存、参与和自然目的论等形而上学概念，不能作为物理学结论介绍。</p>
+<h4 id="user-content-2-第一因是宇宙最早发生的事件">2. “第一因是宇宙最早发生的事件”</h4>
+<p>错误。阿奎那明确说世界有时间开端不能由哲学证明；第一原因首先是当下存在与因果能力的根本来源。</p>
+<h4 id="user-content-3-任何无限倒退都不可能">3. “任何无限倒退都不可能”</h4>
+<p>过强。阿奎那主要排除本质有序、所有中间成员只拥有派生因果力的系列中没有第一根源。</p>
+<h4 id="user-content-4-有更好者所以逻辑上必有最好个体">4. “有更好者，所以逻辑上必有最好个体”</h4>
+<p>这是对第四路的粗糙化。第四路依赖存在、真、善等超越属性的参与和因果等级，而非普通排序的最大值原则。</p>
+<h4 id="user-content-5-第五路是钟表匠论证">5. “第五路是钟表匠论证”</h4>
+<p>不准确。它不从复杂机器类比设计，而从无认知自然过程的稳定目的趋向追问秩序根源。</p>
+<h4 id="user-content-6-本质存在区分只靠凤凰例子已完成证明">6. “本质—存在区分只靠凤凰例子已完成证明”</h4>
+<p>凤凰例子主要显示概念可分；真实区分还依赖因果、接受性和参与论。</p>
+<h4 id="user-content-7-质料形式论就是灵魂与身体两个东西组合">7. “质料形式论就是灵魂与身体两个东西组合”</h4>
+<p>错误。灵魂作为实体形式，使这具身体成为一个人；二者不是两件已完成实体的外部拼装。</p>
+<h4 id="user-content-8-自然法就是从生物事实直接推出道德">8. “自然法就是从生物事实直接推出道德”</h4>
+<p>阿奎那要求自然倾向由实践理性作为人类善来把握和排序。自然法解释是否仍犯“是—应当”问题，是现代争议，不能忽视。</p>
+<h4 id="user-content-9-恩典使自然理性和自然德性毫无价值">9. “恩典使自然理性和自然德性毫无价值”</h4>
+<p>与“恩典成全自然”相反。阿奎那承认自然知识和自然善行，超自然终向才需要提升性恩典。</p>
+<h4 id="user-content-10-阿奎那无条件服从亚里士多德">10. “阿奎那无条件服从亚里士多德”</h4>
+<p>他拒绝世界必然永恒、单一理智和必然流溢，并能辨认《原因论》来自普罗克洛传统而非亚里士多德。</p>
+<h3 id="user-content-四十阿奎那的后世影响">四十、阿奎那的后世影响</h3>
+<h4 id="user-content-1-中世纪晚期">1. 中世纪晚期</h4>
+<p>多明我会逐渐发展托马斯主义；司各脱以存在单义性、形式区分和意志论作出强力批评；奥卡姆则从唯名论、简约原则和意志问题重构经院哲学。</p>
+<h4 id="user-content-2-萨拉曼卡学派与国际法">2. 萨拉曼卡学派与国际法</h4>
+<p>维多利亚、索托、苏亚雷斯等以自然法、万民法和共同善讨论殖民、战争、贸易、原住民权利和国际秩序。它们影响格劳秀斯和近代国际法，但不是未经改变的直线传递。</p>
+<h4 id="user-content-3-天主教与新托马斯主义">3. 天主教与新托马斯主义</h4>
+<p>1879年良十三世《永恒之父》推动阿奎那研究复兴，促进 Leonine Edition 校勘和新经院教育。吉尔松、马里旦、法布罗、马雷夏尔、朗纳根等形成不同托马斯主义路线。</p>
+<h4 id="user-content-4-当代哲学">4. 当代哲学</h4>
+<ul>
+<li>安斯康姆、吉奇、肯尼、斯通普、霍尔丹等推动分析托马斯主义；</li>
+<li>德性伦理重新重视习性、实践理性、意向与行动；</li>
+<li>自然法理论影响约翰·菲尼斯和现代法律哲学；</li>
+<li>质料形式论成为实体二元论与还原物理主义之外的心灵哲学选项；</li>
+<li>第一—第二因框架用于反对“空隙之神”；</li>
+<li>神圣简一、类比、自由和模态坍缩成为分析宗教哲学的重要争论。</li>
+</ul>
+<hr>
+<h2 id="user-content-第三编奥古斯丁与阿奎那的正面对照">第三编　奥古斯丁与阿奎那的正面对照</h2>
+<h3 id="user-content-四十一核心比较">四十一、核心比较</h3>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>奥古斯丁</th>
+<th>阿奎那</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>时代</td>
+<td>晚期古代，拉丁教父</td>
+<td>十三世纪大学经院哲学</td>
+</tr>
+<tr>
+<td>主要哲学资源</td>
+<td>新柏拉图主义、西塞罗、斯多亚、圣经</td>
+<td>亚里士多德、奥古斯丁、阿维森纳、阿威罗伊、迈蒙尼德、伪狄奥尼修斯</td>
+</tr>
+<tr>
+<td>基本路径</td>
+<td>由外而内、由内而上</td>
+<td>由感觉和受造效果上升至原因</td>
+</tr>
+<tr>
+<td>知识</td>
+<td>永恒真理需要神圣照明</td>
+<td>理智从感性表象抽象，自然理智之光由神维持</td>
+</tr>
+<tr>
+<td>确定性</td>
+<td>si fallor, sum；内在自我不可全然否定</td>
+<td>从感觉、第一原理和证明构造科学知识</td>
+</tr>
+<tr>
+<td>神</td>
+<td>比内在更内在、比最高更高的真理与善</td>
+<td>自存的存在本身、第一因、纯现实</td>
+</tr>
+<tr>
+<td>神圣语言</td>
+<td>内在上升、否定与赞美语言</td>
+<td>否定、因果、卓越与类比述谓</td>
+</tr>
+<tr>
+<td>恶</td>
+<td>善的匮乏；意志转离高善</td>
+<td>应有完善的缺失；行动之存在与罪之缺陷区分</td>
+</tr>
+<tr>
+<td>自由</td>
+<td>选择仍在，真正自由需恩典医治</td>
+<td>意志趋向普遍善，对有限手段自由；第一因不取消第二因</td>
+</tr>
+<tr>
+<td>恩典</td>
+<td>晚期强调恩典的先行性及其使意志实际转向善的效力</td>
+<td>恩典医治并提升自然，区分自然善与超自然终向</td>
+</tr>
+<tr>
+<td>灵魂身体</td>
+<td>柏拉图主义灵魂优先，但身体为善</td>
+<td>理智灵魂是身体实体形式，人是统一复合体</td>
+</tr>
+<tr>
+<td>时间</td>
+<td>三种现在与心灵延展</td>
+<td>时间是运动尺度；创造依赖不同于时间开端</td>
+</tr>
+<tr>
+<td>伦理</td>
+<td>爱的秩序、享用与使用、安息于神</td>
+<td>幸福、德性、自然法、荣福直观</td>
+</tr>
+<tr>
+<td>政治</td>
+<td>两城混合，政治和平相对而真实</td>
+<td>自然政治共同体、法律和共同善</td>
+</tr>
+<tr>
+<td>写作方式</td>
+<td>自传、对话、讲道、释经、论战</td>
+<td>quaestio、争议问题、大全、注释</td>
+</tr>
+</tbody>
+</table>
+<h3 id="user-content-四十二知识照明与抽象">四十二、知识：照明与抽象</h3>
+<h4 id="user-content-奥古斯丁">奥古斯丁</h4>
+<p>有限心灵能判断不变真理，说明真理的规范尺度高于心灵。照明让理智在神圣真理之光中判断。</p>
+<h4 id="user-content-阿奎那">阿奎那</h4>
+<p>普通知识从感觉和表象开始，主动理智抽象可理解形式。神是理智之光和真理的第一原因，但每次自然认识不需额外特殊照明。</p>
+<h4 id="user-content-真正分歧">真正分歧</h4>
+<p>不是“一个相信神、一个相信经验”，而是神圣第一原因如何进入认识解释：</p>
+<ul>
+<li>奥古斯丁更强调真理判断对永恒光的当前依赖；</li>
+<li>阿奎那更强调受造理智能力和自然认识过程的完整性。</li>
+</ul>
+<h3 id="user-content-四十三创造与时间">四十三、创造与时间</h3>
+<p>奥古斯丁强调：神创造世界也创造时间，“创造以前”没有时间意义。</p>
+<p>阿奎那进一步区分：</p>
+<ul>
+<li>世界是否有时间开端；</li>
+<li>世界是否在存在上被创造。</li>
+</ul>
+<p>即使一个世界在时间上无始，它仍可能在全部存在上依赖第一因。因此：</p>
+<blockquote>
+<p>奥古斯丁主要分析“时间如何与创造同时出现”；<br>
+阿奎那主要澄清“创造关系不等于时间上的开始”。</p>
+</blockquote>
+<h3 id="user-content-四十四恶与自由">四十四、恶与自由</h3>
+<p>两人都否认恶是实体，也都拒绝把罪归给神。</p>
+<ul>
+<li>奥古斯丁以爱的转向解释恶，晚期强调恩典的先行性，以及恩典使堕落意志实际转向善的效力；</li>
+<li>阿奎那以行动的存在与应有秩序的缺陷作形而上学区分，并用第一—第二因协调神圣因果与自由行动。</li>
+</ul>
+<p>二者都不是现代简单“自由意志论者”或“决定论者”。其自由概念与对善的欲望、品格、恩典和终向相连。</p>
+<h3 id="user-content-四十五灵魂与身体">四十五、灵魂与身体</h3>
+<p>奥古斯丁常用灵魂治理或使用身体的语言，具有明显柏拉图主义倾向；但他反对物质本恶，承认身体复活。</p>
+<p>阿奎那用质料形式论更强地表达人的统一：分离灵魂能存续，却不是完整的人。</p>
+<p>这使二人对现代心身问题提供不同资源：</p>
+<ul>
+<li>奥古斯丁适合分析第一人称、自我、记忆和意志深度；</li>
+<li>阿奎那适合发展非还原、非实体二元的具身心灵论。</li>
+</ul>
+<h3 id="user-content-四十六伦理与政治">四十六、伦理与政治</h3>
+<p>奥古斯丁以“你最终爱什么”诊断个人和文明；阿奎那以“什么完善人性并服务共同善”构造德性和法律秩序。</p>
+<p>政治上：</p>
+<ul>
+<li>奥古斯丁警惕任何帝国把自身当作终极正义；</li>
+<li>阿奎那更肯定政治社会的自然性和制度理性；</li>
+<li>两人都不等于现代政教分离论；</li>
+<li>两人的等级、性别和宗教强制判断都需批判继承。</li>
+</ul>
+<hr>
+<h2 id="user-content-第四编中世纪哲学的共同问题与现代意义">第四编　中世纪哲学的共同问题与现代意义</h2>
+<h3 id="user-content-四十七信仰是否排斥理性">四十七、信仰是否排斥理性？</h3>
+<p>中世纪思想的典型问题不是“信仰还是理性二选一”，而是：</p>
+<ol>
+<li>理性可以独立认识哪些真理；</li>
+<li>何种内容超出但不违反理性；</li>
+<li>权威如何接受理性审查；</li>
+<li>哲学论证在神学中承担何种作用；</li>
+<li>同一真理来源为何不会真正自相矛盾。</li>
+</ol>
+<p>奥古斯丁把信任看作理解的起点；阿奎那进一步区分哲学证明与启示奥秘。二人都不支持“因为荒谬所以相信”。</p>
+<h3 id="user-content-四十八自然是否拥有真实自主性">四十八、自然是否拥有真实自主性？</h3>
+<p>阿奎那的“恩典成全自然”和第一—第二因尤其重要：</p>
+<ul>
+<li>自然原因有真实作用；</li>
+<li>神学不能以神取代物理、生物或社会解释；</li>
+<li>第一因不是自然科学尚未填补的空位；</li>
+<li>受造自主性本身被理解为第一因赋予的能力。</li>
+</ul>
+<p>这不直接证明神学正确，却表明中世纪有比“神与科学争夺解释权”更精细的因果模型。</p>
+<h3 id="user-content-四十九常见误读总表">四十九、常见误读总表</h3>
+<table>
+<thead>
+<tr>
+<th>误读</th>
+<th>纠正</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中世纪只有神学，没有哲学</td>
+<td>存在逻辑、语言、模态、因果、心灵、伦理和政治的复杂论证</td>
+</tr>
+<tr>
+<td>中世纪只是西欧内部传统</td>
+<td>拜占庭、伊斯兰、犹太和拉丁世界共同构成知识网络</td>
+</tr>
+<tr>
+<td>奥古斯丁只是基督教普罗提诺</td>
+<td>他以创造、道成肉身、身体复活和恩典改造新柏拉图主义</td>
+</tr>
+<tr>
+<td>奥古斯丁认为身体本恶</td>
+<td>他明确反对摩尼教；争议在欲望、原罪和性别的具体理论</td>
+</tr>
+<tr>
+<td>恶是匮乏，所以恶不真实</td>
+<td>匮乏说明恶的存在方式，不否认伤害和罪责</td>
+</tr>
+<tr>
+<td>两座城就是教会与国家</td>
+<td>两城由终极之爱界定，在现世制度中彼此混合</td>
+</tr>
+<tr>
+<td>si fallor, sum 等于笛卡尔我思</td>
+<td>结构相近，哲学目的和体系位置不同</td>
+</tr>
+<tr>
+<td>阿奎那只是给亚里士多德施洗</td>
+<td>他吸收多重传统，并拒绝世界必然永恒、单一理智和必然流溢</td>
+</tr>
+<tr>
+<td>五路证明了全部基督教教义</td>
+<td>五路只是自然神学起点，后续才论证神的属性</td>
+</tr>
+<tr>
+<td>第一因就是时间第一事件</td>
+<td>阿奎那明确认为世界开端不能由哲学证明</td>
+</tr>
+<tr>
+<td>自然法是固定禁令清单</td>
+<td>第一原则、次级原则与具体应用层次不同，需要实践理性</td>
+</tr>
+<tr>
+<td>双重真理论是阿奎那立场</td>
+<td>阿奎那坚持真理不可能与真理冲突</td>
+</tr>
+<tr>
+<td>经院方法只是引用权威</td>
+<td>它系统构造反方、主体答复和逐项反驳</td>
+</tr>
+<tr>
+<td>拉丁人只从穆斯林取回希腊书</td>
+<td>既有直接希腊翻译，也有伊斯兰与犹太哲学的原创贡献</td>
+</tr>
+</tbody>
+</table>
+<h3 id="user-content-五十从奥古斯丁到阿奎那的思想路线">五十、从奥古斯丁到阿奎那的思想路线</h3>
+<pre><code class="language-text">古代柏拉图主义、新柏拉图主义
+          │
+          ▼
+奥古斯丁：
+内在真理—照明—意志—恩典—两城—时间意识
+          │
+          ├──────── 拉丁教父与奥古斯丁主义
+          │
+波爱修、安瑟尔谟、阿伯拉尔、波拿文都拉
+          │
+          ├──────── 希腊—叙利亚—阿拉伯—希伯来—拉丁翻译网络
+          │          阿维森纳、阿威罗伊、迈蒙尼德
+          ▼
+阿奎那：
+存在—本质—第一因—第二因—质料形式—自然法—恩典成全自然
+          │
+          ├──────── 司各脱、奥卡姆的批评
+          ├──────── 萨拉曼卡学派与自然法
+          ├──────── 宗教改革与经院争论
+          └──────── 新托马斯主义、德性伦理、分析宗教哲学
+</code></pre>
+<h3 id="user-content-五十一对宗教改革与近代哲学的影响">五十一、对宗教改革与近代哲学的影响</h3>
+<h4 id="user-content-奥古斯丁路线">奥古斯丁路线</h4>
+<ul>
+<li>路德和加尔文从原罪、恩典优先和意志受缚中获得资源；</li>
+<li>詹森主义在天主教内部重启晚期奥古斯丁恩典论；</li>
+<li>奥古斯丁的内在确定性常被拿来与笛卡尔作结构比较；马勒伯朗士、帕斯卡则更明确地继承或改造内在性与照明问题；</li>
+<li>现代现象学与解释学重视时间、记忆、忏悔和叙事自我。</li>
+</ul>
+<h4 id="user-content-阿奎那路线">阿奎那路线</h4>
+<ul>
+<li>卡耶坦、苏亚雷斯等把存在、类比和法律概念传入近代背景；</li>
+<li>萨拉曼卡学派把自然法用于战争、殖民和国际秩序；</li>
+<li>1879年后新托马斯主义系统复兴；</li>
+<li>当代德性伦理、自然法、行动哲学、心灵质形论和分析神哲学继续重构其体系。</li>
+</ul>
+<h3 id="user-content-五十二批判性继承">五十二、批判性继承</h3>
+<p>研究二人不等于接受其全部神学和社会判断。应区分：</p>
+<ol>
+<li>一项论证的形式是否有效；</li>
+<li>形而上学前提是否可辩护；</li>
+<li>历史教义是否依赖启示承诺；</li>
+<li>性别、宗教强制、等级和政治判断是否应拒绝；</li>
+<li>其问题结构能否在世俗、多元和科学语境中重构。</li>
+</ol>
+<p>奥古斯丁关于内在性和爱可以脱离特定教义进入时间哲学与伦理心理学；阿奎那关于自然法和共同善也可以进入公共哲学。但这种转化需要重新论证，而不能只借经典权威。</p>
+<h2 id="user-content-结论">结论</h2>
+<p>奥古斯丁和阿奎那共同证明，中世纪哲学不能被理解为理性在信仰面前沉默的一千年。</p>
+<p>奥古斯丁的核心洞见是：</p>
+<blockquote>
+<p>真理的道路必须穿过心灵，却不能停止于主观心灵。有限自我在怀疑、记忆、爱和时间经验中发现高于自身的规范；人的问题也不只是缺少知识，而是意志和爱的秩序发生偏离。</p>
+</blockquote>
+<p>他的哲学由此把古代“灵魂转向”转化为创造、罪、恩典和历史中的第一人称自我。恶不是另一种实体，时间不是神之外的容器，政治帝国也不是终极共同体。</p>
+<p>阿奎那的核心洞见是：</p>
+<blockquote>
+<p>神圣第一原因若是真正普遍的原因，就不必摧毁受造自然；反而能够使自然拥有真实形式、因果能力、理性、自由与共同善。恩典不取消自然，而是医治并成全自然。</p>
+</blockquote>
+<p>他的体系因此不断作层次区分：</p>
+<ul>
+<li>第一因与第二因；</li>
+<li>本质与存在；</li>
+<li>自然终向与超自然终向；</li>
+<li>自然理性与启示奥秘；</li>
+<li>灵魂作为身体形式与灵魂的自存活动；</li>
+<li>永恒法、自然法、人法与神法；</li>
+<li>世界被创造与世界有时间开端。</li>
+</ul>
+<p>二人最深的共同问题是：有限者如何真正有限，却又不与无限者断裂？</p>
+<ul>
+<li>奥古斯丁以照明、记忆、爱和参与回答；</li>
+<li>阿奎那以存在行动、类比、第一—第二原因和自然—恩典回答。</li>
+</ul>
+<p>这条思想线塑造了此后的恩典论、自然神学、主体哲学、时间意识、法哲学、德性伦理、政治神学和形而上学。其历史局限同样真实：宗教强制、性别等级、欲望与身体观、政治秩序的等级化，都需要批判而不能以传统权威回避。</p>
+<p>中世纪哲学最值得继承的，不是某一套不可修改的答案，而是一种高密度的区分能力：</p>
+<blockquote>
+<p>高于理性不等于违反理性；<br>
+恶不是实体不等于恶不真实；<br>
+神是第一因不等于自然原因无效；<br>
+创造不等于时间最初的一次变化；<br>
+法是理性秩序不等于任何权力命令都是法；<br>
+自由也不等于完全脱离欲望、品格、共同体与恩典的孤立选择。</p>
+</blockquote>
+<hr>
+<h2 id="user-content-术语表">术语表</h2>
+<table>
+<thead>
+<tr>
+<th>拉丁语</th>
+<th>常见中译</th>
+<th>本文中的含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fides</td>
+<td>信仰、信</td>
+<td>对启示与可信权威的接受，也是理解的起点</td>
+</tr>
+<tr>
+<td>ratio</td>
+<td>理性、推理</td>
+<td>自然认识、论证和概念区分能力</td>
+</tr>
+<tr>
+<td>intellectus</td>
+<td>理智、理解</td>
+<td>对原则、本质和可理解形式的把握</td>
+</tr>
+<tr>
+<td>illuminatio</td>
+<td>照明</td>
+<td>真理的神圣光源及理智判断的依赖关系</td>
+</tr>
+<tr>
+<td>memoria</td>
+<td>记忆</td>
+<td>保存过去、概念、自我和时间连续性的心灵能力</td>
+</tr>
+<tr>
+<td>voluntas</td>
+<td>意志</td>
+<td>理性欲望、选择与爱的主体能力</td>
+</tr>
+<tr>
+<td>liberum arbitrium</td>
+<td>自由选择</td>
+<td>常用于指作出选择的能力；与 <em>libertas</em> 的对照是本文的分析性概括</td>
+</tr>
+<tr>
+<td>libertas</td>
+<td>真正自由</td>
+<td>常用于指从罪与失序欲望中被释放、稳定趋向善；具体用法随时期和语境变化</td>
+</tr>
+<tr>
+<td>gratia</td>
+<td>恩典</td>
+<td>医治并提升受造自然的神圣赠予</td>
+</tr>
+<tr>
+<td>privatio boni</td>
+<td>善的匮乏</td>
+<td>某主体本应具有之完善的缺失</td>
+</tr>
+<tr>
+<td>ordo amoris</td>
+<td>爱的秩序</td>
+<td>按对象真实价值安排爱与欲望</td>
+</tr>
+<tr>
+<td>distentio animi</td>
+<td>心灵的延展</td>
+<td>心灵在记忆、注意和期待中的时间展开</td>
+</tr>
+<tr>
+<td>civitas Dei</td>
+<td>上帝之城</td>
+<td>由爱神这一终极之爱构成的末世共同体</td>
+</tr>
+<tr>
+<td>civitas terrena</td>
+<td>尘世之城</td>
+<td>由自我绝对化和统治欲构成的共同体</td>
+</tr>
+<tr>
+<td>essentia / quidditas</td>
+<td>本质、“是什么”</td>
+<td>事物可定义的本性</td>
+</tr>
+<tr>
+<td>esse / actus essendi</td>
+<td>存在、存在之实现</td>
+<td>使本质现实存在的行动</td>
+</tr>
+<tr>
+<td>ipsum esse subsistens</td>
+<td>自存的存在本身</td>
+<td>阿奎那对神的形而上学表述</td>
+</tr>
+<tr>
+<td>actus / potentia</td>
+<td>现实 / 潜能</td>
+<td>已实现状态与可被实现的真实能力</td>
+</tr>
+<tr>
+<td>causa prima / secunda</td>
+<td>第一因 / 第二因</td>
+<td>存在根源与受造世界中的真实原因</td>
+</tr>
+<tr>
+<td>analogia</td>
+<td>类比</td>
+<td>神名既非单义也非纯异义的述谓方式</td>
+</tr>
+<tr>
+<td>hylomorphismus</td>
+<td>质料形式论</td>
+<td>具体实体由质料与形式构成</td>
+</tr>
+<tr>
+<td>phantasma</td>
+<td>感性表象</td>
+<td>理智抽象普遍形式所依赖的感性材料</td>
+</tr>
+<tr>
+<td>lex aeterna</td>
+<td>永恒法</td>
+<td>神圣智慧对整个受造秩序的治理</td>
+</tr>
+<tr>
+<td>lex naturalis</td>
+<td>自然法</td>
+<td>理性受造者对永恒法的参与</td>
+</tr>
+<tr>
+<td>bonum commune</td>
+<td>共同善</td>
+<td>共同体成员共享且由共同生活实现的善</td>
+</tr>
+<tr>
+<td>beatitudo</td>
+<td>幸福、荣福</td>
+<td>人的最终目的；完善形式为荣福直观</td>
+</tr>
+<tr>
+<td>visio beatifica</td>
+<td>荣福直观</td>
+<td>对神圣本质的直接认识和爱的完成</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="user-content-参考文献与在线原典">参考文献与在线原典</h2>
+<h3 id="user-content-一奥古斯丁原典">一、奥古斯丁原典</h3>
+<ol>
+<li>Augustinus, <em>Confessiones</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/confessioni/index2.htm">https://www.augustinus.it/latino/confessioni/index2.htm</a></li>
+<li>Augustinus, <em>De civitate Dei</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/cdd/index2.htm">https://www.augustinus.it/latino/cdd/index2.htm</a></li>
+<li>Augustinus, <em>De libero arbitrio</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/libero_arbitrio/index2.htm">https://www.augustinus.it/latino/libero_arbitrio/index2.htm</a></li>
+<li>Augustinus, <em>De Trinitate</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/trinita/index2.htm">https://www.augustinus.it/latino/trinita/index2.htm</a></li>
+<li>Augustinus, <em>De vera religione</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/vera_religione/index.htm">https://www.augustinus.it/latino/vera_religione/index.htm</a></li>
+<li>Augustinus, <em>De magistro</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/maestro/index.htm">https://www.augustinus.it/latino/maestro/index.htm</a></li>
+<li>Augustinus, <em>De gratia et libero arbitrio</em>. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/grazia_libero_arbitrio/index.htm">https://www.augustinus.it/latino/grazia_libero_arbitrio/index.htm</a></li>
+<li>Augustinus, <em>Sermones</em>, Sermo 43.7.9. 拉丁文：<br>
+<a href="https://www.augustinus.it/latino/discorsi/discorso_054_testo.htm">https://www.augustinus.it/latino/discorsi/discorso_054_testo.htm</a></li>
+<li>New Advent, <em>Confessions</em>. 英文：<br>
+<a href="https://www.newadvent.org/fathers/1101.htm">https://www.newadvent.org/fathers/1101.htm</a></li>
+<li>New Advent, <em>City of God</em>. 英文：<br>
+<a href="https://www.newadvent.org/fathers/1201.htm">https://www.newadvent.org/fathers/1201.htm</a></li>
+<li>New Advent, <em>On the Trinity</em>. 英文：<br>
+<a href="https://www.newadvent.org/fathers/1301.htm">https://www.newadvent.org/fathers/1301.htm</a></li>
+</ol>
+<h3 id="user-content-二阿奎那原典">二、阿奎那原典</h3>
+<ol>
+<li>Corpus Thomisticum，作品总目录：<br>
+<a href="https://www.corpusthomisticum.org/iopera.html">https://www.corpusthomisticum.org/iopera.html</a></li>
+<li><em>Summa theologiae</em> I q.1，神圣学说与理性：<br>
+<a href="https://www.corpusthomisticum.org/sth1001.html">https://www.corpusthomisticum.org/sth1001.html</a></li>
+<li><em>Summa theologiae</em> I q.2，五路：<br>
+<a href="https://www.corpusthomisticum.org/sth1002.html">https://www.corpusthomisticum.org/sth1002.html</a></li>
+<li><em>Summa theologiae</em> I q.3—13，神圣简一、存在与神名：<br>
+<a href="https://www.corpusthomisticum.org/sth1003.html">https://www.corpusthomisticum.org/sth1003.html</a></li>
+<li><em>Summa theologiae</em> I q.44—49，创造、世界开端与恶：<br>
+<a href="https://www.corpusthomisticum.org/sth1044.html">https://www.corpusthomisticum.org/sth1044.html</a></li>
+<li><em>Summa theologiae</em> I q.75—78，灵魂与身体：<br>
+<a href="https://www.corpusthomisticum.org/sth1075.html">https://www.corpusthomisticum.org/sth1075.html</a></li>
+<li><em>Summa theologiae</em> I q.84—89，人的知识：<br>
+<a href="https://www.corpusthomisticum.org/sth1084.html">https://www.corpusthomisticum.org/sth1084.html</a></li>
+<li><em>Summa theologiae</em> I–II q.1起，人的终向与幸福：<br>
+<a href="https://www.corpusthomisticum.org/sth2001.html">https://www.corpusthomisticum.org/sth2001.html</a></li>
+<li><em>Summa theologiae</em> I–II q.90—92，法律：<br>
+<a href="https://www.corpusthomisticum.org/sth2090.html">https://www.corpusthomisticum.org/sth2090.html</a></li>
+<li><em>Summa theologiae</em> I–II q.94，自然法：<br>
+<a href="https://www.corpusthomisticum.org/sth2094.html">https://www.corpusthomisticum.org/sth2094.html</a></li>
+<li><em>De ente et essentia</em>：<br>
+<a href="https://www.corpusthomisticum.org/oee.html">https://www.corpusthomisticum.org/oee.html</a></li>
+<li>New Advent, <em>Summa Theologiae</em> 英文总目录：<br>
+<a href="https://www.newadvent.org/summa/">https://www.newadvent.org/summa/</a></li>
+</ol>
+<h3 id="user-content-三现代学术综述">三、现代学术综述</h3>
+<ol>
+<li>“Augustine.” <em>Stanford Encyclopedia of Philosophy</em>.<br>
+<a href="https://plato.stanford.edu/entries/augustine/">https://plato.stanford.edu/entries/augustine/</a></li>
+<li>“Divine Illumination.” <em>Stanford Encyclopedia of Philosophy</em>.<br>
+<a href="https://plato.stanford.edu/entries/illumination/">https://plato.stanford.edu/entries/illumination/</a></li>
+<li>“Saint Thomas Aquinas.” <em>Stanford Encyclopedia of Philosophy</em>.<br>
+<a href="https://plato.stanford.edu/entries/aquinas/">https://plato.stanford.edu/entries/aquinas/</a></li>
+<li>“Medieval Philosophy.” <em>Stanford Encyclopedia of Philosophy</em>.<br>
+<a href="https://plato.stanford.edu/entries/medieval-philosophy/">https://plato.stanford.edu/entries/medieval-philosophy/</a></li>
+<li>“Aquinas’ Moral, Political, and Legal Philosophy.” <em>Stanford Encyclopedia of Philosophy</em>.<br>
+<a href="https://plato.stanford.edu/entries/aquinas-moral-political/">https://plato.stanford.edu/entries/aquinas-moral-political/</a></li>
+<li>“Natural Law Theories.” <em>Stanford Encyclopedia of Philosophy</em>.<br>
+<a href="https://plato.stanford.edu/entries/natural-law-theories/">https://plato.stanford.edu/entries/natural-law-theories/</a></li>
+<li>希腊—阿拉伯传统研究入口：<br>
+<a href="https://plato.stanford.edu/entries/arabic-islamic-greek/">https://plato.stanford.edu/entries/arabic-islamic-greek/</a></li>
+</ol>
+<h3 id="user-content-四推荐研究书目">四、推荐研究书目</h3>
+<h4 id="user-content-奥古斯丁-1">奥古斯丁</h4>
+<ol>
+<li>Brown, Peter. <em>Augustine of Hippo: A Biography</em>. Revised ed. University of California Press, 2000.</li>
+<li>Rist, John M. <em>Augustine: Ancient Thought Baptized</em>. Cambridge University Press, 1994.</li>
+<li>Matthews, Gareth B. <em>Augustine</em>. Blackwell, 2005.</li>
+<li>O’Daly, Gerard. <em>Augustine’s Philosophy of Mind</em>. University of California Press, 1987.</li>
+<li>Markus, R. A. <em>Saeculum: History and Society in the Theology of St Augustine</em>. Cambridge University Press, 1988.</li>
+<li>Meconi, David Vincent, and Eleonore Stump, eds. <em>The Cambridge Companion to Augustine</em>. 2nd ed., 2014.</li>
+</ol>
+<h4 id="user-content-阿奎那-1">阿奎那</h4>
+<ol>
+<li>Stump, Eleonore. <em>Aquinas</em>. Routledge, 2003.</li>
+<li>Davies, Brian. <em>The Thought of Thomas Aquinas</em>. Oxford University Press, 1992.</li>
+<li>Wippel, John F. <em>The Metaphysical Thought of Thomas Aquinas</em>. Catholic University of America Press, 2000.</li>
+<li>Torrell, Jean-Pierre. <em>Saint Thomas Aquinas, Vol. 1: The Person and His Work</em>. Revised ed., 2005.</li>
+<li>Pasnau, Robert. <em>Thomas Aquinas on Human Nature</em>. Cambridge University Press, 2002.</li>
+<li>Kretzmann, Norman, and Eleonore Stump, eds. <em>The Cambridge Companion to Aquinas</em>. Cambridge University Press, 1993.</li>
+<li>Finnis, John. <em>Aquinas: Moral, Political, and Legal Theory</em>. Oxford University Press, 1998.</li>
+</ol>
+<h4 id="user-content-中世纪哲学与翻译运动">中世纪哲学与翻译运动</h4>
+<ol>
+<li>Marenbon, John. <em>Medieval Philosophy: An Historical and Philosophical Introduction</em>. Routledge, 2007.</li>
+<li>Pasnau, Robert, and Christina van Dyke, eds. <em>The Cambridge History of Medieval Philosophy</em>. Cambridge University Press, 2010.</li>
+<li>Adamson, Peter. <em>Medieval Philosophy</em>. Oxford University Press, 2019.</li>
+<li>Gutas, Dimitri. <em>Greek Thought, Arabic Culture</em>. Routledge, 1998.</li>
+<li>MacIntyre, Alasdair. <em>After Virtue</em>. University of Notre Dame Press, 1981.</li>
+</ol>
+<h3 id="user-content-五文本与解释备注">五、文本与解释备注</h3>
+<ul>
+<li>奥古斯丁严格属于晚期古代，但其哲学是拉丁中世纪的核心基础。</li>
+<li>“柏拉图主义者的书”主要可能指普罗提诺和波菲利的拉丁译介，而非柏拉图全集。</li>
+<li>奥古斯丁照明论不是每次认识都接受神秘命题灌输；强弱解释仍有争议。</li>
+<li><em>Privatio boni</em> 说明恶的存在论地位，不否认痛苦、伤害和罪责。</li>
+<li>阿奎那“五路”不是现代物理学或大爆炸论证，也不一次性证明三位一体。</li>
+<li><em>Esse</em> 在阿奎那处常指存在之实现，不能完全化约成现代逻辑存在量词。</li>
+<li>New Advent 英译较旧，正式研究应同时核对拉丁原文与现代译本。</li>
+<li>1270、1277年巴黎谴责具有地方性和复杂目标，不能写成“教会全面禁止亚里士多德”。</li>
+<li>本文英文和中文均为对照性直译，不等同于任何单一出版译本。</li>
+</ul>
+5:["$","main",null,{"id":"main-content","className":"article-page","data-section":"cosmic-walk","children":[["$","article",null,{"children":[["$","header",null,{"className":"article-heading","children":[["$","$L2",null,{"className":"article-section","href":"/cosmic-walk/","children":"宇宙漫步"}],["$","h1",null,{"children":"奥古斯丁与阿奎那：从内在心灵到存在、自然法与经院综合"}],["$","div",null,{"className":"article-meta","children":[["$","time",null,{"dateTime":"2026-08-26","children":"2026年8月26日"}],["$","span",null,{"children":["作者：","𝕚𝕚𝕕𝕖𝕖𝕤𝕦𝕦"]}],null]}]]}],["$","nav",null,{"className":"article-toc","aria-label":"文章目录","children":["$","details",null,{"children":[["$","summary",null,{"children":"目录"}],["$","ol",null,{"children":[["$","li","user-content-第一编奥古斯丁在内在心灵中追问永恒真理",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第一编奥古斯丁在内在心灵中追问永恒真理","children":"第一编　奥古斯丁：在内在心灵中追问永恒真理"}]}],["$","li","user-content-第二编阿奎那信仰理性与存在的经院综合",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第二编阿奎那信仰理性与存在的经院综合","children":"第二编　阿奎那：信仰、理性与存在的经院综合"}]}],["$","li","user-content-第三编奥古斯丁与阿奎那的正面对照",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第三编奥古斯丁与阿奎那的正面对照","children":"第三编　奥古斯丁与阿奎那的正面对照"}]}],["$","li","user-content-第四编中世纪哲学的共同问题与现代意义",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第四编中世纪哲学的共同问题与现代意义","children":"第四编　中世纪哲学的共同问题与现代意义"}]}],["$","li","user-content-结论",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-结论","children":"结论"}]}],["$","li","user-content-术语表",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-术语表","children":"术语表"}]}],["$","li","user-content-参考文献与在线原典",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-参考文献与在线原典","children":"参考文献与在线原典"}]}]]}]]}]}],["$","div",null,{"className":"article-body","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],"$L11"]}]
+11:["$","nav",null,{"className":"article-end","aria-label":"文章结束后的入口","children":[["$","$L2",null,{"className":"text-link","href":"/cosmic-walk/","children":["返回","宇宙漫步"]}],["$","$L2",null,{"className":"text-link","href":"/help/","children":"如果你现在需要帮助"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#041521"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"奥古斯丁与阿奎那：从内在心灵到存在、自然法与经院综合 · 传信予你"}],["$","meta","1",{"name":"description","content":"一个记录生活碎片与宇宙漫步的个人博客。"}],["$","meta","2",{"name":"author","content":"𝕚𝕚𝕕𝕖𝕖𝕤𝕦𝕦"}],["$","link","3",{"rel":"icon","href":"/icon.svg?7a36f6adfdc82eb6","type":"image/svg+xml","sizes":"any"}],["$","$L12","4",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
