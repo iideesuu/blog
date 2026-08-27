@@ -1,0 +1,3527 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","851","static/chunks/app/writing/%5Bslug%5D/page-f97a96b85b5a8f7c.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/28fb2a6b41a5e453.css","style"]
+0:{"P":null,"b":"Yg7qz81wiB0wV8eWrhlDK","p":"","c":["","writing","06-locke-berkeley-hume",""],"i":false,"f":[[["",{"children":["writing",{"children":[["slug","06-locke-berkeley-hume","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28fb2a6b41a5e453.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳到主要内容"}],["$","div",null,{"className":"site-shell","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header-inner page-width","children":[["$","$L2",null,{"className":"wordmark","href":"/","aria-label":"传信予你，返回首页","children":"传信予你"}],["$","nav",null,{"className":"site-nav","aria-label":"主要导航","children":[["$","$L2","/cosmic-walk/",{"className":"nav-link","href":"/cosmic-walk/","children":"宇宙漫步"}],["$","$L2","/fragments/",{"className":"nav-link","href":"/fragments/","children":"日记碎片"}],["$","$L2","/help/",{"className":"nav-link nav-help","href":"/help/","children":"需要帮助"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main-content","className":"not-found page-width","children":[["$","p",null,{"className":"eyebrow","children":"404 · LOST AT SEA"}],["$","h1",null,{"children":"这里没有找到文字"}],["$","p",null,{"children":"这条航线暂时没有留下记录。"}],["$","$L2",null,{"className":"text-link","href":"/","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer page-width","children":[["$","p",null,{"className":"site-footer-wish","children":"愿你在这里，找到继续走一小步的理由。"}],["$","p",null,{"className":"site-footer-copyright","children":"© 2026 传信予你"}]]}]]}]]}]}]]}],{"children":["writing",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","06-locke-berkeley-hume","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T2e9a0,<blockquote>
+<p>主题：经验、观念、知觉、语言、实体、因果、自我、知识、怀疑、自由、政治与道德</p>
+</blockquote>
+<h3 id="user-content-摘要">摘要</h3>
+<p>约翰·洛克、乔治·贝克莱与大卫·休谟，通常被哲学史教材并称为“英国经验主义者”。这一分类抓住了一个真实方向：三人都反对脱离经验而任意建造概念体系，都要求追问观念从何而来、知识能够达到多大范围，并把人的认知能力本身变成哲学研究对象。</p>
+<p>但“经验主义”不是三人共同签署的学派纲领，也不是一条从温和经验论必然滑向彻底怀疑论的直线：</p>
+<ul>
+<li><strong>洛克</strong>研究人的理解能力，以感觉和反省说明观念来源，同时保留外部世界、实体、自然法、神和有限但真实的知识；</li>
+<li><strong>贝克莱</strong>接受“知识必须从可经验内容出发”，却据此反对不可感知的物质实体，认为可感事物的存在就在于被感知，而精神则作为主动的感知者存在；</li>
+<li><strong>休谟</strong>把心灵内容区分为印象与观念，以习惯解释因果信念和归纳推理，并把自我、道德判断与宗教证据置于经验性的“人性科学”之中。</li>
+</ul>
+<p>三人的理论重心可以先浓缩为：</p>
+<table>
+<thead>
+<tr>
+<th>哲学家</th>
+<th>经验从哪里进入哲学</th>
+<th>对物质实体的态度</th>
+<th>因果与秩序</th>
+<th>自我与人格</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>洛克</td>
+<td>感觉与反省提供全部观念材料</td>
+<td>承认外部物体与未知实体基底，但强调认识有限</td>
+<td>物体具有可产生变化与观念的能力</td>
+<td>人格同一性主要依意识延伸，而非单由同一灵魂或身体决定</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>我们直接拥有的是观念，精神以“概念性认识”而非观念被把握</td>
+<td>否认不被任何精神感知的物质基底</td>
+<td>自然规律是上帝有秩序地给予感觉观念的稳定规则</td>
+<td>精神是主动、不可被当作观念呈现的感知者</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>生动印象先于相应的简单观念</td>
+<td>对传统实体观念进行来源批判</td>
+<td>必然联系不由纯理性看出，因果推断依恒常结合与习惯</td>
+<td>内省只遇到一束不断变化的知觉，严格的简单自我无法被直接发现</td>
+</tr>
+</tbody>
+</table>
+<p>因此，本章不是把三人写成“洛克提出经验主义—贝克莱把它推向唯心主义—休谟把它推向怀疑主义”的机械序列，而是分析他们如何围绕观念理论、外部世界、语言、因果和主体性形成三次不同的重构。</p>
+<hr>
+<h3 id="user-content-一为什么把三人放在同一份文档中">一、为什么把三人放在同一份文档中？</h3>
+<h4 id="user-content-1-共同面对的历史条件">1. 共同面对的历史条件</h4>
+<p>十七世纪末到十八世纪的英国、爱尔兰与苏格兰同时经历：</p>
+<ul>
+<li>实验科学、医学、光学和牛顿物理学的发展；</li>
+<li>王权、议会、宗教宽容与殖民扩张之间的政治冲突；</li>
+<li>印刷市场、咖啡馆、学术社团和公共舆论的扩大；</li>
+<li>经院实体论与机械自然哲学之间的长期争论；</li>
+<li>对宗教启示、自然神学、奇迹证言和教会权威的重新审查；</li>
+<li>对语言如何传递观念、制造误解并维持社会秩序的持续关注。</li>
+</ul>
+<p>三人共同追问：</p>
+<ol>
+<li>人类心灵最初拥有什么，观念怎样产生？</li>
+<li>感觉经验能够给予知识，还是只给予主观表象？</li>
+<li>如果我们只直接把握观念，如何谈论外部物体？</li>
+<li>“实体”“原因”“自我”等概念具有可追溯的经验内容吗？</li>
+<li>数学确定性、外部世界知识与日常概率判断有什么差别？</li>
+<li>一般词如何指称许多个别事物？</li>
+<li>人的行动由欲望、判断和因果规律塑造时，自由意味着什么？</li>
+<li>宗教和政治主张应接受怎样的证据标准？</li>
+</ol>
+<h4 id="user-content-2-三种不同的理论方向">2. 三种不同的理论方向</h4>
+<pre><code class="language-text">洛克：先调查理解能力的来源、范围与限度
+      ↓
+观念来自感觉与反省，知识是对观念关系的把握
+      ↓
+贝克莱：若不可感知的“物质基底”从不进入经验，为何还要设定它？
+      ↓
+把可感事物理解为观念，把真实能动性归于精神
+      ↓
+休谟：若观念必须接受经验来源检验，因果、自我和必然性如何成立？
+      ↓
+以印象、联想、习惯、情感和社会惯例解释人的信念与行动
+</code></pre>
+<p>这个图示表示问题的继承关系，不表示三人构成封闭学派。贝克莱批判洛克，却认为自己是在捍卫常识、宗教和经验世界；休谟吸收洛克与贝克莱的观念论资源，却拒绝贝克莱对精神实体和上帝因果作用的直接证明。</p>
+<h4 id="user-content-3-经验主义标签的限度">3. “经验主义”标签的限度</h4>
+<ol>
+<li><strong>经验主义不等于只相信五官。</strong> 洛克把反省视为心灵对自身活动的内部经验；休谟的印象也包括激情和情感。</li>
+<li><strong>经验主义不等于拒绝理性。</strong> 三人都使用分析、推论和概念区分；争论焦点是理性能够在没有经验材料时建立什么。</li>
+<li><strong>三人不共享同一种“观念”概念。</strong> 洛克的观念是理解活动的直接对象；贝克莱把观念规定为被动的被感知者；休谟则把观念定义为相对微弱的知觉。</li>
+<li><strong>贝克莱不是从经验主义“倒退”到神学。</strong> 上帝和精神是其反物质实体论与自然秩序解释的组成部分。</li>
+<li><strong>休谟不是宣布一切知识都不可能。</strong> 他区分证明、经验概率与自然信念，主张温和或缓和的怀疑，而非持续生活于彻底悬置之中。</li>
+<li><strong>“理性主义—经验主义—康德综合”是后来的课程框架。</strong> 它有助于比较，却可能遮蔽三人与经院哲学、自然法传统、牛顿主义和宗教争论的复杂联系。</li>
+</ol>
+<hr>
+<h3 id="user-content-二时间坐标与主要著作">二、时间坐标与主要著作</h3>
+<table>
+<thead>
+<tr>
+<th align="right">时间</th>
+<th>人物与著作</th>
+<th>哲学史意义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">1632</td>
+<td>约翰·洛克出生</td>
+<td>英国内战、宗教冲突与新科学构成其思想背景</td>
+</tr>
+<tr>
+<td align="right">1660</td>
+<td>英国皇家学会成立</td>
+<td>实验、观察、公共验证与知识协作成为新的科学理想</td>
+</tr>
+<tr>
+<td align="right">1687</td>
+<td>牛顿《自然哲学的数学原理》出版</td>
+<td>数学自然科学为经验与推理关系提供强大范型</td>
+</tr>
+<tr>
+<td align="right">1689—1690</td>
+<td>洛克《人类理解论》《政府论两篇》《论宽容书简》出版</td>
+<td>认识论、自由主义政治与宗教宽容形成相互关联的计划</td>
+</tr>
+<tr>
+<td align="right">1685</td>
+<td>乔治·贝克莱出生</td>
+<td>洛克经验论已进入欧洲争论中心</td>
+</tr>
+<tr>
+<td align="right">1704</td>
+<td>洛克去世</td>
+<td>其观念论、语言哲学和政治理论继续支配十八世纪讨论</td>
+</tr>
+<tr>
+<td align="right">1709</td>
+<td>贝克莱《视觉新论》出版</td>
+<td>把距离知觉解释为经验习得的视觉—触觉关联</td>
+</tr>
+<tr>
+<td align="right">1710</td>
+<td>贝克莱《人类知识原理》出版</td>
+<td>抽象观念批判、非物质主义与“存在即被感知”系统提出</td>
+</tr>
+<tr>
+<td align="right">1711</td>
+<td>大卫·休谟出生</td>
+<td>苏格兰启蒙运动的重要一代开始形成</td>
+</tr>
+<tr>
+<td align="right">1713</td>
+<td>贝克莱《海拉斯与斐洛诺斯三篇对话》出版</td>
+<td>以对话形式说明物质实体批判与常识实在论诉求</td>
+</tr>
+<tr>
+<td align="right">1739—1740</td>
+<td>休谟《人性论》出版</td>
+<td>以经验与观察建立“人性科学”，系统讨论理解、激情和道德</td>
+</tr>
+<tr>
+<td align="right">1748</td>
+<td>休谟《人类理解研究》出版</td>
+<td>因果、归纳、自由与必然、奇迹和怀疑主义得到精炼重述</td>
+</tr>
+<tr>
+<td align="right">1751</td>
+<td>休谟《道德原则研究》出版</td>
+<td>道德情感、效用、正义和社会评价形成成熟表达</td>
+</tr>
+<tr>
+<td align="right">1753</td>
+<td>贝克莱去世</td>
+<td>其非物质主义继续影响休谟、康德和后来的观念论</td>
+</tr>
+<tr>
+<td align="right">1757</td>
+<td>休谟《宗教的自然史》出版</td>
+<td>宗教信念被置于恐惧、希望与人类心理机制中考察</td>
+</tr>
+<tr>
+<td align="right">1776</td>
+<td>休谟去世</td>
+<td>其因果与归纳问题迅速成为德国和英国哲学的重要刺激</td>
+</tr>
+<tr>
+<td align="right">1779</td>
+<td>休谟《自然宗教对话录》身后出版</td>
+<td>设计论证、恶的问题与自然神学受到多声部批判</td>
+</tr>
+<tr>
+<td align="right">1781</td>
+<td>康德《纯粹理性批判》初版</td>
+<td>经验主义与理性主义的冲突被重构为先验哲学问题</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-三文本语言与翻译说明">三、文本、语言与翻译说明</h3>
+<p>除洛克《论宽容书简》初版以拉丁文写成外，本章使用的三人主要文本均以英语写成；《论宽容书简》采用 William Popple 1689年英译并另行标明。因此，本章关键引文依次提供：</p>
+<ul>
+<li><strong>原作语言：English</strong>：保留原句措辞；为可读性统一少量拼写、大小写和标点，删节均以 […] 标明；</li>
+<li><strong>Modern English rendering</strong>：把早期现代英语改写为较清楚的当代英语，不作为另一部“英文译本”冒充原著；</li>
+<li><strong>中文直译</strong>：尽量保留命题结构、术语关系与限定语；</li>
+<li><strong>文本坐标</strong>：标明作品、卷、章、节、段落或标准页码。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>哲学家</th>
+<th>主要文本</th>
+<th>本章坐标方式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>洛克</td>
+<td><em>An Essay concerning Human Understanding</em></td>
+<td>以卷、章、节表示，如 Essay II.i.2</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td><em>Two Treatises of Government</em></td>
+<td>以篇与段落表示，如 Second Treatise §27</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td><em>A Treatise concerning the Principles of Human Knowledge</em></td>
+<td>以 PHK 与段落号表示，如 PHK §3</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td><em>An Essay towards a New Theory of Vision</em></td>
+<td>以 NTV 与段落号表示</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td><em>A Treatise of Human Nature</em></td>
+<td>以 T 卷、部、章、段及 SBN 页码表示</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td><em>An Enquiry concerning Human Understanding</em></td>
+<td>以 E 节、段及 SBN 页码表示</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td><em>An Enquiry concerning the Principles of Morals</em></td>
+<td>以 M 节、段及 SBN 页码表示</td>
+</tr>
+</tbody>
+</table>
+<p>常用缩写：</p>
+<ul>
+<li><strong>Essay</strong>：洛克《人类理解论》；</li>
+<li><strong>PHK</strong>：贝克莱《人类知识原理》；</li>
+<li><strong>NTV</strong>：贝克莱《视觉新论》；</li>
+<li><strong>T</strong>：休谟《人性论》；</li>
+<li><strong>E</strong>：休谟《人类理解研究》；</li>
+<li><strong>M</strong>：休谟《道德原则研究》；</li>
+<li><strong>SBN</strong>：Selby-Bigge／Nidditch 版通行页码。</li>
+</ul>
+<p>原作中的 <em>idea</em>、<em>impression</em>、<em>reflection</em>、<em>substance</em>、<em>quality</em>、<em>spirit</em>、<em>custom</em>、<em>belief</em> 等词会依各自体系翻译，不能假定同一个英文词在三人那里具有完全相同的理论功能。</p>
+<hr>
+<h2 id="user-content-第一编洛克观念的来源知识的限度与人格同一性">第一编　洛克：观念的来源、知识的限度与人格同一性</h2>
+<h3 id="user-content-四生平著作与问题意识">四、生平、著作与问题意识</h3>
+<p>约翰·洛克（John Locke，1632—1704）成长于英国内战、王政复辟、光荣革命和宗教冲突的时代。他在牛津接受经院教育，却逐渐转向医学、实验科学和政治实践；与波义耳等人的交往，使他熟悉皇家学会重视观察、实验和可公开检验结果的知识风格。</p>
+<p>洛克的主要问题不是先建立一个关于宇宙全部存在者的体系，而是先调查人类理解能力：</p>
+<blockquote>
+<p>我们能够认识什么？观念通过什么材料产生？知识能达到怎样的确定性？在知识之外，人应当怎样合理地判断、相信与行动？</p>
+</blockquote>
+<p>主要著作：</p>
+<table>
+<thead>
+<tr>
+<th>著作</th>
+<th align="right">出版时间</th>
+<th>核心问题</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>An Essay concerning Human Understanding</em>《人类理解论》</td>
+<td align="right">1689—1690</td>
+<td>观念来源、知识范围、语言、概率与人格同一性</td>
+</tr>
+<tr>
+<td><em>Two Treatises of Government</em>《政府论两篇》</td>
+<td align="right">1689—1690</td>
+<td>自然权利、同意、财产权、政治信托与反抗权</td>
+</tr>
+<tr>
+<td><em>Epistola de Tolerantia</em>《论宽容书简》</td>
+<td align="right">1689</td>
+<td>国家权力与宗教信仰的边界</td>
+</tr>
+<tr>
+<td><em>Some Thoughts concerning Education</em>《教育漫话》</td>
+<td align="right">1693</td>
+<td>习惯、自制、经验与教育</td>
+</tr>
+<tr>
+<td><em>The Reasonableness of Christianity</em>《基督教的合理性》</td>
+<td align="right">1695</td>
+<td>理性、启示和基督教信仰</td>
+</tr>
+</tbody>
+</table>
+<p>洛克自称采用一种“历史的、朴素的方法”：不先假定心灵的隐秘本质，而考察观念实际怎样进入理解力、心灵怎样处理它们，以及人们何时真正具有知识。</p>
+<hr>
+<h3 id="user-content-五反天赋观念论心灵没有内容还是没有能力">五、反天赋观念论：心灵没有内容，还是没有能力？</h3>
+<p>洛克反对的是这样一种强主张：某些观念或命题像文字一样预先刻印在每个人的心灵中，并因其天赋性而无需经验检验。</p>
+<p>他的主要质疑包括：</p>
+<ol>
+<li>所谓思辨原则和实践原则并没有得到全人类现实而一致的同意；</li>
+<li>儿童、未接受相关教育者和不同文化群体并不实际意识到这些命题；</li>
+<li>“经过理性推导以后才被认识”不能证明一个命题在推导以前已经作为知识存在；</li>
+<li>许多看似天赋的原则，实际上来自早期教育、语言习惯和社会权威；</li>
+<li>即使人天生具有学习、比较和推理能力，也不能推出某个特定观念已经天赋地存在。</li>
+</ol>
+<p>因此，应区分：</p>
+<table>
+<thead>
+<tr>
+<th>洛克否认</th>
+<th>洛克保留</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>现成的天赋观念</td>
+<td>感知、记忆和注意能力</td>
+</tr>
+<tr>
+<td>预先被知道的天赋命题</td>
+<td>比较、组合与抽象能力</td>
+</tr>
+<tr>
+<td>以“普遍同意”免除论证</td>
+<td>推理、判断和形成一般观念的能力</td>
+</tr>
+<tr>
+<td>不经经验便拥有具体知识内容</td>
+<td>人类共有的自然能力及其一般运作方式</td>
+</tr>
+</tbody>
+</table>
+<p>莱布尼茨后来针对这一点提出著名反驳：天赋内容可以是倾向、能力或潜在结构，不必始终作为清楚的意识出现。两人的冲突因而不只是“有没有天赋观念”，还涉及什么形式的潜在性足以被称为天赋。</p>
+<hr>
+<h3 id="user-content-六白纸感觉与反省">六、“白纸”、感觉与反省</h3>
+<h4 id="user-content-人类理解论iii2">《人类理解论》II.i.2</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas; how comes it to be furnished? […] To this I answer, in one word, from experience; in that all our knowledge is founded; and from that it ultimately derives itself. Our observation employed either about external sensible objects, or about the internal operations of our minds, perceived and reflected on by ourselves, is that which supplies our understandings with all the materials of thinking. These two are the fountains of knowledge, from whence all the ideas we have, or can naturally have, do spring.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Suppose that the mind initially contains no inscribed ideas. All the materials of thought ultimately come from experience: either from observing external objects through the senses or from attending to the operations of our own minds.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>那么，让我们设想心灵正如我们所说，是一张白纸，没有任何文字，没有任何观念；它是怎样得到这些观念的呢？……对此，我用一个词回答：来自经验。我们的一切知识都建立在经验之上，并最终从经验中取得自身。我们的观察，或者运用于外在的可感对象，或者运用于我们自己所知觉并反省的心灵内部活动；正是这种观察向我们的理解力提供了思想的全部材料。这两者就是知识的源泉；我们已经拥有或能够自然拥有的一切观念，都从这里产生。</p>
+</blockquote>
+<p>两个“源泉”是：</p>
+<ul>
+<li><strong>感觉</strong> <em>sensation</em>：外在对象作用于感官，产生颜色、坚实、冷热、运动等观念；</li>
+<li><strong>反省</strong> <em>reflection</em>：心灵注意自身的知觉、怀疑、相信、推理、意愿和欲望等活动。</li>
+</ul>
+<p>所以“白纸论”不等于“一切都来自五官”。反省是一种内部经验，也不是把外物机械地“反映”到心中。洛克所否认的是预先写好的内容，而不是心灵处理经验的能力。</p>
+<hr>
+<h3 id="user-content-七简单观念与复杂观念心灵既被动又主动">七、简单观念与复杂观念：心灵既被动又主动</h3>
+<h4 id="user-content-人类理解论iiii2">《人类理解论》II.ii.2</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>These simple ideas, the materials of all our knowledge, are suggested and furnished to the mind only by those two ways above mentioned, viz. sensation and reflection. When the understanding is once stored with these simple ideas, it has the power to repeat, compare, and unite them, even to an almost infinite variety, and so can make at pleasure new complex ideas. But it is not in the power of the most exalted wit, or enlarged understanding, by any quickness or variety of thought, to invent or frame one new simple idea in the mind, not taken in by the ways before mentioned.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Simple ideas can enter the mind only through sensation or reflection. Once they have been received, however, the mind can actively repeat, compare, combine, and abstract them into indefinitely many complex ideas.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>这些简单观念，也就是我们全部知识的材料，只能通过前面提到的两种途径——感觉和反省——被提示并提供给心灵。一旦理解力储存了这些简单观念，它便有能力重复、比较并结合它们，达到几乎无限的变化，从而能够随意形成新的复杂观念。但是，即使最卓越的才智或最广阔的理解力，也不能凭借思想的任何敏捷性或多样性，在心灵中发明或构造一个不是通过上述途径获得的新简单观念。</p>
+</blockquote>
+<p>洛克由此形成两层心灵模型：</p>
+<ol>
+<li><strong>材料层面被动</strong>：最基本的简单观念必须由经验提供；</li>
+<li><strong>加工层面主动</strong>：心灵可以重复、比较、结合、分离和抽象这些材料。</li>
+</ol>
+<p>复杂观念主要分为：</p>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>含义</th>
+<th>例子</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>样式 <em>modes</em></td>
+<td>不能被设想为独立存在、而是其他存在者的状态或组合</td>
+<td>三角形、感激、盗窃、数量</td>
+</tr>
+<tr>
+<td>实体 <em>substances</em></td>
+<td>被设想为共同存在性质的承载者</td>
+<td>人、马、黄金、心灵</td>
+</tr>
+<tr>
+<td>关系 <em>relations</em></td>
+<td>心灵通过比较建立的观念</td>
+<td>大于、因果、身份、道德关系</td>
+</tr>
+</tbody>
+</table>
+<p>“经验提供材料”并不意味着心灵只能复制现实。人可以把经验材料组合成独角兽、理想城市和数学结构；限制在于不能凭空发明一种从未以任何方式经验过的新简单感觉。</p>
+<hr>
+<h3 id="user-content-八第一性质与第二性质">八、第一性质与第二性质</h3>
+<h4 id="user-content-人类理解论iiviii91015">《人类理解论》II.viii.9—10、15</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Qualities thus considered in bodies are, first, such as are utterly inseparable from the body, in what estate soever it be […] These I call original or primary qualities of body, which, I think, we may observe to produce simple ideas in us, viz. solidity, extension, figure, motion or rest, and number.</p>
+</blockquote>
+<blockquote>
+<p>Secondly, such qualities, which in truth are nothing in the objects themselves but powers to produce various sensations in us by their primary qualities, i.e. by the bulk, figure, texture, and motion of their insensible parts, as colours, sounds, tastes, &#x26;c., these I call secondary qualities.</p>
+</blockquote>
+<blockquote>
+<p>The ideas of primary qualities of bodies are resemblances of them, and their patterns do really exist in the bodies themselves; but the ideas produced in us by these secondary qualities have no resemblance of them at all.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Primary qualities—such as solidity, extension, shape, motion or rest, and number—remain in bodies through physical alteration. Secondary qualities, such as colors, sounds, and tastes, are powers grounded in the primary qualities of imperceptible parts that cause sensations in observers. Locke claims that ideas of primary qualities resemble features in bodies, whereas sensations caused by secondary qualities do not resemble their physical causes.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>如此在物体中加以考察的性质，第一，是那些无论物体处于何种状态都与物体完全不可分离的性质。……这些我称为物体的原始性质或第一性质；我认为，我们可以观察到它们在我们之中产生简单观念，即坚实性、广延、形状、运动或静止以及数量。</p>
+<p>第二，有些性质实际上在对象自身中无非是产生各种感觉的能力；对象凭借其第一性质——即其不可感觉部分的体积、形状、构造和运动——在我们之中产生颜色、声音、味道等观念；这些我称为第二性质。</p>
+<p>关于物体第一性质的观念是对它们的相似表象，并且这些观念的原型确实存在于物体自身之中；但是，由第二性质在我们之中产生的观念，同那些第二性质完全没有相似之处。</p>
+</blockquote>
+<p>需要避免两种误解：</p>
+<ul>
+<li>第二性质不是纯粹幻觉。物体真实具有产生红色、甜味或声音感觉的能力；</li>
+<li>第一性质与第二性质并非“真实性质”和“虚假性质”的简单对立，而是物体不可分离的结构性质与依赖这些结构、在观察者中产生感觉的因果能力之别。</li>
+</ul>
+<p>贝克莱将直接攻击这里的相似性特权：如果我们直接把握的形状、大小和运动仍然是观念，为什么它们能够像一个完全不可感知的物质原型，而颜色观念却不能？</p>
+<hr>
+<h3 id="user-content-九实体与我不知道是什么的承载者">九、实体与“我不知道是什么的承载者”</h3>
+<h4 id="user-content-人类理解论iixxiii2">《人类理解论》II.xxiii.2</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>So that if any one will examine himself concerning his notion of pure substance in general, he will find he has no other idea of it at all, but only a supposition of he knows not what support of such qualities which are capable of producing simple ideas in us […] The idea then we have, to which we give the general name substance, being nothing but the supposed, but unknown, support of those qualities we find existing […] we call that support substantia; which, according to the true import of the word, is, in plain English, standing under or upholding.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Our general idea of substance is not a clear positive representation. It is the supposition that there is some unknown bearer in which observable qualities exist and by which they are supported.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>所以，如果任何人考察自己关于一般纯粹实体的概念，他就会发现，自己对于它根本没有别的观念，只有这样一种假定：有一个我们不知道是什么的东西，支撑着那些能够在我们之中产生简单观念的性质。……因此，我们赋予“实体”这个一般名称的观念，不过是我们所发现的那些存在着的性质的一个被假定却未知的支撑者。……我们把这个支撑者称为 <em>substantia</em>；按照这个词的真正含义，用朴素英语来说，它就是“站在下面”或“支撑”。</p>
+</blockquote>
+<p>洛克的立场是认识论上的谨慎，而不是简单取消实体：</p>
+<pre><code class="language-text">若干性质稳定地共同出现
+        ↓
+我们难以设想它们完全无所依附
+        ↓
+心灵假定某种承载者或基质
+        ↓
+但经验没有给予这个承载者自身的清楚正面观念
+</code></pre>
+<p>这一无知同样涉及物质实体和精神实体。洛克认为，我们对“能思想的基质”和“具有广延的基质”都缺乏完整认识，不能只把物质实体说成神秘而把精神实体视为完全透明。</p>
+<hr>
+<h3 id="user-content-十知识对观念符合与不符合的知觉">十、知识：对观念符合与不符合的知觉</h3>
+<h4 id="user-content-人类理解论ivi2">《人类理解论》IV.i.2</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Knowledge then seems to me to be nothing but the perception of the connexion and agreement, or disagreement and repugnancy of any of our ideas. In this alone it consists. Where this perception is, there is knowledge; and where it is not, there, though we may fancy, guess, or believe, yet we always come short of knowledge.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Knowledge occurs when the mind perceives that ideas agree, disagree, connect, or conflict. Where this relation is not perceived, we may imagine, conjecture, or believe, but we do not possess knowledge in the strict sense.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因而在我看来，知识不过是对我们的任何观念之间的联系与符合，或不符合与排斥的知觉。知识仅仅存在于这一点之中。凡有这种知觉的地方，就有知识；凡没有这种知觉的地方，即使我们可以想象、猜测或相信，也总是没有达到知识。</p>
+</blockquote>
+<p>洛克列出四类符合或不符合：</p>
+<ol>
+<li><strong>同一或差异</strong>：一个观念是否就是另一个观念；</li>
+<li><strong>关系</strong>：两个观念处于何种可比较关系；</li>
+<li><strong>共存或必然联系</strong>：某些性质是否共同属于同一事物；</li>
+<li><strong>实在存在</strong>：某个观念所涉及的存在者是否实际存在。</li>
+</ol>
+<p>这一知识定义也制造了经典难题：如果知识严格说是观念关系的知觉，那么观念怎样把我们带到观念之外的世界？洛克诉诸感觉的非自愿性、不同感官的相互印证以及外物产生观念的因果结构，但这条回答正是贝克莱和休谟继续追问的起点。</p>
+<hr>
+<h3 id="user-content-十一直觉证明感觉与概率">十一、直觉、证明、感觉与概率</h3>
+<h4 id="user-content-人类理解论ivii14">《人类理解论》IV.ii.14</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>These two, viz. intuition and demonstration, are the degrees of our knowledge; whatever comes short of one of these, with what assurance soever embraced, is but faith or opinion, but not knowledge, at least in all general truths. There is, indeed, another perception of the mind, employed about the particular existence of finite beings without us, which, going beyond bare probability, and yet not reaching perfectly to either of the foregoing degrees of certainty, passes under the name of knowledge.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Intuition and demonstration are the highest degrees of knowledge. Locke nevertheless recognizes a third, weaker kind—sensitive knowledge—which concerns the particular existence of finite objects outside us and is more certain than probability, though less certain than intuition or demonstration.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>这两种，即直觉和证明，是我们知识的等级；凡达不到其中任何一种的，无论人们以多么坚定的确信接受它，都只是信仰或意见，而不是知识，至少对于一切一般真理而言如此。然而，心灵确实还有另一种知觉，它涉及我们之外有限存在者的个别存在；它超出单纯的概率，却没有完全达到前述任何一种确定性等级，但仍以知识之名称存在。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>等级</th>
+<th>结构</th>
+<th>典型对象</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>直觉知识</td>
+<td>不借中介直接把握两个观念的关系</td>
+<td>自我存在、同一与差异</td>
+</tr>
+<tr>
+<td>证明知识</td>
+<td>通过中介观念逐步建立关系</td>
+<td>数学、洛克关于神存在的证明</td>
+</tr>
+<tr>
+<td>感觉知识</td>
+<td>由当下实际感觉确认外部个别对象</td>
+<td>此时看见的纸、感到的火</td>
+</tr>
+<tr>
+<td>概率判断</td>
+<td>根据经验频率、类比、证言和背景知识形成</td>
+<td>大部分日常生活、历史和自然研究</td>
+</tr>
+</tbody>
+</table>
+<p>洛克的重要贡献之一，是让“承认知识有限”与“仍然能够合理行动”同时成立。人在无法证明时不必陷入任意主义，而应按证据比例分配同意程度。</p>
+<hr>
+<h3 id="user-content-十二语言名义本质与实在本质">十二、语言、名义本质与实在本质</h3>
+<h4 id="user-content-1-词语是观念的符号">1. 词语是观念的符号</h4>
+<h5 id="user-content-人类理解论iiiii12">《人类理解论》III.ii.1—2</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Words […] came to be made use of by men as the signs of their ideas; not by any natural connexion that there is between particular articulate sounds and certain ideas, for then there would be but one language amongst all men; but by a voluntary imposition, whereby such a word is made arbitrarily the mark of such an idea. The use, then, of words, is to be sensible marks of ideas; and the ideas they stand for are their proper and immediate signification.</p>
+</blockquote>
+<blockquote>
+<p>Words, in their primary or immediate signification, stand for nothing but the ideas in the mind of him that uses them.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Spoken sounds have no natural connection with particular ideas. People conventionally assign words to ideas, and words immediately signify the ideas present in the speaker’s mind.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>人们之所以把词语用作其观念的符号，并不是因为某些特定的发音同某些观念之间存在任何自然联系；因为如果存在这种联系，全人类就只会有一种语言。词语通过自愿设定而成为某一观念的任意标记。因此，词语的用途就是作为观念的可感标记；它们所代表的观念，就是它们恰当而直接的意义。</p>
+<p>词语在其首要或直接的意义上，所代表的无非是使用这些词语之人的心灵中的观念。</p>
+</blockquote>
+<p>这一语义理论解释了交流中的结构性风险：</p>
+<ul>
+<li>说话者把词连接到自己的观念；</li>
+<li>听者可能把同一个词连接到不同观念；</li>
+<li>人们容易误以为词语天然地贴在事物上；</li>
+<li>一个没有清楚观念支持的词仍可在争论中制造“理解的幻觉”；</li>
+<li>哲学争端可能部分来自同词异义、定义漂移和未经说明的抽象词。</li>
+</ul>
+<h4 id="user-content-2-名义本质与实在本质">2. 名义本质与实在本质</h4>
+<h5 id="user-content-人类理解论iiivi2">《人类理解论》III.vi.2</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>The measure and boundary of each sort or species, whereby it is constituted that particular sort, and distinguished from others, is that we call its essence, which is nothing but that abstract idea to which the name is annexed; so that everything contained in that idea is essential to that sort. […] This […] I call by a peculiar name, the nominal essence, to distinguish it from the real constitution of substances, upon which depends this nominal essence, and all the properties of that sort; which, therefore, […] may be called the real essence.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Human classification proceeds through nominal essences: abstract collections of observable features to which general names are attached. Natural substances also have real essences—the underlying internal constitutions on which their observable powers depend—but these are generally unknown to us.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>每一个种类或物种借以构成这一特定种类并同其他种类相区别的尺度和界限，就是我们所称的本质；它不过是名称所依附的那个抽象观念。因此，包含在那个观念中的一切，对于这一种类都是本质性的。……我用一个特有的名称把它称为名义本质，以便把它同实体的实在构造区别开来；名义本质以及该种类的一切性质都依赖于这种实在构造，因此，这种构造可以称为实在本质。</p>
+</blockquote>
+<p>以黄金为例：</p>
+<ul>
+<li><strong>名义本质</strong>是人们用“黄金”分类时选择的黄色、沉重、可熔、可延展等特征；</li>
+<li><strong>实在本质</strong>是使这些性质共同出现的内部微观构造；</li>
+<li>我们通常凭名义本质使用词语，却并不知道完整的实在本质。</li>
+</ul>
+<p>种类因此具有人类分类和语言约定的一面，却不等于完全任意：真实的自然结构限制哪些性质能够稳定共存。</p>
+<hr>
+<h3 id="user-content-十三人格同一性谁应当为过去行动负责">十三、人格同一性：谁应当为过去行动负责？</h3>
+<h4 id="user-content-人类理解论iixxvii9">《人类理解论》II.xxvii.9</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>This being premised, to find wherein personal identity consists, we must consider what Person stands for; which, I think, is a thinking intelligent Being, that has reason and reflection, and can consider it self as it self, the same thinking thing, in different times and places; which it does only by that consciousness which is inseparable from thinking […] For since consciousness always accompanies thinking, and it is that, which makes every one to be, what he calls self, and thereby distinguishes himself from all other thinking things; in this alone consists personal identity, i.e. the sameness of a rational Being; and as far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that Person.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>To determine personal identity, we must first ask what a person is: a rational, reflective being capable of recognizing itself as the same self across different times and places. Personal identity extends as far as present consciousness can appropriate a past thought or action as its own.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>在此前提下，为了发现人格同一性在于什么，我们必须考察“人格”所代表的是什么；我认为，它是一个有思想、有理解力的存在者，具有理性和反省，并能在不同时间和地点把自己看作自己，即同一个进行思想的东西；它只有凭借与思想不可分离的意识才能做到这一点。……因为意识始终伴随思想，正是意识使每一个人成为他所谓的自我，并使他区别于所有其他进行思想的东西；人格同一性，也就是一个理性存在者的同一性，只存在于这一点；这种意识能够向后延伸到任何过去行动或思想多远，那个人格的同一性就延伸多远。</p>
+</blockquote>
+<p>洛克区分：</p>
+<ul>
+<li>同一物质团块；</li>
+<li>同一生命体；</li>
+<li>同一个“人”或人类动物；</li>
+<li>同一个人格。</li>
+</ul>
+<p>人格是与归责、奖惩和法律责任相关的“法庭性”概念。它不直接等于同一身体，也不直接等于同一非物质灵魂。</p>
+<p>把洛克概括为单纯“记忆理论”也不够精确。他使用的中心词是意识：关键在于当前主体能否把过去行动认作自己的行动。记忆是这种连接的重要形式和证据，却会引出巴特勒的循环批评及里德的“勇敢军官”反例。洛克理论的持久影响，正来自它把问题从“什么实体始终不变”转成“什么心理与规范关系使行动属于同一人格”。</p>
+<hr>
+<h3 id="user-content-十四自由行动能力与暂停欲望">十四、自由：行动能力与暂停欲望</h3>
+<h4 id="user-content-人类理解论iixxi8">《人类理解论》II.xxi.8</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>So far as a man has power to think or not to think, to move or not to move, according to the preference or direction of his own mind, so far is a man free. […] The idea of liberty is, the idea of a power in any agent to do or forbear any particular action, according to the determination or thought of the mind, whereby either of them is preferred to the other.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>A person is free with respect to an action when he can perform it or refrain from it according to the preference and direction of his own mind.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>一个人只要能够依照其自身心灵的偏好或指引去思想或不思想、运动或不运动，他就在这个范围内是自由的。……自由的观念，就是某个行动者具有这样一种能力：依照心灵的决定或思想——其中一个选项由此优先于另一个——去实行或不实行某一特定行动。</p>
+</blockquote>
+<p>洛克不把问题表述为“意志本身是否自由”，因为自由首先是行动者是否有能力按其意愿行动。被锁住的人可能自愿留在房中，却没有离开的自由。</p>
+<p>在《理解论》后续版本中，他又强调心灵能够暂缓满足当前欲望，以便比较善恶与长远幸福。这种“暂停”使自由不只是立即执行最强欲望，而包含审议、教育、习惯和自我治理。</p>
+<hr>
+<h3 id="user-content-十五自然法财产权同意与政治信托">十五、自然法、财产权、同意与政治信托</h3>
+<p>洛克的认识论和政治哲学不是完全分离的两套工程。二者都以有限主体为出发点：人没有统治他人灵魂或意志的天然特权，权力必须说明其来源、范围和证据。</p>
+<h4 id="user-content-1-自然状态不是战争状态">1. 自然状态不是战争状态</h4>
+<h5 id="user-content-政府论下篇46">《政府论下篇》§§4、6</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>To understand political power right, and derive it from its original, we must consider what state all men are naturally in, and that is, a state of perfect freedom to order their actions and dispose of their possessions and persons, as they think fit, within the bounds of the law of nature; without asking leave, or depending upon the will of any other man.</p>
+</blockquote>
+<blockquote>
+<p>The state of nature has a law of nature to govern it, which obliges every one: and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Human beings are naturally free and equal, but this freedom is not lawlessness. Rational natural law forbids them from harming one another’s life, health, liberty, or possessions.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>为了正确理解政治权力，并从其起源推导它，我们必须考察所有人自然处于什么状态；那就是一种完全自由的状态：他们可以依自己认为合适的方式安排其行动，处置其财物与人身，但须处在自然法的界限以内；无须请求任何人的许可，也无须依赖任何其他人的意志。</p>
+<p>自然状态有一种自然法来治理它，这自然法约束每一个人；而理性——也就是这项法——教导所有愿意求问它的人类：既然所有人都是平等而独立的，任何人都不应损害另一个人的生命、健康、自由或财物。</p>
+</blockquote>
+<p>自然状态是没有共同政治裁判者的状态，却不是没有规范的状态。战争状态则发生于有人以强力破坏他人的生命或自由，并使正常裁判无法发挥作用时。政治社会的理由，是建立共同法律和裁判机构，更可靠地保护本已存在的权利。</p>
+<h4 id="user-content-2-劳动如何把共同物变成私人财产">2. 劳动如何把共同物变成私人财产？</h4>
+<h5 id="user-content-政府论下篇27">《政府论下篇》§27</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Though the earth, and all inferiour creatures, be common to all men, yet every man has a property in his own person: this nobody has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided, and left it in, he hath mixed his labour with, and joined to it something that is his own, and thereby makes it his property. […] For this labour being the unquestionable property of the labourer, no man but he can have a right to what that is once joined to, at least where there is enough, and as good, left in common for others.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Nature is initially held in common, but each person has a special claim over his own person and labour. Applying that labour to a common resource can make it private property, provided enough and equally good resources remain for others.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>尽管大地以及一切较低等的受造物为全人类所共有，每个人却对他自己的人身拥有一种财产权；除他本人之外，没有任何人对此拥有权利。他身体的劳动和双手的工作，可以说，恰当地属于他。因此，凡是他从自然所供给并使之处于其中的状态中取出的东西，他已经把自己的劳动同它混合，并把某种属于他自己的东西同它结合，因而使它成为他的财产。……因为这种劳动是劳动者无可置疑的财产，除他之外，没有人能够对它一旦结合的东西拥有权利，至少是在还给其他人共同留下足够且同样好的东西之处。</p>
+</blockquote>
+<p>原始占有以劳动将共同物从共有状态中取出，并受到两项著名限制：</p>
+<ol>
+<li>取得者不得让取得物无谓腐坏；</li>
+<li>应为他人留下“足够且同样好的”资源。</li>
+</ol>
+<p>货币通过社会同意使财富能够长期保存和交换，也扩大了不平等积累的可能。因而，不能只引用“劳动混合”而删去腐坏限制、洛克条件、货币同意和具体制度背景。</p>
+<h4 id="user-content-3-同意与多数原则">3. 同意与多数原则</h4>
+<h5 id="user-content-政府论下篇95">《政府论下篇》§95</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Men being, as has been said, by nature, all free, equal, and independent, no one can be put out of this estate, and subjected to the political power of another, without his own consent. The only way, whereby any one divests himself of his natural liberty, and puts on the bonds of civil society, is by agreeing with other men to join and unite into a community […] When any number of men have so consented to make one community or government, they are thereby presently incorporated, and make one body politic, wherein the majority have a right to act and conclude the rest.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>No naturally free and equal person can legitimately be subjected to political authority without consent. Once people agree to form one community, majority rule enables that community to act as a unified political body.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>如前所述，人们依自然而言全都是自由、平等且独立的；未经他本人同意，任何人都不能被逐出这种状态，并被置于另一个人的政治权力之下。任何人解除其自然自由并戴上公民社会纽带的唯一方式，就是同其他人达成协议，联合并结合成一个共同体。……当任意数量的人如此同意建立一个共同体或政府时，他们便由此立刻结合起来，形成一个政治共同体；在这个共同体中，多数人有权采取行动，并为其余人作出具有约束力的决定。</p>
+</blockquote>
+<p>这里有两个连续步骤：</p>
+<ol>
+<li>自由个人同意组成一个政治共同体；</li>
+<li>共同体为了能够作为一个整体行动而接受多数原则。</li>
+</ol>
+<p>洛克又区分明示同意与默示同意。仅仅居住、使用道路或享受法律保护是否足以产生完整政治义务，始终是其理论的难题。</p>
+<h4 id="user-content-4-政府是信托权力可以被收回">4. 政府是信托，权力可以被收回</h4>
+<h5 id="user-content-政府论下篇222">《政府论下篇》§222</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>The reason why men enter into society, is the preservation of their property; and the end why they choose and authorize a legislative, is, that there may be laws made, and rules set, as guards and fences to the properties of all the members of the society […] Whenever the legislators endeavour to take away and destroy the property of the people, or to reduce them to slavery under arbitrary power, they put themselves into a state of war with the people, who are thereupon absolved from any farther obedience […] By this breach of trust they forfeit the power the people had put into their hands for quite contrary ends, and it devolves to the people, who have a right to resume their original liberty.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Government is a limited trust created to protect the people’s rights. When rulers systematically use authority to destroy those rights or impose arbitrary power, they breach the trust and forfeit their authority; political power then reverts to the people.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>人们进入社会的理由，是保存他们的财产；他们选择并授权一个立法机关的目的，是使法律得以制定、规则得以确立，作为保护社会全体成员财产的守卫和藩篱。……每当立法者企图夺走并毁坏人民的财产，或把人民置于专断权力之下的奴役状态时，他们就使自己同人民进入战争状态；人民由此被解除进一步服从的义务。……通过这种对信托的违背，他们丧失了人民为完全相反的目的交到他们手中的权力；该权力回归人民，而人民有权恢复其原初自由。</p>
+</blockquote>
+<p>此处广义的财产包含生命、自由和地产。反抗权不是对任何不满意政策的即时否决，而针对系统性破坏法律、建立专断统治并根本背弃保护目的的权力。</p>
+<p>政治合法性的结构可表示为：</p>
+<pre><code class="language-text">自然自由和平等
+      ↓
+任何统治权都不能仅凭出生或武力成立
+      ↓
+个人同意形成政治共同体
+      ↓
+多数原则使共同体能够行动
+      ↓
+政府获得以保护权利为目的的有限信托
+      ↓
+根本违背信托者丧失受托权力
+</code></pre>
+<hr>
+<h3 id="user-content-十六宗教宽容及其边界">十六、宗教宽容及其边界</h3>
+<p>《论宽容书简》最初以拉丁文 <em>Epistola de Tolerantia</em> 发表。下面使用的是 William Popple 于1689年刊行的早期英译，不能误称为洛克的英语原稿。</p>
+<h4 id="user-content-论宽容书简popple-1689年英译本works-vol-v-pp-1011">《论宽容书简》，Popple 1689年英译本，<em>Works</em>, vol. V, pp. 10—11</h4>
+<p><strong>早期英文译文：Early English translation</strong></p>
+<blockquote>
+<p>First, Because the care of souls is not committed to the civil magistrate, any more than to other men. […] For no man can, if he would, conform his faith to the dictates of another. All the life and power of true religion consists in the inward and full persuasion of the mind; and faith is not faith, without believing.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>The civil magistrate has not been authorized to direct anyone’s salvation. In any event, coercion cannot produce genuine belief, because faith requires inward conviction.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>第一，因为灵魂的照料并未托付给世俗官长，正如它并未托付给其他人一样。……因为一个人即使愿意，也不能使自己的信仰符合另一个人的指示。真正宗教的全部生命与力量存在于心灵内在而充分的确信之中；没有相信，信仰就不是信仰。</p>
+</blockquote>
+<p>宽容论证包含两层：</p>
+<ul>
+<li><strong>权力范围</strong>：国家保护生命、自由、健康和外在财物，无权决定灵魂得救；</li>
+<li><strong>手段有效性</strong>：强制可以改变外在行为，却不能直接制造内在确信。</li>
+</ul>
+<p>但洛克的宽容并不等于现代无条件宗教自由。他明确排除被认为破坏公民社会道德条件的主张、服从外国政治权威的宗教组织以及无神论者。他错误地认为否认神会使誓言和契约失去约束力。这些限制不是可以从文本中删去的小例外，而是其自由主义必须接受历史批判的边界。</p>
+<hr>
+<h3 id="user-content-十七洛克提出了什么理论">十七、洛克提出了什么理论？</h3>
+<table>
+<thead>
+<tr>
+<th>理论</th>
+<th>核心命题</th>
+<th>哲学贡献</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>反天赋观念论</td>
+<td>具体观念和命题并未作为现成内容刻印在心灵中</td>
+<td>要求说明知识内容的经验来源</td>
+</tr>
+<tr>
+<td>感觉—反省二源论</td>
+<td>外部感觉与内部反省提供全部观念材料</td>
+<td>把外在经验和心灵自我经验统一进认识论</td>
+</tr>
+<tr>
+<td>简单—复杂观念论</td>
+<td>简单观念被动获得，复杂观念由心灵主动加工</td>
+<td>兼顾经验限制与认知能动性</td>
+</tr>
+<tr>
+<td>第一—第二性质区分</td>
+<td>结构性质与产生感觉的能力具有不同地位</td>
+<td>连接机械自然哲学与知觉理论</td>
+</tr>
+<tr>
+<td>基质理论</td>
+<td>实体是被假定却未知的性质承载者</td>
+<td>以认识论节制改造传统实体概念</td>
+</tr>
+<tr>
+<td>名义—实在本质区分</td>
+<td>分类依名义本质，自然性质依未知内部构造</td>
+<td>影响自然种类、分类和科学方法讨论</td>
+</tr>
+<tr>
+<td>观念关系知识论</td>
+<td>知识是观念符合或不符合的知觉</td>
+<td>区分知识、概率、信仰与意见</td>
+</tr>
+<tr>
+<td>知识等级论</td>
+<td>直觉、证明和感觉具有不同确定性</td>
+<td>承认外物知识弱于数学而强于单纯概率</td>
+</tr>
+<tr>
+<td>语言符号论</td>
+<td>词语直接表示说话者心中的观念</td>
+<td>把语言误用纳入哲学诊断</td>
+</tr>
+<tr>
+<td>人格意识论</td>
+<td>人格同一性随意识向过去延伸</td>
+<td>把主体同一转化为心理和归责关系</td>
+</tr>
+<tr>
+<td>行动自由论</td>
+<td>自由是按心灵决定去做或不做的能力</td>
+<td>把自由问题从“意志实体”转向行动者能力</td>
+</tr>
+<tr>
+<td>自然权利论</td>
+<td>生命、自由和财物先于政府而受自然法保护</td>
+<td>奠定有限政府的规范基础</td>
+</tr>
+<tr>
+<td>劳动财产权论</td>
+<td>劳动可使共同物成为私有，但受到条件限制</td>
+<td>解释原始占有并引发分配正义争论</td>
+</tr>
+<tr>
+<td>同意与信托论</td>
+<td>政府权力来自同意并为保护目的受托行使</td>
+<td>连接合法性、法治与反抗权</td>
+</tr>
+<tr>
+<td>宽容理论</td>
+<td>国家无权且无法以强制产生真实信仰</td>
+<td>推动政教职能区分和宗教自由</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-十八洛克的后世影响">十八、洛克的后世影响</h3>
+<h4 id="user-content-1-贝克莱的内部批判">1. 贝克莱的内部批判</h4>
+<p>贝克莱接受从观念分析认识的起点，却质疑：</p>
+<ul>
+<li>抽象一般观念是否真能形成；</li>
+<li>物质基质是否具有任何可理解的正面内容；</li>
+<li>第一性质观念为何能够像心外原型；</li>
+<li>如果观念与不可感知物质无法比较，表象符合如何被知道。</li>
+</ul>
+<p>贝克莱不是抛弃经验论，而是用经验论标准攻击洛克仍然保留的物质实体。</p>
+<h4 id="user-content-2-休谟的进一步自然化">2. 休谟的进一步自然化</h4>
+<p>休谟把洛克的来源问题推进为更严格的复制原则，把概率判断解释为习惯与信念机制，并把经验审查应用于因果、自我和精神实体。</p>
+<table>
+<thead>
+<tr>
+<th>洛克</th>
+<th>休谟的推进</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>观念来自感觉或反省</td>
+<td>简单观念通常复制相应印象</td>
+</tr>
+<tr>
+<td>自然性质共存多半不能被证明</td>
+<td>因果必然性不能从对象中被感知</td>
+</tr>
+<tr>
+<td>人格同一性依意识延伸</td>
+<td>内省只发现变化的知觉集合</td>
+</tr>
+<tr>
+<td>知识不足时按概率判断</td>
+<td>信念的活力来自习惯性联想</td>
+</tr>
+</tbody>
+</table>
+<h4 id="user-content-3-莱布尼茨与康德">3. 莱布尼茨与康德</h4>
+<p>莱布尼茨在《人类理智新论》中逐章回应洛克，认为感觉经验不能说明必要真理和先天结构。康德则接受“知识从经验开始”，却拒绝“知识全部来源于经验”，把两派冲突重构为感性材料与先验形式的关系。</p>
+<h4 id="user-content-4-人格同一性与心灵哲学">4. 人格同一性与心灵哲学</h4>
+<p>洛克把问题从同一实体转向意识、行动归属和责任，影响巴特勒、里德、当代心理连续性理论、法律责任理论以及帕菲特关于人格同一性是否重要的讨论。</p>
+<h4 id="user-content-5-语言与自然种类">5. 语言与自然种类</h4>
+<p>洛克对语言误用的分析预示了后来语言批判；名义本质与未知实在本质的区分则同时成为两种传统的资源：</p>
+<ul>
+<li>经验主义者强调分类依人类使用和可观察特征；</li>
+<li>克里普克、普特南等人批评单纯描述论，却可借洛克的未知内部构造说明自然种类并非只是表面性质集合。</li>
+</ul>
+<h4 id="user-content-6-实验科学">6. 实验科学</h4>
+<p>洛克与波义耳式实验哲学相一致：当性质之间的必然联系不可见时，应通过实验发现稳定共存，并按证据程度形成概率判断。承认无知不是研究失败，而是防止从名称和定义虚构自然必然性。</p>
+<h4 id="user-content-7-自由主义政治">7. 自由主义政治</h4>
+<p>其自然权利、同意、法治、有限政府、政治信托、反抗权和宽容语言深刻影响大西洋革命时代。但美国和法国宪政传统不能被还原为洛克一人，他的概念也在不同政治语境中被选择性重写。</p>
+<hr>
+<h3 id="user-content-十九洛克的常见误读与历史限制">十九、洛克的常见误读与历史限制</h3>
+<table>
+<thead>
+<tr>
+<th>常见误读</th>
+<th>修正</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“白纸”表示人没有先天能力</td>
+<td>洛克否认预写内容，不否认感知、比较、推理等能力</td>
+</tr>
+<tr>
+<td>一切观念只来自五官</td>
+<td>反省是关于心灵活动的第二经验来源</td>
+</tr>
+<tr>
+<td>心灵始终完全被动</td>
+<td>心灵主动重复、比较、结合和抽象简单观念</td>
+</tr>
+<tr>
+<td>第二性质只是幻觉</td>
+<td>它们是物体凭结构产生感觉的真实能力</td>
+</tr>
+<tr>
+<td>洛克否认实体</td>
+<td>他保留实体假定，但承认其正面内容未知</td>
+</tr>
+<tr>
+<td>人格同一性就是清晰记忆</td>
+<td>中心是意识与行动归属，记忆关系仍有循环和传递性争议</td>
+</tr>
+<tr>
+<td>劳动足以正当化无限占有</td>
+<td>原文包含腐坏限制、“足够且同样好”条件及货币问题</td>
+</tr>
+<tr>
+<td>自然状态就是战争状态</td>
+<td>自然状态受自然法约束，战争状态来自权利遭强力侵犯</td>
+</tr>
+<tr>
+<td>同意理论表示每项法律都需全体即时同意</td>
+<td>组成共同体与多数决策是不同层次</td>
+</tr>
+<tr>
+<td>洛克支持无条件普遍宽容</td>
+<td>他排除无神论者和若干宗教政治关系</td>
+</tr>
+<tr>
+<td>洛克已经提出完整现代民主</td>
+<td>其选举、财产、性别和帝国背景与现代平等民主不同</td>
+</tr>
+</tbody>
+</table>
+<p>研究洛克还必须面对殖民与奴役问题：</p>
+<ul>
+<li>他参与英国殖民行政和贸易网络；</li>
+<li>他曾为卡罗来纳殖民地业主集团工作；</li>
+<li>他与《卡罗来纳基本宪法》的具体作者关系仍有研究争议；</li>
+<li>劳动与“改良土地”的语言曾被用于正当化殖民占有；</li>
+<li>普遍自然平等原则与现实的财产排除、殖民统治及奴役制度之间存在尖锐张力。</li>
+</ul>
+<p>批判这些限制并不等于放弃其全部规范原则，而是区分：</p>
+<ol>
+<li>理论明确宣称的自由和平等；</li>
+<li>洛克实际接受或参与的历史制度；</li>
+<li>后人对其概念的扩展、批判与政治利用。</li>
+</ol>
+<hr>
+<h2 id="user-content-第二编贝克莱非物质主义精神与自然的符号秩序">第二编　贝克莱：非物质主义、精神与自然的符号秩序</h2>
+<h3 id="user-content-二十生平著作与哲学目标">二十、生平、著作与哲学目标</h3>
+<p>乔治·贝克莱（George Berkeley，1685—1753）出生于爱尔兰，在都柏林三一学院接受教育，后来成为克洛因主教。他通常被称为主观唯心主义者，但他本人更愿把自己的立场理解为<strong>非物质主义</strong> <em>immaterialism</em>：否认哲学家设定的、独立于任何精神而存在的物质基质，同时捍卫日常感知世界、精神和上帝的真实存在。</p>
+<p>主要著作：</p>
+<table>
+<thead>
+<tr>
+<th>著作</th>
+<th align="right">时间</th>
+<th>核心问题</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>An Essay towards a New Theory of Vision</em>《视觉新论》</td>
+<td align="right">1709</td>
+<td>距离知觉、视觉与触觉、经验学习</td>
+</tr>
+<tr>
+<td><em>A Treatise concerning the Principles of Human Knowledge</em>《人类知识原理》</td>
+<td align="right">1710</td>
+<td>抽象观念、非物质主义、精神、上帝和自然规律</td>
+</tr>
+<tr>
+<td><em>Three Dialogues between Hylas and Philonous</em>《海拉斯与斐洛诺斯三篇对话》</td>
+<td align="right">1713</td>
+<td>以对话回应常识、怀疑论和物质实体辩护</td>
+</tr>
+<tr>
+<td><em>De Motu</em>《论运动》</td>
+<td align="right">1721</td>
+<td>力、运动和物理解释的地位</td>
+</tr>
+<tr>
+<td><em>Alciphron</em>《阿尔西弗龙》</td>
+<td align="right">1732</td>
+<td>宗教、伦理、语言和视觉的神圣语言</td>
+</tr>
+<tr>
+<td><em>The Analyst</em>《分析学家》</td>
+<td align="right">1734</td>
+<td>批判微积分和无穷小概念的基础</td>
+</tr>
+<tr>
+<td><em>Siris</em>《西里斯》</td>
+<td align="right">1744</td>
+<td>自然哲学、医学、神学和晚期柏拉图主义</td>
+</tr>
+</tbody>
+</table>
+<p>贝克莱的目标不是宣布“世界不存在”，而是消除他认为导致怀疑主义的双层结构：</p>
+<pre><code class="language-text">心内观念
+    ↓  是否符合？
+不可直接感知的物质原型
+</code></pre>
+<p>如果人永远只能接触第一层，便无法比较第二层。贝克莱的解决是：日常所见所触的事物本身就是有规律的可感对象；真正应被删除的是既不可感知、也不承担必要解释工作的物质基质。</p>
+<hr>
+<h3 id="user-content-二十一抽象观念批判贝克莱是否反对一般思维">二十一、抽象观念批判：贝克莱是否反对一般思维？</h3>
+<h4 id="user-content-1-他承认什么样的抽象">1. 他承认什么样的抽象？</h4>
+<h5 id="user-content-人类知识原理导论-10">《人类知识原理》导论 §10</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>To be plain, I own my self able to abstract in one Sense, as when I consider some particular Parts or Qualities separated from others, with which though they are united in some Object, yet, it is possible they may really Exist without them. But I deny that I can abstract one from another, or conceive separately, those Qualities which it is impossible should Exist so separated; or that I can frame a General Notion by abstracting from Particulars in the manner aforesaid.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>I admit that we can consider a part or quality separately when it could genuinely exist separately. What I deny is that we can separately conceive qualities that could not exist apart, or construct a general idea by removing every particular feature from particular things.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>坦白地说，我承认自己在一种意义上能够抽象，例如，我可以把某些特定部分或性质同其他部分或性质分开来考虑；尽管它们在某个对象中结合在一起，它们却有可能真实地分离存在。但是，我否认自己能够把那些不可能如此分离存在的性质彼此抽离，或分别加以设想；我也否认自己能够按照上述方式从个别事物中抽离出一个一般概念。</p>
+</blockquote>
+<p>贝克莱不反对分析、选择性注意和分别考虑。他反对的是一种无规定的心理图像，例如设想一个既非斜角三角形也非直角三角形，既非等边、等腰也非不等边三角形，却同时被说成代表一切三角形的“抽象三角形”（参见导论 §13）。</p>
+<h4 id="user-content-2-个别观念怎样具有一般性">2. 个别观念怎样具有一般性？</h4>
+<h5 id="user-content-人类知识原理导论-12">《人类知识原理》导论 §12</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>I do not deny absolutely there are general Ideas, but only that there are any abstract general Ideas […] an Idea, which considered in it self is particular, becomes general, by being made to represent or stand for all other particular Ideas of the same sort.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>I do not deny general ideas altogether. I deny only abstract general ideas. An idea that is itself particular becomes general when it is used as a sign representing all relevant particulars of the same kind.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我并不绝对否认存在一般观念；我只是否认存在抽象的一般观念。一个观念，就其自身而言是个别的，但当它被用来代表或代替同一类的其他一切个别观念时，它便成为一般的。</p>
+</blockquote>
+<p>一幅确定的三角形可以在证明中代表所有三角形，只要推理没有依赖它偶然具有的边长、颜色和角度。一般性因此不是观念内部的一种神秘形象，而是观念或词语在推理中承担的代表功能。</p>
+<p>这一步把哲学注意力从“心中有没有一幅抽象图像”转向“一个符号在实际论证中怎样被使用”，并直接影响休谟的一般观念理论。</p>
+<hr>
+<h3 id="user-content-二十二普通物体是有规律结合的观念集合">二十二、普通物体是有规律结合的观念集合</h3>
+<h4 id="user-content-人类知识原理1">《人类知识原理》§1</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>And as several of these are observed to accompany each other, they come to be marked by one Name, and so to be reputed as one Thing. Thus, for Example, a certain Colour, Taste, Smell, Figure and Consistence having been observed to go together, are accounted one distinct Thing, signified by the Name Apple. Other collections of Ideas constitute a Stone, a Tree, a Book, and the like sensible Things.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>When several sensory ideas regularly occur together, we give the group one name and regard it as one thing. A familiar combination of colour, taste, smell, shape, and texture is called an apple; other combinations constitute stones, trees, books, and other sensible objects.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>当我们观察到若干这样的观念彼此相伴时，它们便被一个名称标示，并因而被视为一个事物。例如，某种颜色、味道、气味、形状和质地被观察到一同出现，它们便被算作一个独立事物，并以“苹果”这个名称来表示。其他观念的集合则构成石头、树木、书籍以及诸如此类的可感事物。</p>
+</blockquote>
+<p>“苹果是观念集合”不等于苹果是任意想象：</p>
+<ul>
+<li>苹果的性质稳定而有规律地共同出现；</li>
+<li>感觉经验通常不由个人意志决定；</li>
+<li>同一对象参与更大的空间、时间和因果秩序；</li>
+<li>对象具有可重复、可预测的行动后果；</li>
+<li>实际感觉与私人想象具有不同的生动性、恒常性和系统性。</li>
+</ul>
+<p>瞬时观念集合怎样构成跨时间持续的“同一个苹果”，仍是贝克莱解释中的难题；不能用“集合”一词假装对象持续性已自动解决。</p>
+<hr>
+<h3 id="user-content-二十三存在即被感知只适用于观念吗">二十三、“存在即被感知”只适用于观念吗？</h3>
+<h4 id="user-content-人类知识原理23">《人类知识原理》§§2—3</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>This perceiving, active Being is what I call Mind, Spirit, Soul or my Self. By which Words I do not denote any one of my Ideas, but a thing intirely distinct from them, wherein they exist, or, which is the same thing, whereby they are perceived; for the Existence of an Idea consists in being perceived.</p>
+</blockquote>
+<blockquote>
+<p>[…] Their Esse is Percipi, nor is it possible they should have any Existence, out of the Minds or thinking Things which perceive them.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>The active being that perceives, wills, imagines, and remembers is what I call a mind or spirit. It is not itself one of its ideas. An idea exists by being perceived; sensible, unthinking things cannot exist apart from every perceiving mind.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>这种进行感知的、能动的存在者，就是我所说的心灵、精神、灵魂或我自己。这些词并不表示我的任何一个观念，而表示一种与观念完全不同的事物；观念存在于它之中，或者——这意思相同——由它所感知，因为一个观念的存在就在于被感知。</p>
+<p>它们的“存在”就是“被感知”；它们不可能在感知它们的心灵或思维者之外具有任何存在。</p>
+</blockquote>
+<p>通行公式是 <em>esse est percipi</em>，即“存在就是被感知”。必须加上限定：</p>
+<table>
+<thead>
+<tr>
+<th>存在者</th>
+<th>存在方式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>观念、感觉、可感事物</td>
+<td>其存在就在于被感知</td>
+</tr>
+<tr>
+<td>精神、心灵、意志</td>
+<td>其存在在于感知、思想、意愿和行动</td>
+</tr>
+<tr>
+<td>上帝</td>
+<td>无限的主动精神，不是一个被动观念</td>
+</tr>
+</tbody>
+</table>
+<p>如果把“存在即被感知”机械套用到精神，就会误解整个体系。贝克莱的本体论不是只有观念，而是包含被动观念与主动精神。</p>
+<hr>
+<h3 id="user-content-二十四物质实体与第一性质为什么受到批判">二十四、物质实体与第一性质为什么受到批判？</h3>
+<h4 id="user-content-人类知识原理9">《人类知识原理》§9</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>By Matter therefore we are to understand an inert, senseless Substance, in which Extension, Figure, and Motion, do actually subsist. But it is evident from what we have already shewn, that Extension, Figure and Motion are only Ideas existing in the Mind, and that an Idea can be like nothing but another Idea, and that consequently neither They nor their Archetypes can exist in an unperceiving Substance.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Matter is supposed to be an inert, insensible substance in which extension, shape, and motion exist. But these qualities, as we encounter them, are ideas, and an idea can resemble only another idea. They therefore cannot be copies of qualities existing in an entirely unperceiving substrate.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因而，所谓物质，是指一种惰性的、无感觉的实体，广延、形状和运动现实地存在于其中。但是，根据我们已经表明的内容，广延、形状和运动只是存在于心灵中的观念；一个观念只能类似于另一个观念。因此，这些观念及其所谓原型都不能存在于一种不进行感知的实体之中。</p>
+</blockquote>
+<p>贝克莱针对洛克的论证可以分成几步：</p>
+<ol>
+<li>颜色、声音等第二性质只能以被感知方式出现；</li>
+<li>形状、大小、运动等第一性质同样总以某种确定视角和感觉方式出现；</li>
+<li>一个观念与完全非观念的物质性质之间无法建立可理解的相似比较；</li>
+<li>“性质背后的物质基质”既不能被感知，也没有清楚的正面内容；</li>
+<li>观念本身被动，物质也被规定为惰性，因而物质不能解释感觉观念的产生；</li>
+<li>科学预测只需自然规律，不需要额外设定一个不可接触的基质。</li>
+</ol>
+<p>这不是证明一切物体都不存在，而是把“物体”从不可感知的基质改写为有规律的可感性质系统。</p>
+<hr>
+<h3 id="user-content-二十五主论证能够思想无人思想的树吗">二十五、“主论证”：能够思想无人思想的树吗？</h3>
+<h4 id="user-content-人类知识原理23-1">《人类知识原理》§23</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>But do not you your self perceive or think of them all the while? […] To make out this, it is necessary that you conceive them existing unconceived or unthought of, which is a manifest Repugnancy.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>While you imagine trees existing with no one present, are you not yourself thinking of those trees? To establish the proposed possibility, you would have to conceive them as existing while entirely unconceived, which appears self-contradictory.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>可是，在这一整个过程中，难道你自己不是正在感知或思想它们吗？要证明这一点，你就必须设想它们在未被设想或未被思想的状态下存在，而这是一种显明的矛盾。</p>
+</blockquote>
+<p>这段后来被称为“主论证”。经典批评指出：</p>
+<ul>
+<li>“我不能在思想某物的同时使它不被我思想”是一项关于当前思维行为的真理；</li>
+<li>但它未必推出“该对象不可能在任何精神未思想它时存在”；</li>
+<li>从认识行为的限制到对象存在方式之间，可能发生了模态转换。</li>
+</ul>
+<p>较谨慎的结论是：主论证攻击物质主义者声称自己拥有一个“完全无人感知的可感对象”的正面观念，但它不是贝克莱非物质主义的唯一论据。完整论证还依赖性质不可分、相似性问题、物质基质不可理解、观念被动性和上帝因果论。</p>
+<hr>
+<h3 id="user-content-二十六观念为何不能成为原因精神怎样被认识">二十六、观念为何不能成为原因？精神怎样被认识？</h3>
+<h4 id="user-content-1-观念没有能动性">1. 观念没有能动性</h4>
+<h5 id="user-content-人类知识原理25">《人类知识原理》§25</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>All our Ideas, Sensations, or the things which we perceive, by whatsoever Names they may be distinguished, are visibly inactive, there is nothing of Power or Agency included in them. So that one Idea or Object of Thought cannot produce, or make any Alteration in another.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Every idea or sensation is passive. No power or agency is found within an idea, so one idea cannot produce or alter another idea.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我们所有的观念、感觉，或者无论以何种名称区分的被感知事物，显然都是不活动的；其中不包含任何力量或能动性。因此，一个观念或思想对象不能产生另一个观念，也不能在另一个观念中造成任何改变。</p>
+</blockquote>
+<p>火的视觉和触觉观念不是疼痛观念的主动原因。两者按照自然规律接续出现，前者是后者的稳定信号。真正的活动必须属于意志或精神。</p>
+<h4 id="user-content-2-精神没有观念却有概念性认识">2. 精神没有“观念”，却有“概念性认识”</h4>
+<h5 id="user-content-人类知识原理27">《人类知识原理》§27</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>A Spirit is one simple, undivided, active Being: as it perceives Ideas, it is called the Understanding, and as it produces or otherwise operates about them, it is called the Will. Hence there can be no Idea formed of a Soul or Spirit […] Though it must be owned at the same time, that we have some Notion of Soul, Spirit, and the Operations of the Mind, such as Willing, Loving, Hating, in as much as we know or understand the meaning of those Words.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>A spirit is an active, undivided being. Insofar as it perceives, it is understanding; insofar as it produces or acts concerning ideas, it is will. Because ideas are passive, no idea can represent a spirit. Nevertheless, we have a notion of spirit through our awareness of willing, loving, hating, and other mental acts.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>精神是一个单纯的、不可分的、能动的存在者：就它感知观念而言，它被称为知性；就它产生观念或以其他方式对观念实行作用而言，它被称为意志。因此，我们不能形成灵魂或精神的观念。与此同时，必须承认，我们对于灵魂、精神以及意愿、爱、恨等心灵活动具有某种概念，因为我们知道或理解这些词语的意义。</p>
+</blockquote>
+<p>贝克莱由此区分：</p>
+<ul>
+<li><strong>观念</strong> <em>idea</em>：被动、可被感知或想象的内容；</li>
+<li><strong>概念性认识</strong> <em>notion</em>：对精神、关系和活动的非图像式把握。</li>
+</ul>
+<p>这一步保存了自我和其他精神，却留下一个休谟会追问的问题：如果精神从不作为观念或印象出现，我们对一个持续的精神实体究竟有什么经验根据？</p>
+<hr>
+<h3 id="user-content-二十七上帝感觉的非自愿性与自然规律">二十七、上帝、感觉的非自愿性与自然规律</h3>
+<h4 id="user-content-1-为什么感觉需要另一个精神">1. 为什么感觉需要另一个精神？</h4>
+<h5 id="user-content-人类知识原理2930完整的神之属性论证另见-146">《人类知识原理》§§29—30（完整的神之属性论证另见 §146）</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>When in broad Day-light I open my Eyes, it is not in my Power to choose whether I shall see or no, or to determine what particular Objects shall present themselves to my View […] There is therefore some other Will or Spirit that produces them.</p>
+</blockquote>
+<blockquote>
+<p>The Ideas of Sense […] have likewise a Steddiness, Order, and Coherence, and are not excited at random […] but in a regular Train or Series, the admirable Connexion whereof sufficiently testifies the Wisdom and Benevolence of its Author.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Sensory ideas do not depend on my choice: when I open my eyes, I cannot decide whether or what I will see. They must therefore be produced by a will other than mine. Their stability, order, coherence, and immense systematic connection point, Berkeley argues, to a wise and benevolent divine author.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>当我在明亮的日光中睁开眼睛时，我无权选择自己是否看见，也不能决定哪些特定对象将呈现在我的视野中。……因此，存在某个产生这些观念的其他意志或精神。</p>
+<p>感官观念还具有稳定性、秩序和连贯性；它们并非随机被唤起，……而是依照规则形成一个系列，其令人赞叹的联结充分证明了它们的作者所具有的智慧和仁慈。</p>
+</blockquote>
+<p>论证链是：</p>
+<pre><code class="language-text">观念本身没有能动性
+      ↓
+感觉观念不由我的有限意志选择
+      ↓
+它们需要另一个主动精神作为原因
+      ↓
+经验秩序具有普遍、稳定、复杂和协调的形式
+      ↓
+贝克莱把这一秩序归于无限而智慧的上帝
+</code></pre>
+<p>单凭“我不能控制视觉”并不能立即证明一位全知全能的神。贝克莱实际使用的是累积论证：观念被动、感觉非自愿、自然秩序广泛稳定，三者共同支持神圣精神。</p>
+<p>严格说，§29只推出“另一意志或精神”，§30由感觉秩序指向其作者的智慧与仁慈；贝克莱在 §146 才由整个自然的规律、秩序与协调进一步赋予该精神“一、永恒、无限智慧、善与完满”等属性。</p>
+<p>上帝也不只是“在人离开房间后继续看桌子”的补丁。上帝承担：</p>
+<ul>
+<li>感觉观念的因果来源；</li>
+<li>自然规律的统一；</li>
+<li>不同有限精神经验的协调；</li>
+<li>对象在适当条件下可被感知的反事实稳定性；</li>
+<li>科学预测能够持续成功的秩序基础。</li>
+</ul>
+<p>无人实际感知时物体怎样持续存在，学界有不同解释：上帝的实际感知、上帝持续的意志与法则、或关于可能感知的反事实结构，不能被压缩成唯一无争议的答案。</p>
+<h4 id="user-content-2-自然规律不是观念间的必要力量">2. 自然规律不是观念间的必要力量</h4>
+<h5 id="user-content-人类知识原理31">《人类知识原理》§31</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>That Food nourishes, Sleep refreshes, and Fire warms us […] all this we know, not by discovering any necessary Connexion between our Ideas, but only by the Observation of the settled Laws of Nature.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>We know that food nourishes, sleep refreshes, and fire warms us not because we discover a necessary causal connection among ideas, but because experience reveals stable regularities in nature.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>食物能够滋养，睡眠能够恢复精力，火能够使我们温暖；所有这些，并不是由于我们发现了观念之间的任何必然联结，而只是由于我们观察到已经确立的自然规律。</p>
+</blockquote>
+<p>科学的任务由此不是发现观念内部隐藏的主动能力，而是：</p>
+<ol>
+<li>观察稳定的感觉序列；</li>
+<li>建立数学和经验规律；</li>
+<li>用当前现象预测后续经验；</li>
+<li>指导身体行动与技术实践。</li>
+</ol>
+<p>这与休谟后来的规律论有明显相似，却有关键差异：贝克莱用上帝的稳定意志奠立规律，休谟则把哲学分析限制在恒常结合、心理推断与自然习惯之内。</p>
+<hr>
+<h3 id="user-content-二十八实在感觉想象与反怀疑论">二十八、实在感觉、想象与反怀疑论</h3>
+<h4 id="user-content-1-现实与想象怎样区分">1. 现实与想象怎样区分？</h4>
+<h5 id="user-content-人类知识原理33">《人类知识原理》§33</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>The Ideas imprinted on the Senses by the Author of Nature are called real Things: And those excited in the Imagination being less regular, vivid and constant, are more properly termed Ideas, or Images of Things […] They are also less dependent on the Spirit, or thinking Substance which perceives them, in that they are excited by the Will of another and more powerful Spirit.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Ideas given through the senses by the author of nature count as real things. Imagined ideas are less regular, vivid, and constant. Sensory ideas are also less dependent on the individual perceiver because they are produced by a will more powerful than ours.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>由自然之作者印入感官的观念被称为实在事物；在想象中被唤起的观念，由于较少具有规律性、生动性和恒常性，更适当地被称为观念或事物的形象。……感觉观念也较少依赖于感知它们的精神或思维实体，因为它们是由另一个更强大的精神之意志所唤起的。</p>
+</blockquote>
+<p>现实感觉的判准包括：</p>
+<ul>
+<li>非自愿性；</li>
+<li>生动性；</li>
+<li>稳定性；</li>
+<li>多感官与行动结果的连贯；</li>
+<li>与自然规律的结合；</li>
+<li>与其他有限主体经验的公共协调。</li>
+</ul>
+<p>所以贝克莱没有取消实在感觉、梦境、幻觉和私人想象之间的区别。就当下实际感知到的观念而言，主体并非误认其是否存在；错误通常发生在由当前观念推断它将与哪些后续视觉、触觉或行动结果相联结时（参见《三篇对话》第三篇，Luce–Jessop 版 II:238）。</p>
+<h4 id="user-content-2-他究竟否认什么存在">2. 他究竟否认什么存在？</h4>
+<h5 id="user-content-人类知识原理3586">《人类知识原理》§§35、86</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>That the things I see with mine Eyes and touch with my Hands do exist, really exist, I make not the least Question. The only thing whose Existence we deny, is that which Philosophers call Matter or corporeal Substance.</p>
+</blockquote>
+<blockquote>
+<p>[…] For how can it be known, that the Things which are perceived, are conformable to those which are not perceived, or exist without the Mind?</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Berkeley does not doubt the real existence of the things we see and touch. He denies only the philosophers’ mind-independent material substrate. If perceived ideas were merely representations of unperceived objects, we could never compare the two and know whether the representation was accurate.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我丝毫不怀疑，我用眼睛看见、用双手触摸的事物确实存在、真实存在。我们所否认其存在的唯一事物，是哲学家所谓的物质或物体实体。</p>
+<p>因为，我们如何能够知道，被感知的事物符合那些未被感知、或存在于心灵之外的事物？</p>
+</blockquote>
+<p>反怀疑论结构是：</p>
+<pre><code class="language-text">表象实在论：
+观念 → 代表 → 永远不可直接接触的物质原型
+                    ↓
+          无法比较观念与原型
+
+贝克莱：
+普通可感事物就是有规律的感觉对象
+                    ↓
+     不再需要证明它符合另一个隐藏物
+</code></pre>
+<p>贝克莱因此把自己的非物质主义看作常识实在论：桌子、树木和身体就在我们看见和触摸的世界中，并不是一层遮蔽真正世界的心理幕布。是否成功保存了主体间客观性，则取决于他关于上帝、其他精神和规律的论证是否成立。</p>
+<hr>
+<h3 id="user-content-二十九视觉不是三维世界的天然复制">二十九、视觉不是三维世界的天然复制</h3>
+<h4 id="user-content-视觉新论245147">《视觉新论》§§2、45、147</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Distance, of it self and immediately, cannot be seen.</p>
+</blockquote>
+<blockquote>
+<p>Having of a long time experienced certain Ideas, perceivable by Touch, as Distance, tangible Figure, and Solidity, to have been connected with certain Ideas of Sight, I do upon perceiving these Ideas of Sight, forthwith conclude what Tangible Ideas are […] like to follow.</p>
+</blockquote>
+<blockquote>
+<p>The proper Objects of Vision constitute an universal Language of the Author of Nature […] which do not suggest the things signified, by any Likeness or Identity of Nature, but only by an habitual Connexion, that Experience has made us to observe between them.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Distance is not directly seen. Through experience, we learn that certain visual appearances are regularly connected with tactile experiences, bodily movements, distances, shapes, and solid objects. Visual appearances therefore function like signs in a universal language: they indicate what tactile and practical consequences will follow, not because they resemble them, but because experience has established a habitual connection.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>距离本身并不能被直接看见。</p>
+<p>在长期经验到某些可由触觉感知的观念——例如距离、可触形状和坚实性——与某些视觉观念相联结之后，我一旦感知这些视觉观念，便立即判断随后可能出现哪些触觉观念。</p>
+<p>视觉的固有对象构成自然之作者的一种普遍语言。这些视觉对象并不是凭借与其所表示事物在本性上的相似或同一来提示后者，而只是凭借经验使我们观察到的习惯性联结。</p>
+</blockquote>
+<p>这一理论提出：</p>
+<ul>
+<li>眼睛直接给予颜色、明暗和视觉形状；</li>
+<li>触觉与身体运动给予距离、阻力和可触形状；</li>
+<li>深度知觉来自视觉线索与触觉、运动结果的长期配对；</li>
+<li>视觉线索与所表示的行动后果更像词语与意义，而非图像与原型；</li>
+<li>跨感官识别需要学习，而不是自动完成。</li>
+</ul>
+<p>贝克莱由此成为莫利纽克问题、复明研究、跨模态知觉和知觉学习理论的重要前史。他的“视觉语言”同时说明，语言研究并不是二十世纪才突然进入哲学：十八世纪经验论已经把感知理解为符号、习惯和行动预期的结构。</p>
+<hr>
+<h3 id="user-content-三十贝克莱提出了什么理论">三十、贝克莱提出了什么理论？</h3>
+<table>
+<thead>
+<tr>
+<th>理论</th>
+<th>核心命题</th>
+<th>哲学贡献</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>抽象观念批判</td>
+<td>不存在抽去所有确定规定的自足一般图像</td>
+<td>把一般性转向符号的代表功能</td>
+</tr>
+<tr>
+<td>观念集合论</td>
+<td>普通物体是稳定结合的可感观念系统</td>
+<td>取消物体与感觉性质的双层结构</td>
+</tr>
+<tr>
+<td>非物质主义</td>
+<td>不存在独立于一切精神的物质基质</td>
+<td>以经验论标准批判物质实体</td>
+</tr>
+<tr>
+<td>被感知存在论</td>
+<td>观念的存在就在于被感知</td>
+<td>明确可感对象的存在方式</td>
+</tr>
+<tr>
+<td>精神能动论</td>
+<td>精神是感知、意愿和行动的主动存在者</td>
+<td>区分被动内容与主动主体</td>
+</tr>
+<tr>
+<td>观念—概念区分</td>
+<td>精神没有表象观念，却可被概念性理解</td>
+<td>试图保存自我、他心和上帝</td>
+</tr>
+<tr>
+<td>主论证</td>
+<td>“完全无人思想的可感对象”难以被正面设想</td>
+<td>暴露设想行为与心外存在之间的张力</td>
+</tr>
+<tr>
+<td>神圣因果论</td>
+<td>非自愿而有秩序的感觉来自更高精神</td>
+<td>解释自然秩序和经验公共性</td>
+</tr>
+<tr>
+<td>自然规律符号论</td>
+<td>现象间没有被感知的必要力量，科学发现稳定规则</td>
+<td>预示规律论和工具主义式科学观</td>
+</tr>
+<tr>
+<td>现实判准论</td>
+<td>感觉以非自愿、稳定、生动和连贯区别于想象</td>
+<td>回答非物质主义的梦境反驳</td>
+</tr>
+<tr>
+<td>视觉学习论</td>
+<td>距离和三维对象依跨感官经验习得</td>
+<td>开创知觉建构与跨模态研究</td>
+</tr>
+<tr>
+<td>视觉语言论</td>
+<td>视觉观念作为触觉和行动结果的自然符号</td>
+<td>连接知觉、语言、习惯和预测</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-三十一贝克莱的后世影响">三十一、贝克莱的后世影响</h3>
+<h4 id="user-content-1-休谟继承批判删除神学保证">1. 休谟：继承批判，删除神学保证</h4>
+<p>休谟明确赞扬贝克莱关于一般观念的分析，并继承：</p>
+<ul>
+<li>一般性来自个别观念的代表功能；</li>
+<li>感知本身不显示隐藏实体；</li>
+<li>经验中没有观念之间的必要力量；</li>
+<li>规律和习惯对思想连接具有核心作用。</li>
+</ul>
+<p>但休谟把来源审查继续应用到精神和神圣因果：如果持续的精神实体同样没有相应印象，为什么它比物质实体更容易得到证明？</p>
+<h4 id="user-content-2-里德与直接实在论">2. 里德与直接实在论</h4>
+<p>托马斯·里德把笛卡尔—洛克以来的“观念理论”视为通向贝克莱和休谟的道路，并主张感知不是先认识心内观念再推论外物，而是直接面向外在对象。贝克莱既可被理解为消除“观念—外物”鸿沟的特殊直接实在论者，也是里德试图摆脱的理想主义对手。</p>
+<h4 id="user-content-3-康德">3. 康德</h4>
+<p>康德把贝克莱作为需要同先验理想主义严格区分的“物质理想主义”代表。贝克莱质疑物质实体，康德则主张经验对象在经验领域具有客观实在性，但空间、时间和对象形式依赖先验认识条件。尽管主要作为批判对象，贝克莱提出的“对象如何依赖感知条件”仍是康德无法绕过的问题。</p>
+<h4 id="user-content-4-现象主义与分析哲学">4. 现象主义与分析哲学</h4>
+<p>密尔将物质描述为“感觉的永久可能性”，二十世纪现象主义者尝试用实际感觉和反事实感觉条件重建物体。这些方案与贝克莱相关，却不能等同：</p>
+<ul>
+<li>贝克莱承认真实精神；</li>
+<li>他以神圣意志奠立规律；</li>
+<li>他没有把对象纯粹分析成私人感觉报告的逻辑构造。</li>
+</ul>
+<h4 id="user-content-5-语言符号与知觉科学">5. 语言、符号与知觉科学</h4>
+<p>关于一般性、视觉语言和习惯连接的理论，影响语言使用论、符号学、深度知觉、跨感官校准和预测式感知讨论。把贝克莱直接称为现代认知科学家会过度现代化，但其问题结构具有明显延续性。</p>
+<h4 id="user-content-6-科学哲学和数学基础">6. 科学哲学和数学基础</h4>
+<p>《论运动》把力和引力等概念主要解释为组织、计算和预测现象的工具，而非直接观察到的主动实体。《分析学家》对无穷小和流数法的批评带有宗教论战色彩，却也推动英国数学家更严格地说明分析学基础。</p>
+<hr>
+<h3 id="user-content-三十二贝克莱的常见误读">三十二、贝克莱的常见误读</h3>
+<table>
+<thead>
+<tr>
+<th>常见误读</th>
+<th>修正</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>贝克莱否认树木、石头和身体存在</td>
+<td>他明确肯定所见所触之物；否认的是不可感知的物质基质</td>
+</tr>
+<tr>
+<td>世界只是我个人脑中的想象</td>
+<td>感觉不受个人意志控制，并处于公共自然秩序中</td>
+</tr>
+<tr>
+<td>贝克莱是唯我论者</td>
+<td>他承认自身、其他有限精神和上帝</td>
+</tr>
+<tr>
+<td>无人观察时事物必然瞬间消失</td>
+<td>体系诉诸上帝、其他精神及稳定的可能感知秩序</td>
+</tr>
+<tr>
+<td>他取消现实与梦境区别</td>
+<td>实在感觉更稳定、生动、连贯、非自愿</td>
+</tr>
+<tr>
+<td>他反对一切抽象和一般思想</td>
+<td>他只否认无规定的抽象图像，承认符号性一般观念</td>
+</tr>
+<tr>
+<td>“存在即被感知”也适用于精神</td>
+<td>精神作为主动感知者具有不同存在方式</td>
+</tr>
+<tr>
+<td>一个观念不能像非观念，因此任何表象都不可能</td>
+<td>论证针对物质原型相似论，不否认观念间的相似</td>
+</tr>
+<tr>
+<td>主论证单独证明了全部非物质主义</td>
+<td>其有效范围有争议，完整立场依赖多条论证</td>
+</tr>
+<tr>
+<td>上帝只是防止桌子消失的临时假设</td>
+<td>上帝承担感官来源、自然规律和主体间协调等系统功能</td>
+</tr>
+<tr>
+<td>贝克莱反对自然科学</td>
+<td>他接受实验和数学预测，反对把模型项自动实体化</td>
+</tr>
+<tr>
+<td>他的体系已经等于休谟规律论</td>
+<td>贝克莱仍以精神因果和神圣秩序奠立规律</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="user-content-第三编休谟印象习惯因果与人性科学">第三编　休谟：印象、习惯、因果与人性科学</h2>
+<h3 id="user-content-三十三生平著作与人性科学">三十三、生平、著作与“人性科学”</h3>
+<p>大卫·休谟（David Hume，1711—1776）是苏格兰启蒙运动的中心人物。他希望把牛顿式实验精神引入对理解、激情、道德、政治和宗教的研究，但这种“实验方法”主要指从经验、心理观察、历史和社会生活归纳一般原则，并不等同于现代实验室心理学。</p>
+<p>主要著作：</p>
+<table>
+<thead>
+<tr>
+<th>著作</th>
+<th align="right">时间</th>
+<th>核心问题</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>A Treatise of Human Nature</em>《人性论》</td>
+<td align="right">1739—1740</td>
+<td>理解、激情、道德和人性科学</td>
+</tr>
+<tr>
+<td><em>An Abstract of a Treatise of Human Nature</em>《人性论摘要》</td>
+<td align="right">1740</td>
+<td>说明因果、信念和体系目标</td>
+</tr>
+<tr>
+<td><em>Essays, Moral and Political</em>《道德与政治论文集》</td>
+<td align="right">1741—以后</td>
+<td>商业、政治、品味、历史和公共生活</td>
+</tr>
+<tr>
+<td><em>An Enquiry concerning Human Understanding</em>《人类理解研究》</td>
+<td align="right">1748</td>
+<td>观念、因果、归纳、自由、奇迹和怀疑主义</td>
+</tr>
+<tr>
+<td><em>An Enquiry concerning the Principles of Morals</em>《道德原则研究》</td>
+<td align="right">1751</td>
+<td>道德情感、效用、正义和德性</td>
+</tr>
+<tr>
+<td><em>The Natural History of Religion</em>《宗教的自然史》</td>
+<td align="right">1757</td>
+<td>宗教信念的心理和历史起源</td>
+</tr>
+<tr>
+<td><em>Dialogues concerning Natural Religion</em>《自然宗教对话录》</td>
+<td align="right">1779身后出版</td>
+<td>设计论证、恶的问题和自然神学</td>
+</tr>
+</tbody>
+</table>
+<p>《人性论》出版后反响有限，休谟后来用两部《研究》重写部分核心论证，并在身后版“告读者”中要求读者把《研究》视为其认可的表达。但《人性论》仍保存其关于自我、激情、同情和道德心理的最完整分析。研究休谟时不能只读《研究》，也不能把早期与晚期文本视为完全没有差别。</p>
+<hr>
+<h3 id="user-content-三十四人的科学为什么必须建立在经验上">三十四、人的科学为什么必须建立在经验上？</h3>
+<h4 id="user-content-人性论导论-t-07sbn-xvi">《人性论》导论 T 0.7，SBN xvi</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>And as the science of man is the only solid foundation for the other sciences, so the only solid foundation we can give to this science itself must be laid on experience and observation.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Because the study of human nature grounds every other science, it must itself be grounded in experience and observation.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>既然人的科学是其他科学唯一坚实的基础，那么我们能够给予这门科学本身的唯一坚实基础，也必须奠立在经验和观察之上。</p>
+</blockquote>
+<p>数学、自然哲学、政治、道德和宗教论证都由人类认知者进行。若不了解知觉、推理、欲望和语言怎样运作，就无法知道这些学科能提出什么样的正当主张。</p>
+<p>休谟的方法包括：</p>
+<ul>
+<li>分析日常思维和语言；</li>
+<li>观察激情、习惯和社会行为；</li>
+<li>比较历史与政治制度；</li>
+<li>用反例检验抽象原则；</li>
+<li>追问一个概念能够追溯到什么经验；</li>
+<li>承认人在反思之外仍受自然倾向支配。</li>
+</ul>
+<p>因此，休谟既是认识论家，也是心理学家、道德哲学家、历史学家和政治经济思想家。</p>
+<hr>
+<h3 id="user-content-三十五印象与观念两类知觉">三十五、印象与观念：两类知觉</h3>
+<h4 id="user-content-人性论t-1111sbn-12">《人性论》T 1.1.1.1，SBN 1—2</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>All the perceptions of the human mind resolve themselves into two distinct kinds, which I shall call Impressions and Ideas. The difference betwixt these consists in the degrees of force and liveliness, with which they strike upon the mind, and make their way into our thought or consciousness.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Every mental perception belongs broadly to one of two kinds: impressions or ideas. Impressions normally appear with greater force and vividness, whereas ideas are fainter perceptions involved in thinking and remembering.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>人类心灵的一切知觉都可以归结为两个不同种类，我将把它们称为印象和观念。二者的差别在于它们作用于心灵、进入思想或意识时所具有的力量和生动程度。</p>
+</blockquote>
+<p><strong>印象</strong>包括：</p>
+<ul>
+<li>外部感觉；</li>
+<li>疼痛和快乐；</li>
+<li>激情和情绪；</li>
+<li>意愿等生动的心理活动。</li>
+</ul>
+<p><strong>观念</strong>则是回忆、想象和推理中的较微弱知觉。这个区分以力量和生动性为一般标准，却不是绝对无例外：梦境、发热、疯狂和强烈情绪可能使观念接近印象；微弱感觉也可能不够生动。</p>
+<p>休谟使用“知觉” <em>perception</em> 作为印象与观念的总称，这与现代把“知觉”只限于感官输入的习惯不同。</p>
+<hr>
+<h3 id="user-content-三十六复制原则及缺失的蓝色">三十六、复制原则及“缺失的蓝色”</h3>
+<h4 id="user-content-1-简单观念通常来自相应简单印象">1. 简单观念通常来自相应简单印象</h4>
+<h5 id="user-content-人性论t-1117sbn-4">《人性论》T 1.1.1.7，SBN 4</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>That all our simple ideas in their first appearance are deriv’d from simple impressions, which are correspondent to them, and which they exactly represent.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Whenever a simple idea first appears, it is normally derived from a corresponding simple impression that it resembles.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>我们所有的简单观念在最初出现时，都来自与之相对应、并由它们准确表象的简单印象。</p>
+</blockquote>
+<p>复制原则首先约束<strong>简单观念</strong>。复杂观念可以把经验材料重新组合，因此人能够设想金山或会飞的马，却仍不能在没有任何相应经验材料时创造全新的简单感觉内容。</p>
+<p>这一原则还有“意义检验”功能：面对模糊形而上学术语，应追问它所包含的简单观念来自什么印象。如果找不到来源，可能说明术语没有清楚内容，或者不同概念被混在了一起。</p>
+<h4 id="user-content-2-休谟主动承认一个例外">2. 休谟主动承认一个例外</h4>
+<h5 id="user-content-人类理解研究e-28sbn-2021">《人类理解研究》E 2.8，SBN 20—21</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Suppose, therefore, a person to have enjoyed his sight for thirty years, and to have become perfectly acquainted with colours of all kinds, except one particular shade of blue […] Now I ask, whether it be possible for him, from his own imagination, to supply this deficiency, and raise up to himself the idea of that particular shade, though it had never been conveyed to him by his senses? I believe there are few but will be of opinion that he can: And this may serve as a proof, that the simple ideas are not always, in every instance, derived from the correspondent impressions; though this instance is so singular, that it is scarcely worth our observing, and does not merit, that for it alone we should alter our general maxim.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Imagine someone familiar with every shade of blue except one. If the shades are arranged in sequence with a gap, that person may be able to imagine the missing shade even though it has never been directly seen. Hume accepts that this is an exception to the claim that every simple idea derives from a corresponding impression, but regards it as too singular to overturn the general rule.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因而，假定一个人已经享有视觉三十年，并已完全熟悉各种颜色，唯独从未遇见某一种特定的蓝色深浅。……现在我要问，他是否可能凭自己的想象补上这一缺失，并在自身中形成那一特定色调的观念，尽管它从未通过感官传达给他？我相信，很少有人会认为他做不到。这可以证明，简单观念并非在每一个实例中都来自相应印象；不过，这个实例极其特殊，不值得仅仅为了它而改变我们的一般准则。</p>
+</blockquote>
+<p>休谟认为这是一个极特殊的例外，不值得为此放弃一般原则。它说明：</p>
+<ul>
+<li>复制原则不是未经反例检验的教条；</li>
+<li>相近经验之间可能存在连续插值；</li>
+<li>“所有简单观念都逐一复制独立印象”需要加上通常、最初或一般性的限定；</li>
+<li>一个例外不会自动摧毁经验来源理论，但会限制其绝对形式。</li>
+</ul>
+<hr>
+<h3 id="user-content-三十七观念联想思想为什么不会完全随机">三十七、观念联想：思想为什么不会完全随机？</h3>
+<h4 id="user-content-人类理解研究e-32sbn-24">《人类理解研究》E 3.2，SBN 24</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>To me, there appear to be only three principles of connexion among ideas, namely, Resemblance, Contiguity in time or place, and Cause or Effect.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Ideas are regularly connected by three broad associative principles: resemblance, nearness in time or place, and cause or effect.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>在我看来，观念之间似乎只有三种联结原则，即相似、时间或地点上的接近，以及原因或结果。</p>
+</blockquote>
+<p>例如：</p>
+<ul>
+<li>画像使人想到原型，这是相似；</li>
+<li>提到建筑的一间房使人想到其他房间，这是空间接近；</li>
+<li>想到伤口使人想到疼痛，这是因果联想。</li>
+</ul>
+<p>这些原则不是说每一次思想过渡都能机械地归入唯一类别，也不是生理神经定律。它们是经验观察到的一般心理倾向，说明心灵为何在没有形式演绎时仍以相对稳定方式移动。</p>
+<p>联想理论使休谟能够用习惯和心理机制解释观念的一般性、因果推断、身份想象和情感传递。</p>
+<hr>
+<h3 id="user-content-三十八休谟之叉观念关系与事实">三十八、“休谟之叉”：观念关系与事实</h3>
+<h4 id="user-content-人类理解研究e-41sbn-25">《人类理解研究》E 4.1，SBN 25</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>All the objects of human reason or enquiry may naturally be divided into two kinds, to wit, Relations of Ideas, and Matters of Fact.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>The objects of reasoning can be divided into relations of ideas and matters of fact.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>人类理性或探究的一切对象，可以自然地分成两类，即观念之间的关系与事实。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>确定性</th>
+<th>反面是否矛盾</th>
+<th>例子</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>观念关系</td>
+<td>直观或证明性确定</td>
+<td>反面包含矛盾</td>
+<td>数学、定义关系</td>
+</tr>
+<tr>
+<td>事实</td>
+<td>依经验、因果和概率</td>
+<td>反面可以被设想</td>
+<td>明天太阳升起、某城市存在</td>
+</tr>
+</tbody>
+</table>
+<p>“休谟之叉”是后来的名称。它不应未经论证就改写为逻辑实证主义的强意义标准——“所有不分析、不可直接验证的句子都无意义”。休谟讨论的是推理对象及其证据类型，而不是已经完成一套二十世纪语义学。</p>
+<p>事实的反面可以设想，不表示所有事实信念都同样不可靠。经验、证言、规律性和背景知识会产生不同强度的证据。</p>
+<hr>
+<h3 id="user-content-三十九因果与归纳为什么过去不能证明未来">三十九、因果与归纳：为什么过去不能证明未来？</h3>
+<h4 id="user-content-1-原因和结果不能由纯理性预见">1. 原因和结果不能由纯理性预见</h4>
+<h5 id="user-content-人类理解研究e-47sbn-28">《人类理解研究》E 4.7，SBN 28</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>This proposition, that causes and effects are discoverable, not by reason, but by experience, will readily be admitted with regard to such objects, as we remember to have once been altogether unknown to us.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>When an object is entirely new to us, reason alone cannot reveal its effects; causal relations must be learned from experience.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>关于原因和结果不是由理性、而是由经验发现这一命题，就那些我们记得自己曾经完全不熟悉的对象而言，人们很容易承认。</p>
+</blockquote>
+<p>面对一种从未见过的物体，我们不能仅从形状、颜色或概念定义推断它会燃烧、爆炸、滋养或致病。事件之间不存在仅凭观看单个实例即可读出的逻辑纽带。</p>
+<p>休谟并非否认人能运用理论预测，而是追问理论中的因果原则最终怎样获得经验支持。即便复杂科学使用数学推演，其经验应用仍依赖已发现的规律和校准。</p>
+<h4 id="user-content-2-归纳的正当化为何循环">2. 归纳的正当化为何循环？</h4>
+<p>关于未来的事实推断依赖一个一般期待：未观察情形将与已观察情形相似，自然进程会以某种方式保持一致。</p>
+<p>但：</p>
+<ol>
+<li>这一原则不能被证明，因为设想自然明天改变并不自相矛盾；</li>
+<li>用过去经验证明它，会预先假定过去成功能够支持未来；</li>
+<li>这正是需要被证明的归纳原则；</li>
+<li>所以归纳实践没有一个不使用归纳的理性证明。</li>
+</ol>
+<h5 id="user-content-人类理解研究e-421sbn-3738">《人类理解研究》E 4.21，SBN 37—38</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>For all inferences from experience suppose, as their foundation, that the future will resemble the past, and that similar powers will be conjoined with similar sensible qualities. […] It is impossible, therefore, that any arguments from experience can prove this resemblance of the past to the future; since all these arguments are founded on the supposition of that resemblance.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Every inference from experience assumes that the future will resemble the past and that similar observable features will be joined to similar powers. Experience cannot prove this assumption without circularity, because any such proof already relies on it.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>一切来自经验的推论，都把未来将与过去相似以及相似能力将同相似感性性质结合当作其基础。……因此，任何经验论证都不可能证明过去与未来的这种相似，因为所有这些论证本身都建立在这种相似性的假定之上。</p>
+</blockquote>
+<h4 id="user-content-3-习惯是实际答案">3. 习惯是实际答案</h4>
+<h5 id="user-content-人类理解研究e-556sbn-4345">《人类理解研究》E 5.5—6，SBN 43—45</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>All inferences from experience, therefore, are effects of custom, not of reasoning.</p>
+</blockquote>
+<blockquote>
+<p>Custom, then, is the great guide of human life. It is that principle alone, which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Our ordinary inferences from experience arise from learned custom rather than demonstrative reasoning. Habit makes past experience practically useful by leading us to expect similar patterns in the future.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因而，一切来自经验的推论都是习惯的结果，而不是推理的结果。</p>
+<p>所以，习惯是人类生活的伟大向导。只有这一原则使我们的经验对我们有用，并使我们期待未来出现与过去已经出现过的事件相似的进程。</p>
+</blockquote>
+<p>休谟的结论不是“既然归纳无法证明，就应停止归纳”。人类和动物都会在重复经验中形成期待；日常行动、科学和生存无法摆脱这种机制。哲学的任务是准确说明它的性质和限度，而不是假装它具有数学证明。</p>
+<p>现代“归纳问题”由此分成至少两问：</p>
+<ul>
+<li><strong>描述问题</strong>：人为何会从过去推向未来？休谟回答：习惯与信念机制。</li>
+<li><strong>规范问题</strong>：这种推断何时合理？休谟提供了概率比较、经验校正和批判迷信的资源，却没有为“未来将类似过去”提供一种不预设该原则的非循环理性论证。</li>
+</ul>
+<hr>
+<h3 id="user-content-四十必然联系在哪里">四十、必然联系在哪里？</h3>
+<h4 id="user-content-人类理解研究e-728sbn-75">《人类理解研究》E 7.28，SBN 75</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>This connexion, therefore, which we feel in the mind, this customary transition of the imagination from one object to its usual attendant, is the sentiment or impression, from which we form the idea of power or necessary connexion.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>The impression from which we form the idea of necessary connection is the mind’s felt tendency, acquired through custom, to pass from one kind of event to its usual companion.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因而，我们在心灵中感觉到的这种联结，也就是想象从一个对象习惯性地过渡到通常伴随它的对象，正是我们由以形成力量或必然联系观念的感受或印象。</p>
+</blockquote>
+<p>单次观察只给予：</p>
+<ul>
+<li>一个事件；</li>
+<li>另一个随后发生的事件；</li>
+<li>各自的可感性质。</li>
+</ul>
+<p>重复观察则形成：</p>
+<ol>
+<li>同类事件的恒常结合；</li>
+<li>心灵从原因观念过渡到结果观念的习惯；</li>
+<li>对结果将出现的信念；</li>
+<li>被投射或归属于对象关系的“必要联系”观念。</li>
+</ol>
+<p>《人性论》有更强措辞：必然性“存在于心灵，而不在对象中”，是思想根据经验结合从原因过渡到结果的决定。但不宜简单写成“休谟已经证明世界中绝无因果力”。</p>
+<p>关于他的最终立场，存在三类解释：</p>
+<ul>
+<li><strong>规律论或反实在论</strong>：因果事实不超过规律性与推断结构；</li>
+<li><strong>投射主义</strong>：心灵把自身的必然感受投射到世界；</li>
+<li><strong>怀疑实在论或新休谟主义</strong>：世界可能有真实力量，但我们无法形成其内在本性观念，只能通过规律效果把握。</li>
+</ul>
+<p>共同点是：人不能从单个对象或纯粹概念中直观读出必要能力。</p>
+<hr>
+<h3 id="user-content-四十一自我是一种实体还是知觉的集合">四十一、自我是一种实体，还是知觉的集合？</h3>
+<h4 id="user-content-人性论t-14634sbn-252253">《人性论》T 1.4.6.3—4，SBN 252—253</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe any thing but the perception.</p>
+</blockquote>
+<blockquote>
+<p>But setting aside some metaphysicians of this kind, I may venture to affirm of the rest of mankind, that they are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>When Hume looks inward, he finds particular sensations, emotions, and thoughts, but never a separate, unchanging self apart from them. He therefore describes the ordinary human mind as a rapidly changing bundle or collection of perceptions.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>就我而言，当我最深入地进入我所谓的自我时，我总会碰到某个特定知觉，例如冷或热、光或阴影、爱或恨、痛苦或快乐。我在任何时候都不能在没有知觉的情况下捕捉到自己，也绝不能观察到知觉之外的任何东西。</p>
+<p>但是，除去这类形而上学家，我可以大胆断言，其余人不过是不同知觉构成的一束或集合；这些知觉以不可想象的速度彼此相继，并处于持续的流变和运动之中。</p>
+</blockquote>
+<p>休谟否认的是内省能够发现一个简单、不变、独立于知觉的实体自我。他没有否认：</p>
+<ul>
+<li>人具有身体和心理历史；</li>
+<li>记忆、因果联系与性格能够连接不同时刻；</li>
+<li>日常人格、法律责任和社会关系具有实践功能；</li>
+<li>人自然地把变化过程想象为同一主体。</li>
+</ul>
+<p>他也提醒“心灵像剧场”的比喻不能被字面化：我们并不知道一个独立舞台，也只发现相继的知觉。</p>
+<p>更重要的是，休谟在《人性论》附录承认，自己关于知觉之间怎样构成统一心灵的解释使他陷入“迷宫”，尚未找到满意方案。因此，不能把知觉束理论写成他毫无保留解决了人格同一性。</p>
+<hr>
+<h3 id="user-content-四十二彻底怀疑为什么无法持续">四十二、彻底怀疑为什么无法持续？</h3>
+<h4 id="user-content-人类理解研究e-1224sbn-161">《人类理解研究》E 12.24，SBN 161</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>There is, indeed, a more mitigated scepticism or academical philosophy, which may be both durable and useful, and which may, in part, be the result of this Pyrrhonism, or excessive scepticism, when its undistinguished doubts are, in some measure, corrected by common sense and reflection.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>A moderated or Academic scepticism can be stable and useful. It emerges when radical doubt is corrected by common sense, reflection, and awareness of human cognitive limits.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>确实存在一种更缓和的怀疑主义，或学院派哲学；它既能够持久，也能够有用。当皮浪主义或过度怀疑主义那种不加区分的怀疑受到常识与反思的某种纠正时，这种哲学便可以部分地产生于它。</p>
+</blockquote>
+<p>极端怀疑可以在书斋论证中动摇外物、因果和推理，但饥饿、交谈、游戏和日常行动会恢复自然信念。休谟的结论不是“反思无效”，而是：</p>
+<ul>
+<li>降低独断确信；</li>
+<li>区分不同证据强度；</li>
+<li>限制研究范围；</li>
+<li>用经验校正迷信和过度形而上学；</li>
+<li>承认人的自然信念没有最终演绎基础，却仍不可避免并可被改进。</li>
+</ul>
+<p>这是一种怀疑主义与自然主义的结合。</p>
+<hr>
+<h3 id="user-content-四十三自由与必然能够相容吗">四十三、自由与必然能够相容吗？</h3>
+<h4 id="user-content-人类理解研究e-823sbn-95">《人类理解研究》E 8.23，SBN 95</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>By liberty, then, we can only mean a power of acting or not acting, according to the determinations of the will; that is, if we chuse to remain at rest, we may; if we chuse to move, we also may.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Liberty is the ability to act or refrain from acting in accordance with one’s will: if one chooses to remain still, one can; if one chooses to move, one can.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>所谓自由，我们只能指依照意志的决定而行动或不行动的能力；也就是说，如果我们选择保持静止，我们便能够保持静止；如果我们选择行动，我们也能够行动。</p>
+</blockquote>
+<p>休谟把“必然”解释为性格、动机与行动之间的规律结合，以及观察者据此进行推断的能力；把“自由”解释为没有外在拘禁或强迫时按意愿行动的能力。</p>
+<p>这形成古典相容论：</p>
+<table>
+<thead>
+<tr>
+<th>必然</th>
+<th>自由</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>行动与性格、欲望和动机有稳定关系</td>
+<td>行动源于行动者自身意愿</td>
+</tr>
+<tr>
+<td>他人可以根据性格推断行为</td>
+<td>若行动者选择行动，他能够行动；若选择不行动，他能够不行动，即行动不受外在拘禁或强迫</td>
+</tr>
+<tr>
+<td>不等于形而上学强迫</td>
+<td>不等于完全无原因的任意选择</td>
+</tr>
+</tbody>
+</table>
+<p>休谟认为，如果行动与人的性格和动机毫无联系，反而难以归责。批评者则会追问：一个人的欲望和性格如果也完全由不可控制的原因形成，仅仅没有外在锁链是否足以构成强意义自由？</p>
+<hr>
+<h3 id="user-content-四十四理性是激情的奴隶是什么意思">四十四、“理性是激情的奴隶”是什么意思？</h3>
+<h4 id="user-content-人性论t-2334sbn-414415">《人性论》T 2.3.3.4，SBN 414—415</h4>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Reason cannot by itself generate ultimate motivation. Its proper role is to discover facts, relations, and effective means in the service of ends supplied by desire and sentiment.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>理性是、并且只应当是激情的奴隶；除了服务并服从激情之外，它绝不能声称自己具有任何其他职能。</p>
+</blockquote>
+<p>这里的“激情”包括强烈冲动，也包括平静而稳定的欲求、关切和性格倾向。休谟的主张不是：</p>
+<ul>
+<li>事实推理没有价值；</li>
+<li>所有冲动都应立即满足；</li>
+<li>欺骗和错误信念不会影响行动；</li>
+<li>道德只是任意情绪爆发。</li>
+</ul>
+<p>理性能够：</p>
+<ul>
+<li>发现对象是否存在；</li>
+<li>判断原因与手段；</li>
+<li>揭示一个欲望建立在错误信念上；</li>
+<li>计算长期后果；</li>
+<li>比较不同计划的一致性。</li>
+</ul>
+<p>它不能单凭一个事实判断生成最终目的。行动需要某种关心、厌恶、欲望或情感作为动机。这一思想成为现代动机内在主义与工具理性争论的重要来源。</p>
+<hr>
+<h3 id="user-content-四十五道德情感事实与规范">四十五、道德情感、事实与规范</h3>
+<h4 id="user-content-1-道德首先被感受到">1. 道德首先被感受到</h4>
+<h5 id="user-content-人性论t-3121sbn-470">《人性论》T 3.1.2.1，SBN 470</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Morality, therefore, is more properly felt than judg’d of; tho’ this feeling or sentiment is commonly so soft and gentle, that we are apt to confound it with an idea, according to our common custom of taking all things for the same, which have any near resemblance to each other.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Moral approval and disapproval are more properly felt than inferred as purely intellectual judgments, although these sentiments can be so calm that we mistake them for ideas.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因此，道德与其说是被判断出来的，不如说是被感受到的；不过这种感觉或情感通常如此轻微而温和，以至于我们容易把它同一个观念混为一谈，因为我们惯于把彼此非常相似的东西看作相同。</p>
+</blockquote>
+<p>情感论并不表示“每个人喜欢什么，什么就是善”。休谟用以下机制说明评价怎样超越私人偏好：</p>
+<ul>
+<li><strong>同情</strong>使他人的快乐和痛苦影响评价；</li>
+<li><strong>一般观点</strong>要求观察者暂时修正私人距离和利益偏向；</li>
+<li><strong>效用</strong>使有益于社会或个人的性格得到赞许；</li>
+<li><strong>可亲性</strong>说明温和、机智等并非只因工具效果而被欣赏；</li>
+<li>语言和社会交往使评价逐渐稳定。</li>
+</ul>
+<h4 id="user-content-2-从是到应当的转换必须被说明">2. 从“是”到“应当”的转换必须被说明</h4>
+<h5 id="user-content-人性论t-31127sbn-469">《人性论》T 3.1.1.27，SBN 469</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>In every system of morality, which I have hitherto met with, I have always remark'd, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surpriz'd to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence.</p>
+<p>For as this ought, or ought not, expresses some new relation or affirmation, 'tis necessary that it shou'd be observ'd and explain'd; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Moral arguments often move unnoticed from statements about what is or is not the case to conclusions about what ought or ought not to be done. Because this introduces a new relation, the transition must be identified and justified.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>在我此前遇到的每一种道德体系中，我总是注意到，作者会先按照通常的推理方式前进一段时间，确立上帝的存在，或对人类事务作出观察；但突然之间，我惊讶地发现，通常用来连接命题的“是”和“不是”消失了，我遇到的每个命题都同“应当”或“不应当”相联。这一变化不易察觉，却具有极其重大的后果。</p>
+<p>既然这个“应当”或“不应当”表达了某种新的关系或断言，就有必要注意并解释它；同时必须为这件看似完全不可理解的事给出理由：这种新关系如何能够从与它完全不同的关系中推导出来。</p>
+</blockquote>
+<p>原文首先要求揭示和解释推导步骤。后来的“休谟法则”常把它加强为：任何只含事实前提的论证在逻辑上都不能推出规范结论。这个更强命题是否完整表达休谟本人的意图，需要另外论证。</p>
+<h4 id="user-content-3-效用为何引起赞许">3. 效用为何引起赞许？</h4>
+<h5 id="user-content-道德原则研究m-515sbn-218">《道德原则研究》M 5.15，SBN 218</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>Usefulness is agreeable, and engages our approbation. This is a matter of fact, confirmed by daily observation. But, useful? For what? For some body’s interest, surely. Whose interest then? Not our own only: For our approbation frequently extends farther.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Usefulness tends to please and attract approval. The relevant benefit is not confined to the observer’s private interest, because moral approval regularly extends to qualities useful to other people and to society.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>有用性是令人愉悦的，并引起我们的赞许。这是由日常观察所证实的事实。但是，对什么有用？当然是对某个人的利益有用。那么，是谁的利益？不只是我们自己的利益，因为我们的赞许经常延伸得更远。</p>
+</blockquote>
+<p>休谟不是后来意义上的单一原则功利主义者。他把个人价值概括为：</p>
+<ul>
+<li>对他人有用；</li>
+<li>对自己有用；</li>
+<li>直接令他人愉悦；</li>
+<li>直接令自己愉悦。</li>
+</ul>
+<p>正义尤其依赖社会效用和人为惯例：在资源有限、人类慷慨有限而合作有利的条件下，财产规则成为解决协调问题的稳定制度。</p>
+<hr>
+<h3 id="user-content-四十六宗教证据奇迹与推论限度">四十六、宗教证据、奇迹与推论限度</h3>
+<h4 id="user-content-1-奇迹证言应当怎样权衡">1. 奇迹证言应当怎样权衡？</h4>
+<h5 id="user-content-人类理解研究e-101213sbn-114116">《人类理解研究》E 10.12—13，SBN 114—116</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>A miracle is a violation of the laws of nature; and as a firm and unalterable experience has established these laws, the proof against a miracle, from the very nature of the fact, is as entire as any argument from experience can possibly be imagined.</p>
+</blockquote>
+<blockquote>
+<p>That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>A miracle conflicts with laws supported by exceptionally uniform experience. Testimony can rationally establish one only if the falsehood or error of that testimony would be even more extraordinary than the reported event.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>奇迹是对自然规律的违反；由于坚定而不可改变的经验确立了这些规律，所以，从事件本身的性质来看，反对奇迹的证明就像任何能够设想的经验论证一样完整。</p>
+<p>任何证言都不足以确立一个奇迹，除非该证言具有这样的性质：它为假这件事，比它试图确立的事实更加奇异。</p>
+</blockquote>
+<p>这是一条比较证据原则，而不是“奇迹在逻辑上自相矛盾”。原则上，若证言为假的可能性比事件本身更不可思议，证言可能占优；休谟的实际结论是，历史奇迹报告受到欺骗、误认、传播欲望、宗派热情和相互冲突传统削弱，没有达到标准。</p>
+<h4 id="user-content-2-能否从有限效果推出无限神性">2. 能否从有限效果推出无限神性？</h4>
+<h5 id="user-content-人类理解研究e-1118sbn-139">《人类理解研究》E 11.18，SBN 139</h5>
+<p><strong>原作语言：English</strong></p>
+<blockquote>
+<p>The religious hypothesis, therefore, must be considered only as a particular method of accounting for the visible phænomena of the universe: But no just reasoner will ever presume to infer from it any single fact, and alter or add to the phænomena, in any single particular.</p>
+</blockquote>
+<p><strong>Modern English rendering</strong></p>
+<blockquote>
+<p>Even if a religious hypothesis is used to explain visible features of the universe, a careful reasoner may not attribute additional facts or divine properties beyond what the observed effects support.</p>
+</blockquote>
+<p><strong>中文直译</strong></p>
+<blockquote>
+<p>因此，宗教假设只能被视为解释宇宙可见现象的一种特殊方式；但任何正当的推理者都绝不会擅自从它推出任何单一事实，也不会在任何细节上改变或增添这些现象。</p>
+</blockquote>
+<p>《研究》第十一节具有文学转述框架，《自然宗教对话录》则让克里安西斯、狄米亚和斐洛分别代表不同立场。不能把任何一句角色台词未经分析就直接等同于休谟最终声音。</p>
+<p>休谟对设计论证的核心限制是：原因只能按效果显示的程度被赋予属性。从有限、有缺陷且只有一个样本的世界，不能轻易推出无限、完美、唯一且全善的设计者。恶的问题、宇宙类比的薄弱以及其他解释可能性，进一步削弱传统自然神学。</p>
+<hr>
+<h3 id="user-content-四十七休谟提出了什么理论">四十七、休谟提出了什么理论？</h3>
+<table>
+<thead>
+<tr>
+<th>理论</th>
+<th>核心命题</th>
+<th>哲学贡献</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>人性科学</td>
+<td>理解、激情、道德和社会必须依经验观察研究</td>
+<td>把哲学转向认知和行动机制</td>
+</tr>
+<tr>
+<td>印象—观念区分</td>
+<td>印象通常较生动，观念较微弱</td>
+<td>建立知觉分类和观念来源分析</td>
+</tr>
+<tr>
+<td>复制原则</td>
+<td>简单观念通常源自相应简单印象</td>
+<td>提供概念清理与意义检验</td>
+</tr>
+<tr>
+<td>联想原则</td>
+<td>相似、邻接和因果连接思想</td>
+<td>解释非演绎的心理秩序</td>
+</tr>
+<tr>
+<td>休谟之叉</td>
+<td>观念关系与事实具有不同证据结构</td>
+<td>区分必然证明与经验推断</td>
+</tr>
+<tr>
+<td>归纳问题</td>
+<td>过去—未来相似性不能被非循环地证明</td>
+<td>揭示经验推理的基础难题</td>
+</tr>
+<tr>
+<td>习惯理论</td>
+<td>因果期待由重复经验形成</td>
+<td>自然化信念和预测</td>
+</tr>
+<tr>
+<td>必然联系理论</td>
+<td>必然观念来自心灵的习惯性过渡感受</td>
+<td>重构因果概念</td>
+</tr>
+<tr>
+<td>知觉束理论</td>
+<td>内省不显示简单不变自我</td>
+<td>推动还原式人格理论</td>
+</tr>
+<tr>
+<td>缓和怀疑主义</td>
+<td>哲学怀疑应受常识、反思和能力限度校正</td>
+<td>结合批判与可持续探究</td>
+</tr>
+<tr>
+<td>相容论</td>
+<td>自由是按意愿行动，必然是动机与行为的规律</td>
+<td>建立古典自由相容论</td>
+</tr>
+<tr>
+<td>动机情感论</td>
+<td>理性独自不能产生最终动机</td>
+<td>区分事实推理与行动目的</td>
+</tr>
+<tr>
+<td>道德情感论</td>
+<td>道德赞许最终依感受而发生</td>
+<td>奠定现代情感主义和道德心理学</td>
+</tr>
+<tr>
+<td>是—应当问题</td>
+<td>事实到规范的转换需要明确桥梁</td>
+<td>形成元伦理学核心问题</td>
+</tr>
+<tr>
+<td>效用与惯例论</td>
+<td>效用、同情和社会惯例解释正义与德性</td>
+<td>连接情感、制度和社会合作</td>
+</tr>
+<tr>
+<td>证言概率论</td>
+<td>奇迹和宗教主张必须接受比较证据</td>
+<td>重塑宗教认识论</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-四十八休谟的后世影响">四十八、休谟的后世影响</h3>
+<h4 id="user-content-1-康德与先验哲学">1. 康德与先验哲学</h4>
+<p>休谟关于因果和归纳的挑战促使康德追问：如果因果必然性不来自感觉，也不能从纯概念分析出来，它是否是经验对象得以被认识的先验条件？康德所谓从“独断睡梦”中被打断，指向的正是休谟对因果概念的挑战，但康德的回应不是简单综合两派，而是重构经验可能性的条件。</p>
+<h4 id="user-content-2-归纳科学方法与认识论">2. 归纳、科学方法与认识论</h4>
+<p>休谟问题影响：</p>
+<ul>
+<li>Reichenbach 的实用辩护；</li>
+<li>波普尔以证伪取代归纳证明的方案；</li>
+<li>Goodman 的“新归纳之谜”；</li>
+<li>贝叶斯认识论；</li>
+<li>Quine 式自然化认识论；</li>
+<li>当代机器学习中训练数据与分布稳定性的哲学讨论。</li>
+</ul>
+<p>这些方案都不是休谟本人理论的直接复制，而是在回答他留下的规范问题。</p>
+<h4 id="user-content-3-因果形而上学">3. 因果形而上学</h4>
+<p>规律论、反事实因果论、投射主义、因果模型和“新休谟主义”都以休谟为坐标。David Lewis 等人的“Humeanism”把世界理解为局部事实的整体并拒绝额外必要纽带，是创造性继承，不等于休谟本人已经提出同一体系。</p>
+<h4 id="user-content-4-心灵心理学与人格">4. 心灵、心理学与人格</h4>
+<p>联想原则影响 Hartley、J. S. Mill、Bain 等联想主义心理学。知觉束理论影响 William James、佛教哲学比较研究以及 Parfit 的人格同一性还原论。跨传统比较可以启发研究，却不能忽略休谟的欧洲经验论语境和佛教无我论的不同伦理—解脱结构。</p>
+<h4 id="user-content-5-自由意志">5. 自由意志</h4>
+<p>“休谟式相容论”成为现代自由意志讨论的标准出发点：有原因不等于受强迫，责任需要行动表达主体的欲望和性格。后来分层欲望、理由回应性和机制所有权理论，都在扩展或修正这一框架。</p>
+<h4 id="user-content-6-伦理学与元伦理学">6. 伦理学与元伦理学</h4>
+<p>休谟影响 Adam Smith 的道德情感论、Bentham 与 Mill 的功利主义、Ayer 和 Stevenson 的情感主义，以及当代动机内在主义、表达主义和道德心理学。“休谟法则”是后来的系统化，通常比原文更强。</p>
+<h4 id="user-content-7-宗教哲学">7. 宗教哲学</h4>
+<p>奇迹论证改变证言认识论；《自然宗教对话录》持续影响设计论证、恶的问题和神圣属性推论。其作用不是结束宗教哲学，而是迫使支持者说明证据标准、先验概率与最佳解释。</p>
+<hr>
+<h3 id="user-content-四十九休谟的常见误读">四十九、休谟的常见误读</h3>
+<table>
+<thead>
+<tr>
+<th>常见误读</th>
+<th>修正</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>印象只是外部感觉</td>
+<td>它还包括激情、情绪和内在感受</td>
+</tr>
+<tr>
+<td>复制原则表示想象不能创造新组合</td>
+<td>想象能组合材料；原则主要约束简单观念来源</td>
+</tr>
+<tr>
+<td>缺失蓝色只是无关脚注</td>
+<td>它是真实例外，但休谟认为不足以放弃一般原则</td>
+</tr>
+<tr>
+<td>休谟之叉已经等于逻辑实证主义意义标准</td>
+<td>它首先区分推理对象和证据结构</td>
+</tr>
+<tr>
+<td>休谟否认因果关系存在</td>
+<td>他重构我们对必要联系的观念来源；因果实在论仍有解释争议</td>
+</tr>
+<tr>
+<td>归纳不能证明，所以预测完全不合理</td>
+<td>休谟以习惯解释不可避免的经验推断，并区分更好与更坏证据</td>
+</tr>
+<tr>
+<td>知觉束理论表示人根本不存在</td>
+<td>它否认可内省的简单实体自我，不取消实践人格</td>
+</tr>
+<tr>
+<td>休谟满意地解决了自我问题</td>
+<td>他在附录中明确承认理论困难</td>
+</tr>
+<tr>
+<td>休谟是不可持续的彻底怀疑论者</td>
+<td>他主张缓和、可生活且有用的怀疑主义</td>
+</tr>
+<tr>
+<td>“理性是激情的奴隶”表示理性无用</td>
+<td>理性发现事实、因果和手段，但不能独自产生终极动机</td>
+</tr>
+<tr>
+<td>道德情感论等于任意主观主义</td>
+<td>同情、一般观点、效用和社会校正使评价超越私人好恶</td>
+</tr>
+<tr>
+<td>休谟就是严格功利主义者</td>
+<td>效用是重要来源之一，他还承认可亲性等价值</td>
+</tr>
+<tr>
+<td>是—应当段落已经证明任何规范推论不可能</td>
+<td>原文首先要求指出并解释推导桥梁</td>
+</tr>
+<tr>
+<td>休谟先验地宣布奇迹逻辑不可能</td>
+<td>他提出比较证据标准</td>
+</tr>
+<tr>
+<td>可以把《自然宗教对话录》任一角色等同于休谟</td>
+<td>对话结构有意保持多声部与解释距离</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="user-content-第四编三种经验主义体系的正面对照">第四编　三种经验主义体系的正面对照</h2>
+<h3 id="user-content-五十从洛克到休谟是一条必然下坡路吗">五十、从洛克到休谟是一条必然下坡路吗？</h3>
+<p>一种常见叙事是：</p>
+<pre><code class="language-text">洛克承认物质与精神，却说只能直接认识观念
+        ↓
+贝克莱删除物质，只保留观念和精神
+        ↓
+休谟连精神也删除，只剩知觉
+        ↓
+经验主义最终陷入怀疑主义
+</code></pre>
+<p>这个图抓住了真实的批判推进，却过于线性。</p>
+<p>更准确地说：</p>
+<ul>
+<li>洛克的计划是划定知识边界，以便在有限知识、概率判断、政治自由和宗教信仰之间建立秩序；</li>
+<li>贝克莱认为删除物质基质恰恰能够击败怀疑主义，并用上帝和精神加强现实世界；</li>
+<li>休谟并非只做删除，而是用习惯、情感、联想和社会惯例解释主体怎样形成稳定信念；</li>
+<li>三人的目标不同：认识论节制、神学非物质主义和自然主义人性科学不能被看作同一个体系的三个版本。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>问题</th>
+<th>洛克</th>
+<th>贝克莱</th>
+<th>休谟</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>主要危险</td>
+<td>独断形而上学和语言混乱</td>
+<td>表象实在论导致怀疑与无神论</td>
+<td>虚构必然性、实体和超经验推论</td>
+</tr>
+<tr>
+<td>主要策略</td>
+<td>调查理解能力和证据等级</td>
+<td>删除物质基质，保留观念与精神</td>
+<td>追踪观念来源并解释自然信念机制</td>
+</tr>
+<tr>
+<td>哲学目标</td>
+<td>有限但可靠的知识与自由制度</td>
+<td>常识世界、精神和宗教的统一</td>
+<td>缓和怀疑主义与经验性人性科学</td>
+</tr>
+<tr>
+<td>最终保证</td>
+<td>感觉因果、理性与神</td>
+<td>上帝的感知和有序意志</td>
+<td>没有演绎终极保证，依自然、习惯和校正实践</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-五十一观念从哪里来心灵做了什么">五十一、观念从哪里来，心灵做了什么？</h3>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>洛克</th>
+<th>贝克莱</th>
+<th>休谟</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>基本内容</td>
+<td>观念</td>
+<td>观念与精神概念</td>
+<td>印象与观念</td>
+</tr>
+<tr>
+<td>来源</td>
+<td>感觉和反省</td>
+<td>感官、反省及精神的概念性认识</td>
+<td>外部和内部印象</td>
+</tr>
+<tr>
+<td>心灵作用</td>
+<td>比较、组合、抽象</td>
+<td>意愿、感知、符号代表</td>
+<td>联想、想象、习惯和信念</td>
+</tr>
+<tr>
+<td>一般性</td>
+<td>从个别经验抽象一般观念</td>
+<td>个别观念或词语代表同类个别者</td>
+<td>个别观念因习惯唤起相似集合</td>
+</tr>
+<tr>
+<td>主要限制</td>
+<td>不能创造无经验来源的简单观念</td>
+<td>不能形成无规定的抽象一般图像</td>
+<td>简单观念通常应有相应印象</td>
+</tr>
+</tbody>
+</table>
+<p>三人都拒绝“心灵可以不受限制地凭空生产全部内容”，但他们并不把心灵视为照相机：</p>
+<ul>
+<li>洛克强调复杂观念的主动形成；</li>
+<li>贝克莱把一般性解释为代表功能，并把精神规定为主动者；</li>
+<li>休谟让联想、想象和习惯参与信念形成。</li>
+</ul>
+<p>所以经验论不是“外界数据进入被动容器”，而是关于材料约束与认知活动怎样结合的理论。</p>
+<hr>
+<h3 id="user-content-五十二语言研究是否已取代形而上学">五十二、语言研究是否已取代形而上学？</h3>
+<p>三人对语言的重视构成明显推进：</p>
+<h4 id="user-content-洛克清理词语的误用">洛克：清理词语的误用</h4>
+<ul>
+<li>词语直接作为说话者观念的符号；</li>
+<li>交流失败来自同词异义和观念不清；</li>
+<li>名义本质决定分类词的使用；</li>
+<li>哲学争论可能只是没有共同定义的词语冲突。</li>
+</ul>
+<h4 id="user-content-贝克莱一般性是符号功能">贝克莱：一般性是符号功能</h4>
+<ul>
+<li>不需要无规定的抽象图像；</li>
+<li>个别观念或词语可以代表整个类别；</li>
+<li>视觉线索像语言符号一样指示触觉和行动结果；</li>
+<li>一个符号可以影响行动，而不必在心中唤起完整图像。</li>
+</ul>
+<h4 id="user-content-休谟意义追溯与心理联结">休谟：意义追溯与心理联结</h4>
+<ul>
+<li>模糊观念应追问其印象来源；</li>
+<li>思想由相似、邻接和因果习惯连接；</li>
+<li>哲学语言容易把心理倾向误写成对象中的实体或必然力；</li>
+<li>词语意义与使用、经验来源及信念习惯相联系。</li>
+</ul>
+<p>但这仍不是二十世纪意义上的“语言转向”。三人继续讨论：</p>
+<ul>
+<li>外部世界是否存在；</li>
+<li>精神和上帝是什么；</li>
+<li>因果是否具有客观必然性；</li>
+<li>人格和自由怎样成立；</li>
+<li>政治权利和道德价值如何奠基。</li>
+</ul>
+<p>语言分析并未替代形而上学，而是成为检验形而上学概念是否清楚的一种方法。结构主义后来把重点进一步移向不依赖个人心理表象的差异系统；经验主义三人主要仍从个体心灵、观念和习惯出发，二者之间没有简单直线继承。</p>
+<hr>
+<h3 id="user-content-五十三实体与物质保留删除还是悬置">五十三、实体与物质：保留、删除还是悬置？</h3>
+<table>
+<thead>
+<tr>
+<th>哲学家</th>
+<th>物质</th>
+<th>精神</th>
+<th>实体的认识状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>洛克</td>
+<td>承认外部物体及其未知基质</td>
+<td>承认思维基质</td>
+<td>两者都被假定为性质承载者，但自身不清楚</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>否认不被任何精神感知的物质基质</td>
+<td>保留有限精神与无限上帝</td>
+<td>精神不作为观念出现，而以能动活动被概念性认识</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>不从知觉推出可认识的物质实体本性</td>
+<td>内省不发现简单不变的精神实体</td>
+<td>追问实体观念有何印象来源，并说明人为何自然相信持续对象和自我</td>
+</tr>
+</tbody>
+</table>
+<p>与三位理性主义者对照：</p>
+<table>
+<thead>
+<tr>
+<th>理性主义体系</th>
+<th>实体结构</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>笛卡尔</td>
+<td>思维实体与广延实体</td>
+</tr>
+<tr>
+<td>斯宾诺莎</td>
+<td>唯一实体及思想、广延等无限属性</td>
+</tr>
+<tr>
+<td>莱布尼茨</td>
+<td>无数具有知觉与欲求的单子</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>未知物质与精神基质的谨慎实在论</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>主动精神与被动观念，没有物质实体</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>从可经验知觉出发，不把实体设定视为清楚知识</td>
+</tr>
+</tbody>
+</table>
+<p>经验主义并没有简单“放弃形而上学”。贝克莱提出的是高度形而上学的精神—观念本体论；休谟也在讨论世界、原因和自我，只是把问题转向：我们的概念和信念凭什么成立？</p>
+<hr>
+<h3 id="user-content-五十四第一性质第二性质与感知者">五十四、第一性质、第二性质与感知者</h3>
+<h4 id="user-content-洛克">洛克</h4>
+<ul>
+<li>第一性质是物体不可分离的结构性质；</li>
+<li>第二性质是依结构在感知者中产生感觉的能力；</li>
+<li>第一性质观念被认为像物体中的性质。</li>
+</ul>
+<h4 id="user-content-贝克莱">贝克莱</h4>
+<ul>
+<li>被感知的形状、大小和运动同样随视角与条件变化；</li>
+<li>第一性质不能脱离颜色等感觉规定被正面设想；</li>
+<li>一个观念只能类似于观念；</li>
+<li>所有可感性质都以被感知方式存在。</li>
+</ul>
+<h4 id="user-content-休谟">休谟</h4>
+<ul>
+<li>哲学分析直接从印象和观念开始；</li>
+<li>感觉本身不显示背后实体具有怎样的内在性质；</li>
+<li>外部持续对象的信念由恒常性、连贯性和想象倾向形成；</li>
+<li>这不等于日常生活中能够持续怀疑眼前世界。</li>
+</ul>
+<p>变化可以表示为：</p>
+<pre><code class="language-text">洛克：感觉观念由外部微观结构产生
+                 ↓
+贝克莱：可感性质本身就是对象，物质原型多余
+                 ↓
+休谟：进一步解释“外部持续对象”信念如何由知觉与想象形成
+</code></pre>
+<hr>
+<h3 id="user-content-五十五因果能力精神与习惯">五十五、因果：能力、精神与习惯</h3>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>洛克</th>
+<th>贝克莱</th>
+<th>休谟</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>被感知对象能否主动</td>
+<td>物体具有能力，具体内在联系多未知</td>
+<td>观念完全被动</td>
+<td>单个事件不显示必要能力</td>
+</tr>
+<tr>
+<td>真正因果基础</td>
+<td>物体微观结构、精神行动与神</td>
+<td>精神或意志；自然规律来自上帝</td>
+<td>恒常结合与心灵习惯产生因果信念</td>
+</tr>
+<tr>
+<td>科学任务</td>
+<td>实验发现性质共存和能力</td>
+<td>发现现象规律与符号序列</td>
+<td>发现规律、形成概率和校正推断</td>
+</tr>
+<tr>
+<td>必然联系</td>
+<td>实在但常不可认识</td>
+<td>观念间没有；神意保障秩序</td>
+<td>必然观念来自习惯性心理过渡</td>
+</tr>
+</tbody>
+</table>
+<p>三人都削弱了从概念中直接读出自然因果的可能：</p>
+<ul>
+<li>洛克承认自然物的真实内部构造，但认为人通常不知道性质为何必然共存；</li>
+<li>贝克莱否认被动观念间存在主动能力；</li>
+<li>休谟进一步要求说明必要联系观念的印象来源。</li>
+</ul>
+<p>这条发展线直接触发康德：如果经验只显示相继而不显示必然性，因果范畴是否是经验对象能够被统一认识的先验条件？</p>
+<hr>
+<h3 id="user-content-五十六自我与人格意识精神和知觉束">五十六、自我与人格：意识、精神和知觉束</h3>
+<table>
+<thead>
+<tr>
+<th>问题</th>
+<th>洛克</th>
+<th>贝克莱</th>
+<th>休谟</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>自我是什么</td>
+<td>能以意识把握自身的理性人格</td>
+<td>主动、不可分的感知精神</td>
+<td>内省中出现的知觉集合</td>
+</tr>
+<tr>
+<td>跨时间同一</td>
+<td>意识向过去行动延伸</td>
+<td>同一精神持续感知与意愿</td>
+<td>记忆、相似和因果使想象赋予同一</td>
+</tr>
+<tr>
+<td>实体是否必要</td>
+<td>人格同一不直接依同一实体</td>
+<td>精神实体是体系基础</td>
+<td>不发现可经验的简单实体</td>
+</tr>
+<tr>
+<td>实践责任</td>
+<td>人格是法庭性概念</td>
+<td>精神是真正行动者</td>
+<td>日常身份与责任仍由自然和社会实践维持</td>
+</tr>
+</tbody>
+</table>
+<p>三种理论并非简单互相排斥：</p>
+<ul>
+<li>洛克问的是“过去行动何时属于当前可归责人格”；</li>
+<li>贝克莱问的是“若观念被动，谁在感知和行动”；</li>
+<li>休谟问的是“内省实际提供了怎样的自我内容”。</li>
+</ul>
+<p>当代人格同一性理论仍在这三种方向之间移动：生物连续性、心理连续性、实体主体和还原式关系理论。</p>
+<hr>
+<h3 id="user-content-五十七知识与怀疑三种限度管理">五十七、知识与怀疑：三种限度管理</h3>
+<h4 id="user-content-洛克分级">洛克：分级</h4>
+<ul>
+<li>直觉和证明提供严格知识；</li>
+<li>感觉知识确认当下外物，但确定性较弱；</li>
+<li>大量生活和科学依概率进行；</li>
+<li>合理性要求同意程度与证据相称。</li>
+</ul>
+<h4 id="user-content-贝克莱取消表象鸿沟">贝克莱：取消表象鸿沟</h4>
+<ul>
+<li>可感事物不是隐藏物质的副本；</li>
+<li>观念本身就是被直接接触的现实对象；</li>
+<li>上帝和自然规律保证稳定与公共性；</li>
+<li>怀疑论被转化为对物质基质的批判。</li>
+</ul>
+<h4 id="user-content-休谟自然化与缓和">休谟：自然化与缓和</h4>
+<ul>
+<li>因果、归纳和外物信念没有演绎终极证明；</li>
+<li>习惯和自然倾向使信念不可避免；</li>
+<li>哲学可以校正证据，却不能完全退出人性；</li>
+<li>可持续的立场是缓和怀疑主义。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>哲学家</th>
+<th>对确定性的态度</th>
+<th>对日常信念的态度</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>洛克</td>
+<td>知识有限且分等级</td>
+<td>概率可以合理指导行动</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>对直接感觉对象具有把握</td>
+<td>日常物体真实，物质基质才是哲学虚构</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>演绎确定性范围极窄</td>
+<td>因果、外物和自我信念自然且可被经验校正</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-五十八自由欲望与行动">五十八、自由、欲望与行动</h3>
+<h4 id="user-content-洛克-1">洛克</h4>
+<p>自由是行动者按心灵决定实行或不实行行动的能力。更成熟的自由依赖暂停当前欲望、审查善恶并形成长期自我治理。</p>
+<h4 id="user-content-贝克莱-1">贝克莱</h4>
+<p>真正能动性属于精神和意志，而不是被动观念。有限精神具有行动能力，但其自由与上帝的预知、道德秩序和神圣因果怎样协调，仍需神学背景。</p>
+<h4 id="user-content-休谟-1">休谟</h4>
+<p>行动与性格、动机具有规律关系，不排除按意愿行动的自由。没有外在强制、行动表达主体意愿，便构成相容论意义自由。</p>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>洛克</th>
+<th>贝克莱</th>
+<th>休谟</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>自由主体</td>
+<td>能思考、选择和行动的人格</td>
+<td>主动精神</td>
+<td>具有性格、欲望和意志的人</td>
+</tr>
+<tr>
+<td>主要障碍</td>
+<td>缺乏按偏好行动的能力、被欲望立即支配</td>
+<td>被动观念本身无行动能力</td>
+<td>外在强制或行动不能随意志</td>
+</tr>
+<tr>
+<td>自由改进</td>
+<td>暂停欲望、审议、教育</td>
+<td>正确意志与宗教道德</td>
+<td>形成更好动机、知识和社会条件</td>
+</tr>
+<tr>
+<td>是否要求无原因选择</td>
+<td>否</td>
+<td>不以观念因果解释精神</td>
+<td>否，明确相容论</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-五十九上帝宗教与证据">五十九、上帝、宗教与证据</h3>
+<table>
+<thead>
+<tr>
+<th>哲学家</th>
+<th>上帝在体系中的作用</th>
+<th>对宗教权威的限制</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>洛克</td>
+<td>神是自然法、世界和理性秩序的重要基础；启示不能与清楚理性矛盾</td>
+<td>国家不能强迫内在信仰，教会不能支配公民权利</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>上帝产生非自愿感觉观念、维持自然规律和公共世界</td>
+<td>神学论证仍必须解释经验秩序，不能只以物质名称代替原因</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>不给予体系一个作为认知保证者的神</td>
+<td>奇迹、设计论和来世推论必须接受严格证据与类比限制</td>
+</tr>
+</tbody>
+</table>
+<p>三人的差异不仅是“相信程度”不同：</p>
+<ul>
+<li>洛克试图区分理性可论证内容、启示内容和国家权力范围；</li>
+<li>贝克莱把上帝置于自然经验的本体论结构中；</li>
+<li>休谟拒绝让神学假设产生超过可观察效果的额外结论。</li>
+</ul>
+<p>从笛卡尔到休谟，可以看到神的哲学功能发生变化：</p>
+<pre><code class="language-text">笛卡尔：保证清楚分明认识与外部世界可知性
+        ↓
+洛克：自然法、创造和有限知识的宗教背景
+        ↓
+贝克莱：感觉观念与自然秩序的直接原因
+        ↓
+休谟：任何神学原因都不得超过效果和证据
+</code></pre>
+<p>这不是形而上学简单消失，而是解释负担逐步增加：一个概念必须说明它怎样进入认识、完成什么工作，以及是否超过证据。</p>
+<hr>
+<h3 id="user-content-六十政治与道德权利服从惯例和效用">六十、政治与道德：权利、服从、惯例和效用</h3>
+<h4 id="user-content-洛克-2">洛克</h4>
+<p>政治合法性来自自然平等、个人同意和保护权利的信托。道德具有自然法与神学背景，权利在政府之前成立。</p>
+<h4 id="user-content-贝克莱-2">贝克莱</h4>
+<p>贝克莱不是经验主义政治哲学的中心人物。他早期《被动服从》以一般规则和神圣道德秩序为基础，主张很强的服从义务，与洛克的反抗权形成鲜明张力。其后作品更多讨论德性、宗教、贫困、经济和社会改良。不能仅凭认识论把他自动归入自由主义政治。</p>
+<h4 id="user-content-休谟-2">休谟</h4>
+<p>休谟批评把现实政府义务完全建立在一个无法被历史发现的原始契约上。他以效用、长期惯例、意见和利益协调解释政府与正义：</p>
+<ul>
+<li>财产权规则在稀缺和有限慷慨条件下有社会功能；</li>
+<li>正义不是每次都由自然情感直接决定，而是依一般制度规则；</li>
+<li>政府权威因维持秩序和公共利益获得支持；</li>
+<li>服从并非无条件，效用和现实政治情境仍重要。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>洛克</th>
+<th>贝克莱</th>
+<th>休谟</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>规范起点</td>
+<td>自然权利和自然法</td>
+<td>神圣道德法与一般规则</td>
+<td>人类情感、效用和社会惯例</td>
+</tr>
+<tr>
+<td>政府合法性</td>
+<td>同意和保护信托</td>
+<td>强调服从一般规则</td>
+<td>长期惯例、意见和公共效用</td>
+</tr>
+<tr>
+<td>反抗</td>
+<td>根本违背信托时成立</td>
+<td>早期立场强烈限制反抗</td>
+<td>依极端暴政与公共效用判断</td>
+</tr>
+<tr>
+<td>财产</td>
+<td>劳动取得并受条件限制</td>
+<td>承认普通社会制度</td>
+<td>正义惯例在稀缺条件下形成</td>
+</tr>
+<tr>
+<td>道德动力</td>
+<td>理性自然法、欲望与幸福</td>
+<td>意志、德性和宗教秩序</td>
+<td>情感、同情、一般观点和效用</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-六十一经验主义与理性主义真正争论什么">六十一、经验主义与理性主义真正争论什么？</h3>
+<p>把笛卡尔、斯宾诺莎、莱布尼茨与洛克、贝克莱、休谟对照，可得到下表：</p>
+<table>
+<thead>
+<tr>
+<th>问题</th>
+<th>理性主义倾向</th>
+<th>经验主义三人的重构</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>知识起点</td>
+<td>清楚观念、定义、先天原则或理性秩序</td>
+<td>先调查观念、印象及实际认知活动</td>
+</tr>
+<tr>
+<td>必然真理</td>
+<td>理性能够把握不依具体经验的结构</td>
+<td>洛克承认数学证明；休谟把它归入观念关系</td>
+</tr>
+<tr>
+<td>实体</td>
+<td>是解释世界统一与个体的核心概念</td>
+<td>洛克承认却称其未知；贝克莱删除物质；休谟审查来源</td>
+</tr>
+<tr>
+<td>因果</td>
+<td>寻找真实作用、内在产生或充足理由</td>
+<td>逐步转向能力的有限知识、规律和习惯</td>
+</tr>
+<tr>
+<td>神</td>
+<td>体系的存在论与认识论基础</td>
+<td>洛克和贝克莱仍保留；休谟限制推论</td>
+</tr>
+<tr>
+<td>心灵</td>
+<td>实体、属性或单子</td>
+<td>人格意识、主动精神或知觉束</td>
+</tr>
+<tr>
+<td>自由</td>
+<td>意志、主动必然性或理性自发性</td>
+<td>行动能力、精神能动性或相容论</td>
+</tr>
+<tr>
+<td>方法</td>
+<td>演绎、几何次序、充足解释</td>
+<td>心理观察、语言分析、实验类比和概率</td>
+</tr>
+</tbody>
+</table>
+<p>但两派并非绝对对立：</p>
+<ul>
+<li>理性主义者并不拒绝经验；</li>
+<li>经验主义者并不拒绝数学、推理和先于特定观察的认知能力；</li>
+<li>洛克承认直觉和证明；</li>
+<li>休谟承认观念关系的必然性；</li>
+<li>莱布尼茨也重视感觉与微小知觉；</li>
+<li>真正冲突在于经验材料能否独自说明必然性、普遍性和实体结构。</li>
+</ul>
+<p>康德的关键问题正由此产生：</p>
+<blockquote>
+<p>即使一切知识在时间上从经验开始，是否有某些使经验本身成为可能的形式并不来自经验？</p>
+</blockquote>
+<hr>
+<h3 id="user-content-六十二三人的理论总表">六十二、三人的理论总表</h3>
+<table>
+<thead>
+<tr>
+<th>哲学家</th>
+<th>理论</th>
+<th>一句话说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>洛克</td>
+<td>反天赋观念论</td>
+<td>心灵没有预先写好的具体观念和命题</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>感觉—反省二源论</td>
+<td>外部感觉与内部反省提供思想材料</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>简单—复杂观念论</td>
+<td>心灵被动接受材料并主动加工</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>第一—第二性质区分</td>
+<td>结构性质与产生感觉的能力不同</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>基质理论</td>
+<td>实体是被假定却未知的性质承载者</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>名义—实在本质区分</td>
+<td>分类观念不同于未知内部构造</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>知识等级论</td>
+<td>直觉、证明、感觉和概率有不同强度</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>人格意识论</td>
+<td>人格同一性随意识的自我归属延伸</td>
+</tr>
+<tr>
+<td>洛克</td>
+<td>同意与政治信托</td>
+<td>政府为保护权利而被有限授权</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>抽象观念批判</td>
+<td>一般性来自符号代表，而非无规定图像</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>非物质主义</td>
+<td>普通物体无需不可感知的物质基质</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>被感知存在论</td>
+<td>观念的存在就在于被感知</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>精神能动论</td>
+<td>精神是主动的感知和意愿者</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>神圣自然秩序</td>
+<td>上帝产生稳定、非自愿的感觉系列</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>自然规律符号论</td>
+<td>科学发现现象间规则而非观念内力量</td>
+</tr>
+<tr>
+<td>贝克莱</td>
+<td>视觉学习论</td>
+<td>距离与三维知觉依跨感官经验习得</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>印象—观念区分</td>
+<td>观念通常是较微弱的知觉</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>复制原则</td>
+<td>简单观念通常来自相应印象</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>联想原则</td>
+<td>相似、邻接和因果组织思想</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>休谟之叉</td>
+<td>观念关系与事实具有不同证据</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>归纳问题</td>
+<td>过去支持未来无法获得非循环证明</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>习惯理论</td>
+<td>重复经验自然地产生期待和信念</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>必然联系理论</td>
+<td>因果必要观念来自心灵习惯性过渡</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>知觉束理论</td>
+<td>内省不显示简单不变的实体自我</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>缓和怀疑主义</td>
+<td>批判应受常识、反思和能力范围校正</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>相容论</td>
+<td>有原因不等于受强迫，自由是按意愿行动</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>道德情感论</td>
+<td>道德赞许最终通过情感发生</td>
+</tr>
+<tr>
+<td>休谟</td>
+<td>是—应当问题</td>
+<td>事实到规范的转换必须被说明</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-六十三三人的常见误读总表">六十三、三人的常见误读总表</h3>
+<table>
+<thead>
+<tr>
+<th>误读</th>
+<th>更准确的理解</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>经验主义就是只相信感官</td>
+<td>洛克有反省，休谟有内部印象和情感</td>
+</tr>
+<tr>
+<td>白纸意味着没有先天能力</td>
+<td>洛克只否认预写观念和命题</td>
+</tr>
+<tr>
+<td>第二性质是虚幻</td>
+<td>它是物体产生感觉的真实能力</td>
+</tr>
+<tr>
+<td>洛克否认实体</td>
+<td>他承认假定，却称其本性未知</td>
+</tr>
+<tr>
+<td>洛克人格理论只是记忆相同</td>
+<td>中心是意识和行动归属</td>
+</tr>
+<tr>
+<td>洛克财产权没有限制</td>
+<td>有腐坏限制和“足够且同样好”条件</td>
+</tr>
+<tr>
+<td>贝克莱否认现实世界</td>
+<td>他否认物质基质并肯定所见所触</td>
+</tr>
+<tr>
+<td>贝克莱是唯我论</td>
+<td>他承认其他精神与上帝</td>
+</tr>
+<tr>
+<td>存在即被感知也适用于精神</td>
+<td>精神以感知和行动存在</td>
+</tr>
+<tr>
+<td>贝克莱取消梦与现实区别</td>
+<td>他用非自愿、稳定、连贯等判准区分</td>
+</tr>
+<tr>
+<td>休谟认为因果不存在</td>
+<td>他解释必要联系观念，因果实在性仍有争议</td>
+</tr>
+<tr>
+<td>归纳无证明等于科学无意义</td>
+<td>习惯和证据校正仍支撑科学实践</td>
+</tr>
+<tr>
+<td>休谟认为自我完全不存在</td>
+<td>他否认内省中的简单实体，保留实践人格</td>
+</tr>
+<tr>
+<td>休谟是彻底怀疑论者</td>
+<td>他主张缓和、可生活的怀疑主义</td>
+</tr>
+<tr>
+<td>理性是激情奴隶表示反理性</td>
+<td>理性仍发现事实和手段，只不独自产生目的</td>
+</tr>
+<tr>
+<td>道德情感论等于各有所好</td>
+<td>同情、一般观点和效用校正私人偏见</td>
+</tr>
+<tr>
+<td>奇迹论证说奇迹逻辑不可能</td>
+<td>它提出高度严格的比较证据标准</td>
+</tr>
+<tr>
+<td>三人已完成现代语言转向</td>
+<td>语言是方法和对象之一，形而上问题仍然中心</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="user-content-六十四他们怎样影响后来的哲学">六十四、他们怎样影响后来的哲学？</h3>
+<h4 id="user-content-1-康德与德国哲学">1. 康德与德国哲学</h4>
+<ul>
+<li>洛克提出经验材料和知识限度；</li>
+<li>贝克莱使对象依赖感知的问题无法回避；</li>
+<li>休谟打破因果必然性的经验来源；</li>
+<li>康德以先验形式、范畴和统觉回应三者。</li>
+</ul>
+<p>德国观念论随后追问：如果主体形式参与构成经验对象，主体是否还能被理解为休谟式知觉束，还是必须发展为自我设定和历史精神？</p>
+<h4 id="user-content-2-苏格兰常识哲学">2. 苏格兰常识哲学</h4>
+<p>里德认为“观念是直接对象”的传统导致贝克莱和休谟后果，因而提出感知直接指向外物以及某些基本信念是人类理性结构的一部分。常识哲学不是拒绝论证，而是拒绝把所有知识都建立在心内表象推论上。</p>
+<h4 id="user-content-3-功利主义与自由主义">3. 功利主义与自由主义</h4>
+<ul>
+<li>洛克影响自然权利、宪政、宗教自由和有限政府；</li>
+<li>休谟以效用、惯例和情感影响 Smith、Bentham 和 Mill；</li>
+<li>后来自由主义同时继承权利语言与社会效用分析，并在二者之间持续冲突。</li>
+</ul>
+<h4 id="user-content-4-分析哲学与逻辑实证主义">4. 分析哲学与逻辑实证主义</h4>
+<p>洛克的语言清理、贝克莱的符号功能和休谟的观念来源检验被分析传统重新解释。逻辑实证主义尤其把“休谟之叉”发展为分析—经验区分和可证实性原则，但其强版本不是休谟原文的简单重复。</p>
+<h4 id="user-content-5-现象主义实在论与知觉哲学">5. 现象主义、实在论与知觉哲学</h4>
+<p>贝克莱促使哲学家说明对象是否可由感觉和反事实感觉构造；里德、摩尔和当代直接实在论则反对感觉中介模型。视觉学习和莫利纽克问题继续出现在认知科学与神经心理学中。</p>
+<h4 id="user-content-6-自然化认识论与认知科学">6. 自然化认识论与认知科学</h4>
+<p>休谟以心理习惯解释信念，被视为自然化认识论前史；联想学习、预测、归纳偏置和模型更新都可以同休谟比较。此类比较应保持限度：现代概率模型和神经机制不是休谟文本中已有的理论。</p>
+<h4 id="user-content-7-人格同一性">7. 人格同一性</h4>
+<p>洛克的意识连续、贝克莱的主动主体和休谟的知觉束，构成当代讨论的三极：</p>
+<ul>
+<li>心理连续性；</li>
+<li>实体或行动主体；</li>
+<li>还原为身体、记忆、意图和因果关系的集合。</li>
+</ul>
+<h4 id="user-content-8-结构主义以前的语言与关系问题">8. 结构主义以前的语言与关系问题</h4>
+<p>三人已经把观念分类、符号代表、视觉语言和联想结构置于哲学中心。但结构主义的关键转变在于：</p>
+<ul>
+<li>不再以个人心灵中的观念作为首要单位；</li>
+<li>强调符号在差异系统中的位置；</li>
+<li>研究语言、神话和社会规则的非个人结构。</li>
+</ul>
+<p>因此，可以把经验主义视为语言和心理结构研究的前史，却不能说索绪尔、列维-斯特劳斯或结构主义只是休谟联想论的直接延续。</p>
+<hr>
+<h3 id="user-content-六十五推荐学习顺序">六十五、推荐学习顺序</h3>
+<h4 id="user-content-第一轮掌握三种骨架">第一轮：掌握三种骨架</h4>
+<ol>
+<li>洛克《人类理解论》II.i、II.viii、II.xxvii；</li>
+<li>贝克莱《人类知识原理》导论及 §§1—35；</li>
+<li>休谟《人类理解研究》II、IV、V、VII、XII。</li>
+</ol>
+<p>目标：回答观念从哪里来、物体是什么、因果信念怎样形成。</p>
+<h4 id="user-content-第二轮集中比较外部世界">第二轮：集中比较外部世界</h4>
+<ol>
+<li>洛克第一—第二性质和实体章节；</li>
+<li>贝克莱物质批判与三篇对话第一篇；</li>
+<li>休谟《人性论》I.iv 关于怀疑主义和外部世界。</li>
+</ol>
+<p>目标：区分谨慎实在论、非物质主义和自然主义怀疑。</p>
+<h4 id="user-content-第三轮集中比较主体">第三轮：集中比较主体</h4>
+<ol>
+<li>洛克人格同一性；</li>
+<li>贝克莱精神与概念性认识；</li>
+<li>休谟自我知觉束及《附录》。</li>
+</ol>
+<p>目标：判断人格、精神实体和心理连续性是否是同一个问题。</p>
+<h4 id="user-content-第四轮政治与道德">第四轮：政治与道德</h4>
+<ol>
+<li>洛克《政府论下篇》§§4—6、27、95、123、149、222；</li>
+<li>洛克《论宽容书简》；</li>
+<li>休谟《道德原则研究》III、V、IX；</li>
+<li>休谟《论原始契约》。</li>
+</ol>
+<p>目标：比较自然权利、同意、效用和惯例。</p>
+<h4 id="user-content-第五轮通向康德">第五轮：通向康德</h4>
+<p>带着三个问题进入《纯粹理性批判》：</p>
+<ol>
+<li>经验为什么能够具有普遍必然结构？</li>
+<li>因果性如果不能从重复感觉中获得，它来自哪里？</li>
+<li>统一经验的“我思”能否只是知觉束？</li>
+</ol>
+<hr>
+<h2 id="user-content-结论">结论</h2>
+<p>洛克、贝克莱与休谟并没有让哲学从形而上学转向“更抽象”的研究，而是改变了形而上学必须接受的审查方式。</p>
+<p>洛克要求哲学先调查人的理解能力，并承认大量自然知识只能达到概率。贝克莱把这一经验标准反过来攻击物质基质，以精神和观念重建世界。休谟再把来源审查应用到因果、自我和神学推论，以习惯、联想和情感说明人在没有终极演绎保证时如何仍然形成世界、人格与道德秩序。</p>
+<p>三人的共同转向可以概括为：</p>
+<pre><code class="language-text">不再只问：世界最终由什么实体构成？
+还要追问：
+我们凭什么形成“实体”这个概念？
+它来自什么经验？
+语言怎样使用它？
+这种信念由什么心理和社会机制维持？
+它完成了什么解释工作？
+</code></pre>
+<p>这正是近代哲学通往康德、语言哲学、现象学和社会科学的关键桥梁。但形而上学并未消失：物质、精神、上帝、因果和自我仍在场，只是它们不再能够逃避认识来源、语言意义和证据限度的检验。</p>
+<h2 id="user-content-术语表">术语表</h2>
+<table>
+<thead>
+<tr>
+<th>英文或拉丁文</th>
+<th>中文</th>
+<th>本章中的含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>empiricism</td>
+<td>经验主义</td>
+<td>要求知识内容和概念接受经验来源与证据审查的后设分类</td>
+</tr>
+<tr>
+<td>idea</td>
+<td>观念</td>
+<td>洛克的思维直接对象、贝克莱的被动感知对象、休谟的较微弱知觉</td>
+</tr>
+<tr>
+<td>sensation</td>
+<td>感觉</td>
+<td>洛克所说外在对象提供观念的经验来源</td>
+</tr>
+<tr>
+<td>reflection</td>
+<td>反省</td>
+<td>洛克所说心灵对自身活动的内部经验</td>
+</tr>
+<tr>
+<td>simple idea</td>
+<td>简单观念</td>
+<td>不能再分析、由经验给予的基本内容</td>
+</tr>
+<tr>
+<td>complex idea</td>
+<td>复杂观念</td>
+<td>由比较、组合和抽象等活动形成的内容</td>
+</tr>
+<tr>
+<td>abstraction</td>
+<td>抽象</td>
+<td>洛克的一般观念形成机制；贝克莱只承认有限的分别考虑和符号代表</td>
+</tr>
+<tr>
+<td>primary quality</td>
+<td>第一性质</td>
+<td>洛克认为与物体不可分的坚实、广延、形状、运动、数量</td>
+</tr>
+<tr>
+<td>secondary quality</td>
+<td>第二性质</td>
+<td>物体依结构在感知者中产生颜色、声音、味道等感觉的能力</td>
+</tr>
+<tr>
+<td>substance</td>
+<td>实体</td>
+<td>性质或活动被设想为依附的存在基础</td>
+</tr>
+<tr>
+<td>substratum</td>
+<td>基质、底层承载者</td>
+<td>洛克所称被假定却未知的性质支撑者</td>
+</tr>
+<tr>
+<td>nominal essence</td>
+<td>名义本质</td>
+<td>分类名称所连接的抽象特征集合</td>
+</tr>
+<tr>
+<td>real essence</td>
+<td>实在本质</td>
+<td>产生一类事物性质的真实内部构造</td>
+</tr>
+<tr>
+<td>intuitive knowledge</td>
+<td>直觉知识</td>
+<td>对观念关系不经中介的直接把握</td>
+</tr>
+<tr>
+<td>demonstrative knowledge</td>
+<td>证明知识</td>
+<td>通过中介观念建立的确定关系</td>
+</tr>
+<tr>
+<td>sensitive knowledge</td>
+<td>感觉知识</td>
+<td>关于当下外部有限对象存在的较弱知识</td>
+</tr>
+<tr>
+<td>probability</td>
+<td>概率</td>
+<td>严格知识之外由经验、类比和证言支持的判断程度</td>
+</tr>
+<tr>
+<td>consciousness</td>
+<td>意识</td>
+<td>洛克所说使当前主体把行动和思想归属于自身的关系</td>
+</tr>
+<tr>
+<td>person</td>
+<td>人格</td>
+<td>能够自我反思、跨时间归责的理性存在者</td>
+</tr>
+<tr>
+<td>state of nature</td>
+<td>自然状态</td>
+<td>没有共同政治裁判者、但仍受自然法约束的状态</td>
+</tr>
+<tr>
+<td>consent</td>
+<td>同意</td>
+<td>洛克政治共同体和合法权力的授权基础</td>
+</tr>
+<tr>
+<td>property</td>
+<td>财产、权利领域</td>
+<td>狭义为地产财物，广义包括生命、自由和财产</td>
+</tr>
+<tr>
+<td>political trust</td>
+<td>政治信托</td>
+<td>人民为保护权利这一目的授予政府的有限权力</td>
+</tr>
+<tr>
+<td>toleration</td>
+<td>宽容</td>
+<td>国家不以强力塑造个人内在宗教信仰</td>
+</tr>
+<tr>
+<td>immaterialism</td>
+<td>非物质主义</td>
+<td>贝克莱否认独立于一切精神的物质基质</td>
+</tr>
+<tr>
+<td>percipi</td>
+<td>被感知</td>
+<td>贝克莱所说观念和可感对象的存在方式</td>
+</tr>
+<tr>
+<td>spirit / mind</td>
+<td>精神／心灵</td>
+<td>贝克莱所说感知、意愿和行动的主动存在者</td>
+</tr>
+<tr>
+<td>notion</td>
+<td>概念性认识、意会</td>
+<td>贝克莱对精神和关系的非表象式理解</td>
+</tr>
+<tr>
+<td>archetype</td>
+<td>原型</td>
+<td>表象实在论假定的心外物质原本</td>
+</tr>
+<tr>
+<td>laws of nature</td>
+<td>自然规律</td>
+<td>贝克莱所说上帝呈现感觉观念的稳定方法</td>
+</tr>
+<tr>
+<td>visual language</td>
+<td>视觉语言</td>
+<td>视觉线索凭习惯联结指示触觉和行动结果的符号系统</td>
+</tr>
+<tr>
+<td>perception</td>
+<td>知觉</td>
+<td>休谟用来统称印象和观念的最高类别</td>
+</tr>
+<tr>
+<td>impression</td>
+<td>印象</td>
+<td>休谟所说通常较有力量和生动性的感觉、激情和情感</td>
+</tr>
+<tr>
+<td>copy principle</td>
+<td>复制原则</td>
+<td>简单观念通常来自相应简单印象</td>
+</tr>
+<tr>
+<td>association</td>
+<td>联想</td>
+<td>相似、邻接和因果使思想发生规律过渡</td>
+</tr>
+<tr>
+<td>relations of ideas</td>
+<td>观念关系</td>
+<td>反面包含矛盾、可由思想发现的必然关系</td>
+</tr>
+<tr>
+<td>matters of fact</td>
+<td>事实</td>
+<td>反面可设想、需要经验和因果证据的命题</td>
+</tr>
+<tr>
+<td>custom / habit</td>
+<td>习惯</td>
+<td>重复经验形成期待和因果信念的心理原则</td>
+</tr>
+<tr>
+<td>belief</td>
+<td>信念</td>
+<td>观念因因果习惯等获得较大活力和坚定性的状态</td>
+</tr>
+<tr>
+<td>constant conjunction</td>
+<td>恒常结合</td>
+<td>同类事件在经验中规律相随</td>
+</tr>
+<tr>
+<td>necessary connexion</td>
+<td>必然联系</td>
+<td>休谟从心灵习惯性过渡感受中说明的因果观念</td>
+</tr>
+<tr>
+<td>bundle theory</td>
+<td>知觉束理论</td>
+<td>自我被分析为快速变化而相互关联的知觉集合</td>
+</tr>
+<tr>
+<td>mitigated scepticism</td>
+<td>缓和怀疑主义</td>
+<td>由常识、反思和能力限度校正的可持续怀疑</td>
+</tr>
+<tr>
+<td>liberty</td>
+<td>自由</td>
+<td>洛克和休谟所说依心灵决定或意志行动的能力</td>
+</tr>
+<tr>
+<td>passion</td>
+<td>激情、欲求</td>
+<td>休谟所说能够提供行动动机的情感和关切</td>
+</tr>
+<tr>
+<td>sympathy</td>
+<td>同情、情感传递</td>
+<td>他人感受和利益进入道德评价的心理机制</td>
+</tr>
+<tr>
+<td>general point of view</td>
+<td>一般观点</td>
+<td>修正私人距离和利益偏向的共同评价立场</td>
+</tr>
+<tr>
+<td>utility</td>
+<td>效用</td>
+<td>对个人或社会有益并引起赞许的性质</td>
+</tr>
+<tr>
+<td>is–ought problem</td>
+<td>是—应当问题</td>
+<td>从事实陈述转向规范结论时必须说明的推导桥梁</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="user-content-参考文献与在线原典">参考文献与在线原典</h2>
+<h3 id="user-content-一洛克原典与研究入口">一、洛克原典与研究入口</h3>
+<ol>
+<li>《人类理解论》第一、二卷，Project Gutenberg：<br>
+<a href="https://www.gutenberg.org/ebooks/10615">https://www.gutenberg.org/ebooks/10615</a></li>
+<li>《人类理解论》第三、四卷，Project Gutenberg：<br>
+<a href="https://www.gutenberg.org/ebooks/10616">https://www.gutenberg.org/ebooks/10616</a></li>
+<li>OLL《洛克著作集》第1卷，《人类理解论》上部：<br>
+<a href="https://oll.libertyfund.org/titles/locke-the-works-vol-1-an-essay-concerning-human-understanding-part-1">https://oll.libertyfund.org/titles/locke-the-works-vol-1-an-essay-concerning-human-understanding-part-1</a></li>
+<li>OLL《洛克著作集》第2卷，《人类理解论》下部：<br>
+<a href="https://oll.libertyfund.org/titles/locke-the-works-vol-2-an-essay-concerning-human-understanding-part-2-and-other-writings">https://oll.libertyfund.org/titles/locke-the-works-vol-2-an-essay-concerning-human-understanding-part-2-and-other-writings</a></li>
+<li>OLL《洛克著作集》第4卷，《政府论两篇》：<br>
+<a href="https://oll.libertyfund.org/titles/locke-the-works-of-john-locke-vol-4-economic-writings-and-two-treatises-of-government">https://oll.libertyfund.org/titles/locke-the-works-of-john-locke-vol-4-economic-writings-and-two-treatises-of-government</a></li>
+<li>《政府论下篇》，Project Gutenberg：<br>
+<a href="https://www.gutenberg.org/ebooks/7370">https://www.gutenberg.org/ebooks/7370</a></li>
+<li>OLL《洛克著作集》第5卷，《四封宽容书简》：<br>
+<a href="https://oll.libertyfund.org/titles/locke-the-works-vol-5-four-letters-concerning-toleration">https://oll.libertyfund.org/titles/locke-the-works-vol-5-four-letters-concerning-toleration</a></li>
+<li>Stanford Encyclopedia of Philosophy, “John Locke”：<br>
+<a href="https://plato.stanford.edu/entries/locke/">https://plato.stanford.edu/entries/locke/</a></li>
+<li>Stanford Encyclopedia of Philosophy, “Locke’s Political Philosophy”：<br>
+<a href="https://plato.stanford.edu/entries/locke-political/">https://plato.stanford.edu/entries/locke-political/</a></li>
+<li>Stanford Encyclopedia of Philosophy, “Locke on Personal Identity”：<br>
+<a href="https://plato.stanford.edu/entries/locke-personal-identity/">https://plato.stanford.edu/entries/locke-personal-identity/</a></li>
+<li>Stanford Encyclopedia of Philosophy, “Locke’s Philosophy of Science”：<br>
+<a href="https://plato.stanford.edu/entries/locke-philosophy-science/">https://plato.stanford.edu/entries/locke-philosophy-science/</a></li>
+</ol>
+<h3 id="user-content-二贝克莱原典与研究入口">二、贝克莱原典与研究入口</h3>
+<ol>
+<li>《人类知识原理》1734年版，都柏林三一学院电子文本：<br>
+<a href="https://www.maths.tcd.ie/~dwilkins/Berkeley/HumanKnowledge/1734/HumKno.html">https://www.maths.tcd.ie/~dwilkins/Berkeley/HumanKnowledge/1734/HumKno.html</a></li>
+<li>《视觉新论》1732年第二版，都柏林三一学院电子文本：<br>
+<a href="https://www.maths.tcd.ie/~dwilkins/Berkeley/Vision/1732B/Vision.html">https://www.maths.tcd.ie/~dwilkins/Berkeley/Vision/1732B/Vision.html</a></li>
+<li>《海拉斯与斐洛诺斯三篇对话》1734年版 PDF：<br>
+<a href="https://www.maths.tcd.ie/~dwilkins/Berkeley/Hylas/1734/Hylas.pdf">https://www.maths.tcd.ie/~dwilkins/Berkeley/Hylas/1734/Hylas.pdf</a></li>
+<li>《人类知识原理》，Project Gutenberg：<br>
+<a href="https://www.gutenberg.org/ebooks/4723">https://www.gutenberg.org/ebooks/4723</a></li>
+<li>《海拉斯与斐洛诺斯三篇对话》，Project Gutenberg：<br>
+<a href="https://www.gutenberg.org/ebooks/4724">https://www.gutenberg.org/ebooks/4724</a></li>
+<li>《视觉新论》，Project Gutenberg：<br>
+<a href="https://www.gutenberg.org/ebooks/4722">https://www.gutenberg.org/ebooks/4722</a></li>
+<li>Stanford Encyclopedia of Philosophy, “George Berkeley”：<br>
+<a href="https://plato.stanford.edu/entries/berkeley/">https://plato.stanford.edu/entries/berkeley/</a></li>
+</ol>
+<h3 id="user-content-三休谟原典与研究入口">三、休谟原典与研究入口</h3>
+<ol>
+<li>Hume Texts Online，《人性论》全文：<br>
+<a href="https://davidhume.org/texts/t/full">https://davidhume.org/texts/t/full</a></li>
+<li>Hume Texts Online，《人类理解研究》全文：<br>
+<a href="https://davidhume.org/texts/e/full">https://davidhume.org/texts/e/full</a></li>
+<li>Hume Texts Online，《道德原则研究》全文：<br>
+<a href="https://davidhume.org/texts/m/full">https://davidhume.org/texts/m/full</a></li>
+<li>Hume Texts Online，《自然宗教对话录》全文：<br>
+<a href="https://davidhume.org/texts/d/full">https://davidhume.org/texts/d/full</a></li>
+<li>Liberty Fund，Selby-Bigge《人性论》：<br>
+<a href="https://oll.libertyfund.org/titles/bigge-a-treatise-of-human-nature">https://oll.libertyfund.org/titles/bigge-a-treatise-of-human-nature</a></li>
+<li>Liberty Fund，Selby-Bigge《两部研究》：<br>
+<a href="https://oll.libertyfund.org/titles/bigge-enquiries-concerning-the-human-understanding-and-concerning-the-principles-of-morals">https://oll.libertyfund.org/titles/bigge-enquiries-concerning-the-human-understanding-and-concerning-the-principles-of-morals</a></li>
+<li>Stanford Encyclopedia of Philosophy, “David Hume”：<br>
+<a href="https://plato.stanford.edu/entries/hume/">https://plato.stanford.edu/entries/hume/</a></li>
+<li>Internet Encyclopedia of Philosophy, “Hume: Causation”：<br>
+<a href="https://iep.utm.edu/hume-causation/">https://iep.utm.edu/hume-causation/</a></li>
+<li>Stanford Encyclopedia of Philosophy, “Hume’s Moral Philosophy”：<br>
+<a href="https://plato.stanford.edu/entries/hume-moral/">https://plato.stanford.edu/entries/hume-moral/</a></li>
+<li>Stanford Encyclopedia of Philosophy, “Hume on Religion”：<br>
+<a href="https://plato.stanford.edu/entries/hume-religion/">https://plato.stanford.edu/entries/hume-religion/</a></li>
+</ol>
+<h3 id="user-content-四学术版与现代研究">四、学术版与现代研究</h3>
+<h4 id="user-content-洛克-3">洛克</h4>
+<ol>
+<li>Locke, John. <em>An Essay Concerning Human Understanding</em>. Edited by Peter H. Nidditch. Oxford: Clarendon Press, 1975.</li>
+<li>Locke, John. <em>Two Treatises of Government</em>. Edited by Peter Laslett. Cambridge: Cambridge University Press.</li>
+<li>Locke, John. <em>A Letter Concerning Toleration and Other Writings</em>. Edited by Mark Goldie.</li>
+<li>Ayers, Michael. <em>Locke</em>. 2 vols. London: Routledge, 1991.</li>
+<li>Lowe, E. J. <em>Locke on Human Understanding</em>. London: Routledge, 1995.</li>
+<li>Waldron, Jeremy. <em>God, Locke, and Equality</em>. Cambridge: Cambridge University Press, 2002.</li>
+</ol>
+<h4 id="user-content-贝克莱-3">贝克莱</h4>
+<ol>
+<li>Berkeley, George. <em>The Works of George Berkeley, Bishop of Cloyne</em>. Edited by A. A. Luce and T. E. Jessop. 9 vols. London: Thomas Nelson, 1948—1957.</li>
+<li>Winkler, Kenneth P. <em>Berkeley: An Interpretation</em>. Oxford: Clarendon Press, 1989.</li>
+<li>Atherton, Margaret. <em>Berkeley’s Revolution in Vision</em>. Ithaca: Cornell University Press, 1990.</li>
+<li>Pappas, George S. <em>Berkeley’s Thought</em>. Ithaca: Cornell University Press, 2000.</li>
+<li>Stoneham, Tom. <em>Berkeley’s World</em>. Oxford: Oxford University Press, 2002.</li>
+</ol>
+<h4 id="user-content-休谟-3">休谟</h4>
+<ol>
+<li>Hume, David. <em>A Treatise of Human Nature</em>. Edited by L. A. Selby-Bigge; 2nd ed. revised by P. H. Nidditch. Oxford: Clarendon Press, 1978.</li>
+<li>Hume, David. <em>Enquiries concerning Human Understanding and concerning the Principles of Morals</em>. Edited by L. A. Selby-Bigge; 3rd ed. revised by P. H. Nidditch. Oxford: Clarendon Press, 1975.</li>
+<li>Hume, David. <em>A Treatise of Human Nature</em>. Edited by David Fate Norton and Mary J. Norton. Oxford: Oxford University Press, 2000.</li>
+<li>Garrett, Don. <em>Cognition and Commitment in Hume’s Philosophy</em>. Oxford: Oxford University Press, 1997.</li>
+<li>Beebee, Helen. <em>Hume on Causation</em>. London: Routledge, 2006.</li>
+<li>Baier, Annette C. <em>A Progress of Sentiments</em>. Cambridge, MA: Harvard University Press, 1991.</li>
+</ol>
+<h4 id="user-content-综合研究">综合研究</h4>
+<ol>
+<li>Bennett, Jonathan. <em>Locke, Berkeley, Hume: Central Themes</em>. Oxford: Clarendon Press, 1971.</li>
+<li>Woolhouse, R. S. <em>The Empiricists</em>. Oxford: Oxford University Press, 1988.</li>
+<li>Atherton, Margaret, ed. <em>The Empiricists: Critical Essays on Locke, Berkeley, and Hume</em>. Lanham: Rowman &#x26; Littlefield, 1999.</li>
+<li>Norton, David Fate, ed. <em>The Cambridge Companion to Hume</em>. Cambridge: Cambridge University Press.</li>
+<li>Chappell, Vere, ed. <em>The Cambridge Companion to Locke</em>. Cambridge: Cambridge University Press.</li>
+<li>Winkler, Kenneth P., ed. <em>The Cambridge Companion to Berkeley</em>. Cambridge: Cambridge University Press.</li>
+</ol>
+<h3 id="user-content-五文本与解释备注">五、文本与解释备注</h3>
+<ol>
+<li>本章“Modern English rendering”由原文释义而来，目的在于帮助阅读早期英语，不等同于任何单一商业译本。</li>
+<li>洛克《论宽容书简》原作是拉丁文；正文引用明确标为 Popple 1689年早期英译，没有把英译冒充洛克的英语原稿。</li>
+<li>贝克莱《人类知识原理》引文采用1734年版拼写，《视觉新论》引文采用1732年第二版拼写；部分现代版本会把 <em>my self</em>、<em>intirely</em>、<em>Steddiness</em> 等改为现代形式。</li>
+<li>休谟引文保留 <em>betwixt</em>、<em>connexion</em>、<em>chuse</em>、<em>judg’d</em>、<em>phænomena</em> 等历史拼写。</li>
+<li>省略号表示删节，不能把删节后的句子当作完整原段；进行论文引用时应回到所列原典核对上下文。</li>
+<li>“经验主义”“休谟之叉”“知觉束理论”等均为后来的概括标签，不应替代文本自身的论证。</li>
+<li>关于休谟因果实在论、贝克莱无人感知对象和洛克人格同一性的解释，正文保留了主要争议，没有把单一解释写成定论。</li>
+</ol>
+5:["$","main",null,{"id":"main-content","className":"article-page","data-section":"cosmic-walk","children":[["$","article",null,{"children":[["$","header",null,{"className":"article-heading","children":[["$","$L2",null,{"className":"article-section","href":"/cosmic-walk/","children":"宇宙漫步"}],["$","h1",null,{"children":"洛克、贝克莱与休谟：经验主义哲学主张"}],["$","div",null,{"className":"article-meta","children":[["$","time",null,{"dateTime":"2026-08-29","children":"2026年8月29日"}],["$","span",null,{"children":["作者：","𝕚𝕚𝕕𝕖𝕖𝕤𝕦𝕦"]}],null]}]]}],["$","nav",null,{"className":"article-toc","aria-label":"文章目录","children":["$","details",null,{"children":[["$","summary",null,{"children":"目录"}],["$","ol",null,{"children":[["$","li","user-content-第一编洛克观念的来源知识的限度与人格同一性",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第一编洛克观念的来源知识的限度与人格同一性","children":"第一编　洛克：观念的来源、知识的限度与人格同一性"}]}],["$","li","user-content-第二编贝克莱非物质主义精神与自然的符号秩序",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第二编贝克莱非物质主义精神与自然的符号秩序","children":"第二编　贝克莱：非物质主义、精神与自然的符号秩序"}]}],["$","li","user-content-第三编休谟印象习惯因果与人性科学",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第三编休谟印象习惯因果与人性科学","children":"第三编　休谟：印象、习惯、因果与人性科学"}]}],["$","li","user-content-第四编三种经验主义体系的正面对照",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-第四编三种经验主义体系的正面对照","children":"第四编　三种经验主义体系的正面对照"}]}],["$","li","user-content-结论",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-结论","children":"结论"}]}],["$","li","user-content-术语表",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-术语表","children":"术语表"}]}],["$","li","user-content-参考文献与在线原典",{"data-depth":2,"children":["$","a",null,{"href":"#user-content-参考文献与在线原典","children":"参考文献与在线原典"}]}]]}]]}]}],["$","div",null,{"className":"article-body","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],"$L11"]}]
+11:["$","nav",null,{"className":"article-end","aria-label":"文章结束后的入口","children":[["$","$L2",null,{"className":"text-link","href":"/cosmic-walk/","children":["返回","宇宙漫步"]}],["$","$L2",null,{"className":"text-link","href":"/help/","children":"如果你现在需要帮助"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#041521"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"洛克、贝克莱与休谟：经验主义哲学主张 · 传信予你"}],["$","meta","1",{"name":"description","content":"一个记录生活碎片与宇宙漫步的个人博客。"}],["$","meta","2",{"name":"author","content":"𝕚𝕚𝕕𝕖𝕖𝕤𝕦𝕦"}],["$","link","3",{"rel":"icon","href":"/icon.svg?7a36f6adfdc82eb6","type":"image/svg+xml","sizes":"any"}],["$","$L12","4",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
