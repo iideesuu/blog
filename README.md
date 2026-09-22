@@ -2,6 +2,8 @@
 
 这是一个以深海蓝与《白鲸》为视觉底色的 React 博客。首页采用响应式双联页布局：左页是取自小说特征的抹香鲸海事蚀刻画与多语言思想语录，右页是一扇窄幅阅读窗。文章使用 Markdown 写作，构建与静态文件服务都在容器中运行。
 
+四个栏目页面保持同宽，宇宙漫步、书页回声、朝夕手记和人间拾光分别采用思想索引、书页边注、月度手记与影像网格布局。
+
 ## 本地运行
 
 宿主机只需要 Docker，不需要安装 Node.js。
@@ -25,16 +27,20 @@
 
 ```text
 content/
-├── fragments/        # 日记碎片
+├── cosmic-walk/      # 宇宙漫步
+│   └── let-the-future-object.md
+├── reading-notes/    # 书页回声（阅读笔记）
+│   └── a-reading-note.md
+├── fragments/        # 朝夕手记（日记）
 │   └── an-ordinary-afternoon.md
-└── cosmic-walk/      # 宇宙漫步
-    └── let-the-future-object.md
+└── gallery/          # 人间拾光（生活瞬间）
+    └── a-small-light.md
 ```
 
 最简单的写作步骤：
 
 1. 复制 `content/_template.md` 到目标栏目目录。
-2. 把文件改成新的英文名称；只使用小写字母、数字和连字符，例如 `a-rainy-night.md`。
+2. 把文件改成新的英文名称；只使用小写字母、数字和连字符，例如 `a-rainy-night.md`。文件名在全部栏目中必须唯一。
 3. 修改文件顶部的标题和日期，然后在第二个 `---` 下面写正文。
 4. 写完后把 `draft` 改成 `false`。
 5. 保存文件，在 `blog` 目录执行 `docker compose up --build -d`。
@@ -61,11 +67,13 @@ draft: false
 
 - 文件所在目录决定栏目，不需要另外填写栏目名称。
 - 文件名决定文章地址：`a-rainy-night.md` 会生成 `/writing/a-rainy-night/`。
-- 两个栏目不能使用相同的文件名。
+- 所有栏目不能使用相同的文件名。
 - `title`、`author` 和 `date` 必填；日期使用 `YYYY-MM-DD` 格式并保留引号。
 - `author` 是文章公开署名，也会写入页面的作者 metadata；现有文章使用 `iideesuu`，新文章请填写你希望公开显示的署名。
 - `draft: true` 表示草稿，不会出现在首页、栏目或文章页面；准备发布时改成 `false`。
 - `demo: true` 只用于现有示例文章，正式文章不需要填写。
+- 书页回声文章可选填写 `book`、`bookAuthor` 和 `excerpt`，它们会显示在栏目索引中。
+- 人间拾光文章可选填写 `location`、`cover`、`coverAlt` 和 `excerpt`；图片放在 `public/images/posts/` 后，`cover` 使用 `/images/posts/example.jpg` 这样的路径。若不填写 `cover`，栏目会使用正文中的第一张 Markdown 图片。
 - Markdown 原始文件不会直接公开；构建会把已发布文章转换成静态 HTML。
 
 文章图片放进 `public/images/posts/`，正文中这样引用：

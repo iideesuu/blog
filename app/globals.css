@@ -1657,3 +1657,710 @@ a {
     border-color: var(--text);
   }
 }
+
+/* 书页回声与人间拾光：两种新的阅读节奏 */
+.section-intro {
+  max-width: 34rem;
+  margin: 1.4rem 0 0;
+  color: #c8d8db;
+  font-family: var(--serif);
+  font-size: clamp(1rem, 1.7vw, 1.16rem);
+  letter-spacing: 0.035em;
+  line-height: 1.9;
+}
+
+.reading-notes-section {
+  width: min(900px, calc(100% - 3rem));
+  padding-inline: clamp(2rem, 7vw, 5.5rem);
+}
+
+.reading-notes-heading,
+.gallery-heading {
+  margin-bottom: clamp(3rem, 7vw, 5.5rem);
+}
+
+.reading-index {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: reading-entry;
+}
+
+.reading-index li {
+  counter-increment: reading-entry;
+  border-top: 1px solid var(--line);
+}
+
+.reading-index li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.reading-index a {
+  display: grid;
+  grid-template-columns: 3.5rem minmax(0, 1fr) auto;
+  align-items: start;
+  gap: 1.5rem;
+  padding: 1.65rem 0.25rem 1.65rem 0;
+  transition: background-color 180ms ease, padding-left 180ms ease;
+}
+
+.reading-index a:hover,
+.reading-index a:focus-visible {
+  padding-left: 0.75rem;
+  background: rgba(15, 56, 73, 0.28);
+}
+
+.reading-index-number {
+  color: #75939b;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.13em;
+  line-height: 1.8;
+}
+
+.reading-index-number::before {
+  content: "✳ ";
+  color: rgba(134, 185, 195, 0.68);
+}
+
+.reading-index-copy {
+  display: grid;
+  gap: 0.45rem;
+  min-width: 0;
+}
+
+.reading-index-copy time,
+.gallery-card-meta {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.67rem;
+  letter-spacing: 0.08em;
+}
+
+.reading-index-copy h2 {
+  margin: 0.1rem 0 0;
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: clamp(1.25rem, 2.6vw, 1.8rem);
+  font-weight: 500;
+  letter-spacing: 0.035em;
+  line-height: 1.45;
+}
+
+.reading-book {
+  color: #a8c2c7;
+  font-family: var(--serif);
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+}
+
+.reading-excerpt {
+  max-width: 38rem;
+  color: #aebfc3;
+  font-family: var(--serif);
+  font-size: 0.92rem;
+  line-height: 1.75;
+}
+
+.reading-index-arrow {
+  align-self: center;
+  color: #87afb7;
+  font-size: 1.1rem;
+  opacity: 0.72;
+  transition: transform 180ms ease, opacity 180ms ease;
+}
+
+.reading-index a:hover .reading-index-arrow,
+.reading-index a:focus-visible .reading-index-arrow {
+  opacity: 1;
+  transform: translate(0.15rem, -0.15rem);
+}
+
+.gallery-section {
+  width: min(1040px, calc(100% - 3rem));
+  padding-inline: clamp(1.5rem, 5vw, 4.5rem);
+}
+
+.gallery-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 11rem;
+  gap: 2rem;
+}
+
+.gallery-heading .eyebrow,
+.gallery-heading h1,
+.gallery-heading .section-intro {
+  grid-column: 1;
+}
+
+.gallery-heading::after {
+  grid-column: 2;
+  grid-row: 1 / span 3;
+  align-self: end;
+  width: 100%;
+  height: 9rem;
+  content: "";
+  opacity: 0.75;
+  background:
+    radial-gradient(circle at 70% 30%, rgba(134, 185, 195, 0.6) 0 1px, transparent 2px),
+    radial-gradient(circle at 34% 68%, rgba(134, 185, 195, 0.32) 0 1px, transparent 2px),
+    linear-gradient(135deg, transparent 49.5%, rgba(134, 185, 195, 0.23) 50%, transparent 50.5%);
+  border-right: 1px solid rgba(134, 185, 195, 0.28);
+  border-bottom: 1px solid rgba(134, 185, 195, 0.28);
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: clamp(1.2rem, 3vw, 2.25rem);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.gallery-grid li:nth-child(3n + 1) { grid-column: span 7; }
+.gallery-grid li:nth-child(3n + 2) { grid-column: span 5; padding-top: 3.5rem; }
+.gallery-grid li:nth-child(3n + 3) { grid-column: 3 / span 7; }
+
+.gallery-card {
+  display: block;
+  height: 100%;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid var(--line);
+  transition: color 180ms ease, transform 180ms ease;
+}
+
+.gallery-card:hover,
+.gallery-card:focus-visible {
+  color: #fff;
+  transform: translateY(-0.3rem);
+}
+
+.gallery-card-image,
+.gallery-card-placeholder {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #0a202a;
+  border: 1px solid rgba(157, 181, 188, 0.24);
+}
+
+.gallery-card-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(0.8) contrast(0.94);
+  transition: filter 220ms ease, transform 420ms ease;
+}
+
+.gallery-card:hover .gallery-card-image img,
+.gallery-card:focus-visible .gallery-card-image img {
+  filter: saturate(1) contrast(1);
+  transform: scale(1.035);
+}
+
+.gallery-card-placeholder {
+  position: relative;
+  color: rgba(189, 213, 216, 0.68);
+  background:
+    linear-gradient(135deg, rgba(15, 56, 73, 0.75), rgba(2, 8, 13, 0.8)),
+    radial-gradient(circle at 70% 28%, rgba(134, 185, 195, 0.25), transparent 37%);
+  font-family: var(--serif);
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+
+.gallery-card-placeholder::before,
+.gallery-card-placeholder::after {
+  position: absolute;
+  content: "";
+  border-color: rgba(134, 185, 195, 0.4);
+  border-style: solid;
+}
+
+.gallery-card-placeholder::before {
+  inset: 1rem;
+  border-width: 1px 0 0 1px;
+}
+
+.gallery-card-placeholder::after {
+  right: 1rem;
+  bottom: 1rem;
+  left: 1rem;
+  border-width: 0 1px 1px 0;
+}
+
+.gallery-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.gallery-card h2 {
+  margin: 0.55rem 0 0;
+  font-family: var(--serif);
+  font-size: clamp(1.15rem, 2.4vw, 1.55rem);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  line-height: 1.45;
+}
+
+.gallery-card p {
+  margin: 0.6rem 0 0;
+  color: #aebfc3;
+  font-family: var(--serif);
+  font-size: 0.9rem;
+  line-height: 1.75;
+}
+
+.section-empty {
+  display: grid;
+  justify-items: start;
+  min-height: 15rem;
+  padding: 2.4rem 0;
+  color: #b5c6ca;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  font-family: var(--serif);
+}
+
+.section-empty-mark {
+  display: block;
+  margin-bottom: 1.25rem;
+  color: #8bb6be;
+  font-size: 1.4rem;
+}
+
+.section-empty p {
+  margin: 0 0 0.6rem;
+  color: var(--text);
+  font-size: 1.35rem;
+  letter-spacing: 0.05em;
+}
+
+.section-empty > span:last-child {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+.post-list-empty {
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 0.88rem;
+  letter-spacing: 0.04em;
+}
+
+.post-list-empty span {
+  display: block;
+  padding-block: 1.05rem;
+}
+
+.article-page[data-section="reading-notes"] .article-heading {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(157, 181, 188, 0.18);
+}
+
+.article-page[data-section="reading-notes"] .article-body {
+  max-width: 39em;
+  padding-left: clamp(1.2rem, 4vw, 2.2rem);
+  border-left: 1px solid rgba(134, 185, 195, 0.28);
+}
+
+.article-page[data-section="reading-notes"] .article-body blockquote {
+  margin-left: -1.1rem;
+  padding-left: 1.1rem;
+  color: #d7e5e7;
+  border-left-color: #86b9c3;
+}
+
+.article-page[data-section="gallery"] {
+  width: min(960px, calc(100% - 3rem));
+}
+
+.article-page[data-section="gallery"] .article-body {
+  max-width: 50rem;
+}
+
+.article-page[data-section="gallery"] .article-body img {
+  width: min(100%, 44rem);
+  margin-block: 3rem;
+  border: 1px solid rgba(157, 181, 188, 0.24);
+  box-shadow: 0 20px 55px rgba(0, 3, 6, 0.28);
+}
+
+@media (max-width: 720px) {
+  .gallery-heading {
+    display: block;
+  }
+
+  .gallery-heading::after {
+    display: none;
+  }
+
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .gallery-grid li:nth-child(3n + 1),
+  .gallery-grid li:nth-child(3n + 2),
+  .gallery-grid li:nth-child(3n + 3) {
+    grid-column: auto;
+    padding-top: 0;
+  }
+
+  .gallery-card-image,
+  .gallery-card-placeholder {
+    aspect-ratio: 16 / 10;
+  }
+}
+
+@media (max-width: 560px) {
+  .reading-notes-section,
+  .gallery-section {
+    width: calc(100% - 1rem);
+    padding: 2.5rem 1.25rem 3.5rem;
+  }
+
+  .reading-index a {
+    grid-template-columns: 2.25rem minmax(0, 1fr) auto;
+    gap: 0.75rem;
+    padding-block: 1.35rem;
+  }
+
+  .reading-index-copy h2 {
+    font-size: 1.2rem;
+  }
+
+  .reading-excerpt {
+    font-size: 0.86rem;
+  }
+}
+
+/* 四个栏目页共用人间拾光的阅读宽度，各自保留自己的图形与索引节奏。 */
+.section-page,
+.reading-notes-section,
+.gallery-section,
+.journal-section,
+.cosmic-section {
+  width: min(1040px, calc(100% - 3rem));
+}
+
+.illustrated-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(10rem, 13rem);
+  align-items: end;
+  gap: clamp(1.5rem, 5vw, 4rem);
+  margin-bottom: clamp(3rem, 7vw, 5.5rem);
+}
+
+.section-heading-copy {
+  min-width: 0;
+}
+
+.section-sketch {
+  justify-self: end;
+  width: min(100%, 13rem);
+  height: auto;
+  color: rgba(134, 185, 195, 0.74);
+  opacity: 0.78;
+}
+
+.cosmic-heading .section-sketch {
+  color: rgba(104, 160, 176, 0.72);
+}
+
+.reading-notes-heading .section-sketch {
+  color: rgba(179, 191, 169, 0.72);
+}
+
+.journal-heading .section-sketch {
+  color: rgba(178, 156, 142, 0.72);
+}
+
+.cosmic-index {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: cosmic-entry;
+}
+
+.cosmic-index li {
+  counter-increment: cosmic-entry;
+  border-top: 1px solid var(--line);
+}
+
+.cosmic-index li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.cosmic-index a {
+  display: grid;
+  grid-template-columns: 4rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.55rem 0;
+  transition: background-color 180ms ease, padding-left 180ms ease;
+}
+
+.cosmic-index a:hover,
+.cosmic-index a:focus-visible {
+  padding-left: 0.75rem;
+  background: rgba(15, 56, 73, 0.25);
+}
+
+.cosmic-index-number {
+  color: #789aa4;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+}
+
+.cosmic-index-copy {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.cosmic-index-copy time {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+}
+
+.cosmic-index-copy h2 {
+  margin: 0;
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: clamp(1.18rem, 2.7vw, 1.65rem);
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.cosmic-index-arrow,
+.journal-entry-arrow {
+  color: #87afb7;
+  font-size: 1.1rem;
+  opacity: 0.72;
+  transition: transform 180ms ease, opacity 180ms ease;
+}
+
+.cosmic-index a:hover .cosmic-index-arrow,
+.cosmic-index a:focus-visible .cosmic-index-arrow,
+.journal-entries a:hover .journal-entry-arrow,
+.journal-entries a:focus-visible .journal-entry-arrow {
+  opacity: 1;
+  transform: translate(0.15rem, -0.15rem);
+}
+
+.reading-notes-section {
+  padding-inline: clamp(1.5rem, 5vw, 4.5rem);
+}
+
+.reading-desk {
+  display: grid;
+  grid-template-columns: minmax(8rem, 0.25fr) minmax(0, 1fr);
+  gap: clamp(1.5rem, 5vw, 4rem);
+}
+
+.reading-margin {
+  align-self: start;
+  padding: 1rem 1rem 1.5rem 0;
+  border-right: 1px solid rgba(134, 185, 195, 0.28);
+  color: var(--muted);
+  font-family: var(--serif);
+}
+
+.reading-margin h2 {
+  margin: 0 0 1rem;
+  color: #b7c9cc;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+}
+
+.reading-margin p {
+  margin: 0;
+  font-size: 0.78rem;
+  line-height: 1.95;
+}
+
+.reading-pages {
+  min-width: 0;
+}
+
+.journal-section {
+  padding-inline: clamp(1.5rem, 5vw, 4.5rem);
+}
+
+.journal-archive {
+  display: grid;
+  gap: clamp(3rem, 7vw, 5rem);
+}
+
+.journal-month {
+  display: grid;
+  grid-template-columns: minmax(8rem, 0.26fr) minmax(0, 1fr);
+  gap: clamp(1.5rem, 5vw, 4rem);
+}
+
+.journal-month-heading {
+  align-self: start;
+  padding-top: 0.4rem;
+  border-top: 1px solid rgba(178, 156, 142, 0.46);
+}
+
+.journal-month-heading h2 {
+  margin: 0.7rem 0 0;
+  color: #d2c4bb;
+  font-family: var(--serif);
+  font-size: clamp(1.7rem, 4vw, 2.5rem);
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.journal-month-heading h2 span {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+}
+
+.journal-month-heading small,
+.journal-entries time small {
+  margin-left: 0.22em;
+  font-size: 0.45em;
+}
+
+.journal-month-heading p {
+  margin: 0.8rem 0 0;
+  color: var(--muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+}
+
+.journal-entries {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.journal-entries li {
+  border-bottom: 1px solid var(--line);
+}
+
+.journal-entries a {
+  display: grid;
+  grid-template-columns: 3.8rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 1.25rem;
+  min-height: 4.5rem;
+  transition: background-color 180ms ease, padding-left 180ms ease;
+}
+
+.journal-entries a:hover,
+.journal-entries a:focus-visible {
+  padding-left: 0.65rem;
+  background: rgba(95, 69, 55, 0.17);
+}
+
+.journal-entries time {
+  color: #bca89d;
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1;
+}
+
+.journal-entries h3 {
+  margin: 0;
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: clamp(1.05rem, 2.3vw, 1.35rem);
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+@media (max-width: 960px) {
+  .section-page,
+  .reading-notes-section,
+  .gallery-section,
+  .journal-section,
+  .cosmic-section {
+    width: min(1040px, calc(100% - 2rem));
+  }
+}
+
+@media (max-width: 680px) {
+  .illustrated-heading {
+    grid-template-columns: minmax(0, 1fr) 7.5rem;
+    gap: 1rem;
+  }
+
+  .section-sketch {
+    width: 7.5rem;
+  }
+
+  .reading-desk,
+  .journal-month {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .reading-margin {
+    padding: 0 0 1rem;
+    border-right: 0;
+    border-bottom: 1px solid rgba(134, 185, 195, 0.28);
+  }
+
+  .reading-margin p br {
+    display: none;
+  }
+
+  .journal-month-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .journal-month-heading p {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 560px) {
+  .section-page,
+  .reading-notes-section,
+  .gallery-section,
+  .journal-section,
+  .cosmic-section {
+    width: calc(100% - 1rem);
+    padding: 2.5rem 1.25rem 3.5rem;
+  }
+
+  .illustrated-heading {
+    grid-template-columns: 1fr;
+  }
+
+  .section-sketch {
+    justify-self: start;
+    width: 8rem;
+    margin-top: -1.5rem;
+  }
+
+  .cosmic-index a,
+  .journal-entries a {
+    grid-template-columns: 2.7rem minmax(0, 1fr) auto;
+    gap: 0.8rem;
+  }
+}

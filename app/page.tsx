@@ -5,8 +5,10 @@ import { WhaleScene } from "@/components/WhaleScene";
 import { getPostsBySection } from "@/lib/posts";
 
 export default function HomePage() {
-  const fragments = getPostsBySection("fragments").slice(0, 3);
   const cosmicWalk = getPostsBySection("cosmic-walk").slice(0, 3);
+  const readingNotes = getPostsBySection("reading-notes").slice(0, 3);
+  const fragments = getPostsBySection("fragments").slice(0, 3);
+  const gallery = getPostsBySection("gallery").slice(0, 3);
 
   return (
     <main id="main-content" className="home-page">
@@ -53,9 +55,21 @@ export default function HomePage() {
                 posts={cosmicWalk}
               />
               <PostList
-                heading="日记碎片"
+                heading="书页回声"
+                href="/reading-notes/"
+                posts={readingNotes}
+                emptyLabel="暂未收录"
+              />
+              <PostList
+                heading="朝夕手记"
                 href="/fragments/"
                 posts={fragments}
+              />
+              <PostList
+                heading="人间拾光"
+                href="/gallery/"
+                posts={gallery}
+                emptyLabel="暂未收录"
               />
             </section>
           </div>

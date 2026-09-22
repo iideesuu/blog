@@ -8,13 +8,21 @@ import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 
 export const sectionConfig = {
-  fragments: {
-    label: "日记碎片",
-    href: "/fragments/"
-  },
   "cosmic-walk": {
     label: "宇宙漫步",
     href: "/cosmic-walk/"
+  },
+  "reading-notes": {
+    label: "书页回声",
+    href: "/reading-notes/"
+  },
+  fragments: {
+    label: "朝夕手记",
+    href: "/fragments/"
+  },
+  gallery: {
+    label: "人间拾光",
+    href: "/gallery/"
   }
 } as const;
 
@@ -27,6 +35,12 @@ export type Post = {
   author: string;
   date: string;
   demo: boolean;
+  excerpt?: string;
+  book?: string;
+  bookAuthor?: string;
+  location?: string;
+  cover?: string;
+  coverAlt?: string;
   html: string;
   tableOfContents: TableOfContentsItem[];
 };
@@ -103,6 +117,18 @@ function readBoolean(value: unknown, fallback: boolean, field: string, sourcePat
   return value;
 }
 
+function readOptionalString(value: unknown, field: string, sourcePath: string) {
+  if (value === undefined) {
+    return undefined;
+  }
+
+  if (typeof value !== "string" || value.trim().length === 0) {
+    contentError(sourcePath, `front matter 中的 ${field} 必须是非空字符串。`);
+  }
+
+  return value.trim();
+}
+
 function nodeText(node: unknown): string {
   if (!node || typeof node !== "object") {
     return "";
@@ -175,6 +201,16 @@ function renderMarkdown(markdown: string, sourcePath: string) {
   }
 }
 
+function readFirstImage(html: string) {
+  const image = html.match(/<img\b[^>]*\bsrc="([^"]+)"[^>]*>/i);
+  if (!image) {
+    return undefined;
+  }
+
+  const alt = image[0].match(/\balt="([^"]*)"/i)?.[1];
+  return { src: image[1], alt };
+}
+
 function readPost(section: Section, fileName: string): LoadedPost {
   const sourcePath = path.join(contentRoot, section, fileName);
   const slug = path.basename(fileName, path.extname(fileName));
@@ -199,6 +235,9 @@ function readPost(section: Section, fileName: string): LoadedPost {
   }
 
   const rendered = renderMarkdown(parsed.content, sourcePath);
+  const firstImage = readFirstImage(rendered.html);
+  const cover = readOptionalString(parsed.data.cover, "cover", sourcePath) ?? firstImage?.src;
+  const coverAlt = readOptionalString(parsed.data.coverAlt, "coverAlt", sourcePath) ?? firstImage?.alt;
 
   return {
     slug,
@@ -208,6 +247,12 @@ function readPost(section: Section, fileName: string): LoadedPost {
     date: readDate(parsed.data.date, sourcePath),
     draft,
     demo,
+    excerpt: readOptionalString(parsed.data.excerpt, "excerpt", sourcePath),
+    book: readOptionalString(parsed.data.book, "book", sourcePath),
+    bookAuthor: readOptionalString(parsed.data.bookAuthor, "bookAuthor", sourcePath),
+    location: readOptionalString(parsed.data.location, "location", sourcePath),
+    cover,
+    coverAlt,
     html: rendered.html,
     tableOfContents: rendered.tableOfContents,
     sourcePath
@@ -241,13 +286,19 @@ function loadPosts(): Post[] {
 
   return loadedPosts
     .filter((post) => !post.draft)
-    .map(({ slug, section, title, author, date, demo, html, tableOfContents }) => ({
+    .map(({ slug, section, title, author, date, demo, excerpt, book, bookAuthor, location, cover, coverAlt, html, tableOfContents }) => ({
       slug,
       section,
       title,
       author,
       date,
       demo,
+      excerpt,
+      book,
+      bookAuthor,
+      location,
+      cover,
+      coverAlt,
       html,
       tableOfContents
     }))

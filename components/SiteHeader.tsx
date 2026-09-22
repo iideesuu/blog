@@ -2,7 +2,9 @@ import Link from "next/link";
 
 const navigation = [
   { href: "/cosmic-walk/", label: "宇宙漫步" },
-  { href: "/fragments/", label: "日记碎片" },
+  { href: "/reading-notes/", label: "书页回声" },
+  { href: "/fragments/", label: "朝夕手记" },
+  { href: "/gallery/", label: "人间拾光" },
   { href: "/help/", label: "需要帮助", help: true }
 ];
 

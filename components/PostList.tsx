@@ -5,9 +5,10 @@ type PostListProps = {
   heading: string;
   href: string;
   posts: Post[];
+  emptyLabel?: string;
 };
 
-export function PostList({ heading, href, posts }: PostListProps) {
+export function PostList({ heading, href, posts, emptyLabel }: PostListProps) {
   const headingId = `list-${heading}`;
 
   return (
@@ -17,14 +18,18 @@ export function PostList({ heading, href, posts }: PostListProps) {
         <Link href={href} aria-label={`查看全部${heading}`}>全部</Link>
       </header>
       <ul className="post-list">
-        {posts.map((post) => (
-          <li key={post.slug}>
-            <Link href={`/writing/${post.slug}/`}>
-              <time dateTime={post.date}>{formatPostDate(post.date)}</time>
-              <span>{post.title}</span>
-            </Link>
-          </li>
-        ))}
+        {posts.length > 0
+          ? posts.map((post) => (
+              <li key={post.slug}>
+                <Link href={`/writing/${post.slug}/`}>
+                  <time dateTime={post.date}>{formatPostDate(post.date)}</time>
+                  <span>{post.title}</span>
+                </Link>
+              </li>
+            ))
+          : emptyLabel
+            ? <li className="post-list-empty"><span>{emptyLabel}</span></li>
+            : null}
       </ul>
     </section>
   );
