@@ -1978,10 +1978,6 @@ a {
   border-left-color: #86b9c3;
 }
 
-.article-page[data-section="gallery"] {
-  width: min(960px, calc(100% - 3rem));
-}
-
 .article-page[data-section="gallery"] .article-body {
   max-width: 50rem;
 }
@@ -2043,8 +2039,9 @@ a {
   }
 }
 
-/* 四个栏目页共用人间拾光的阅读宽度，各自保留自己的图形与索引节奏。 */
+/* 栏目与文章外框共用宽度，正文保留各栏目的排版。 */
 .section-page,
+.article-page,
 .reading-notes-section,
 .gallery-section,
 .journal-section,
@@ -2292,6 +2289,7 @@ a {
 
 @media (max-width: 960px) {
   .section-page,
+  .article-page,
   .reading-notes-section,
   .gallery-section,
   .journal-section,
@@ -2340,11 +2338,19 @@ a {
 
 @media (max-width: 560px) {
   .section-page,
+  .article-page,
   .reading-notes-section,
   .gallery-section,
   .journal-section,
   .cosmic-section {
     width: calc(100% - 1rem);
+  }
+
+  .section-page,
+  .reading-notes-section,
+  .gallery-section,
+  .journal-section,
+  .cosmic-section {
     padding: 2.5rem 1.25rem 3.5rem;
   }
 
