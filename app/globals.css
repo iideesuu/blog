@@ -648,6 +648,7 @@ a {
 .article-page > article,
 .article-body {
   min-width: 0;
+  width: 100%;
   max-width: 100%;
 }
 
@@ -1283,7 +1284,6 @@ a {
   --journal-gutter: clamp(1.35rem, 3vw, 1.75rem);
 
   position: relative;
-  max-width: 38em;
   padding-inline-start: var(--journal-gutter);
   letter-spacing: 0.02em;
 }
@@ -1966,7 +1966,6 @@ a {
 }
 
 .article-page[data-section="reading-notes"] .article-body {
-  max-width: 39em;
   padding-left: clamp(1.2rem, 4vw, 2.2rem);
   border-left: 1px solid rgba(134, 185, 195, 0.28);
 }
@@ -1976,10 +1975,6 @@ a {
   padding-left: 1.1rem;
   color: #d7e5e7;
   border-left-color: #86b9c3;
-}
-
-.article-page[data-section="gallery"] .article-body {
-  max-width: 50rem;
 }
 
 .article-page[data-section="gallery"] .article-body img {
