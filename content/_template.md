@@ -1,5 +1,5 @@
 ---
-title: "在这里填写标题"
+title: "二〇二六 · 九月零八 · 阴"
 author: "𝕀𝕤𝕙𝕞𝕒𝕖𝕝"
 date: "2026-08-23"
 draft: true
