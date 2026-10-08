@@ -1658,7 +1658,7 @@ a {
   }
 }
 
-/* 书页回声与人间拾光：两种新的阅读节奏 */
+/* 栏目导语与文章索引 */
 .section-intro {
   max-width: 34rem;
   margin: 1.4rem 0 0;
@@ -1674,8 +1674,7 @@ a {
   padding-inline: clamp(2rem, 7vw, 5.5rem);
 }
 
-.reading-notes-heading,
-.gallery-heading {
+.reading-notes-heading {
   margin-bottom: clamp(3rem, 7vw, 5.5rem);
 }
 
@@ -1729,8 +1728,7 @@ a {
   min-width: 0;
 }
 
-.reading-index-copy time,
-.gallery-card-meta {
+.reading-index-copy time {
   color: var(--muted);
   font-family: var(--mono);
   font-size: 0.67rem;
@@ -1774,147 +1772,6 @@ a {
 .reading-index a:focus-visible .reading-index-arrow {
   opacity: 1;
   transform: translate(0.15rem, -0.15rem);
-}
-
-.gallery-section {
-  width: min(1040px, calc(100% - 3rem));
-  padding-inline: clamp(1.5rem, 5vw, 4.5rem);
-}
-
-.gallery-heading {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 11rem;
-  gap: 2rem;
-}
-
-.gallery-heading .eyebrow,
-.gallery-heading h1,
-.gallery-heading .section-intro {
-  grid-column: 1;
-}
-
-.gallery-heading::after {
-  grid-column: 2;
-  grid-row: 1 / span 3;
-  align-self: end;
-  width: 100%;
-  height: 9rem;
-  content: "";
-  opacity: 0.75;
-  background:
-    radial-gradient(circle at 70% 30%, rgba(134, 185, 195, 0.6) 0 1px, transparent 2px),
-    radial-gradient(circle at 34% 68%, rgba(134, 185, 195, 0.32) 0 1px, transparent 2px),
-    linear-gradient(135deg, transparent 49.5%, rgba(134, 185, 195, 0.23) 50%, transparent 50.5%);
-  border-right: 1px solid rgba(134, 185, 195, 0.28);
-  border-bottom: 1px solid rgba(134, 185, 195, 0.28);
-}
-
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(12, minmax(0, 1fr));
-  gap: clamp(1.2rem, 3vw, 2.25rem);
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.gallery-grid li:nth-child(3n + 1) { grid-column: span 7; }
-.gallery-grid li:nth-child(3n + 2) { grid-column: span 5; padding-top: 3.5rem; }
-.gallery-grid li:nth-child(3n + 3) { grid-column: 3 / span 7; }
-
-.gallery-card {
-  display: block;
-  height: 100%;
-  padding-bottom: 1.2rem;
-  border-bottom: 1px solid var(--line);
-  transition: color 180ms ease, transform 180ms ease;
-}
-
-.gallery-card:hover,
-.gallery-card:focus-visible {
-  color: #fff;
-  transform: translateY(-0.3rem);
-}
-
-.gallery-card-image,
-.gallery-card-placeholder {
-  display: grid;
-  place-items: center;
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  overflow: hidden;
-  background: #0a202a;
-  border: 1px solid rgba(157, 181, 188, 0.24);
-}
-
-.gallery-card-image img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  filter: saturate(0.8) contrast(0.94);
-  transition: filter 220ms ease, transform 420ms ease;
-}
-
-.gallery-card:hover .gallery-card-image img,
-.gallery-card:focus-visible .gallery-card-image img {
-  filter: saturate(1) contrast(1);
-  transform: scale(1.035);
-}
-
-.gallery-card-placeholder {
-  position: relative;
-  color: rgba(189, 213, 216, 0.68);
-  background:
-    linear-gradient(135deg, rgba(15, 56, 73, 0.75), rgba(2, 8, 13, 0.8)),
-    radial-gradient(circle at 70% 28%, rgba(134, 185, 195, 0.25), transparent 37%);
-  font-family: var(--serif);
-  font-size: clamp(2rem, 5vw, 4rem);
-}
-
-.gallery-card-placeholder::before,
-.gallery-card-placeholder::after {
-  position: absolute;
-  content: "";
-  border-color: rgba(134, 185, 195, 0.4);
-  border-style: solid;
-}
-
-.gallery-card-placeholder::before {
-  inset: 1rem;
-  border-width: 1px 0 0 1px;
-}
-
-.gallery-card-placeholder::after {
-  right: 1rem;
-  bottom: 1rem;
-  left: 1rem;
-  border-width: 0 1px 1px 0;
-}
-
-.gallery-card-meta {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 0.7rem;
-  margin-top: 1rem;
-}
-
-.gallery-card h2 {
-  margin: 0.55rem 0 0;
-  font-family: var(--serif);
-  font-size: clamp(1.15rem, 2.4vw, 1.55rem);
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  line-height: 1.45;
-}
-
-.gallery-card p {
-  margin: 0.6rem 0 0;
-  color: #aebfc3;
-  font-family: var(--serif);
-  font-size: 0.9rem;
-  line-height: 1.75;
 }
 
 .section-empty {
@@ -1977,44 +1834,8 @@ a {
   border-left-color: #86b9c3;
 }
 
-.article-page[data-section="gallery"] .article-body img {
-  width: min(100%, 44rem);
-  margin-block: 3rem;
-  border: 1px solid rgba(157, 181, 188, 0.24);
-  box-shadow: 0 20px 55px rgba(0, 3, 6, 0.28);
-}
-
-@media (max-width: 720px) {
-  .gallery-heading {
-    display: block;
-  }
-
-  .gallery-heading::after {
-    display: none;
-  }
-
-  .gallery-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-
-  .gallery-grid li:nth-child(3n + 1),
-  .gallery-grid li:nth-child(3n + 2),
-  .gallery-grid li:nth-child(3n + 3) {
-    grid-column: auto;
-    padding-top: 0;
-  }
-
-  .gallery-card-image,
-  .gallery-card-placeholder {
-    aspect-ratio: 16 / 10;
-  }
-}
-
 @media (max-width: 560px) {
-  .reading-notes-section,
-  .gallery-section {
+  .reading-notes-section {
     width: calc(100% - 1rem);
     padding: 2.5rem 1.25rem 3.5rem;
   }
@@ -2038,7 +1859,6 @@ a {
 .section-page,
 .article-page,
 .reading-notes-section,
-.gallery-section,
 .journal-section,
 .cosmic-section {
   width: min(1040px, calc(100% - 3rem));
@@ -2156,34 +1976,6 @@ a {
   padding-inline: clamp(1.5rem, 5vw, 4.5rem);
 }
 
-.reading-desk {
-  display: grid;
-  grid-template-columns: minmax(8rem, 0.25fr) minmax(0, 1fr);
-  gap: clamp(1.5rem, 5vw, 4rem);
-}
-
-.reading-margin {
-  align-self: start;
-  padding: 1rem 1rem 1.5rem 0;
-  border-right: 1px solid rgba(134, 185, 195, 0.28);
-  color: var(--muted);
-  font-family: var(--serif);
-}
-
-.reading-margin h2 {
-  margin: 0 0 1rem;
-  color: #b7c9cc;
-  font-size: 0.85rem;
-  font-weight: 500;
-  letter-spacing: 0.16em;
-}
-
-.reading-margin p {
-  margin: 0;
-  font-size: 0.78rem;
-  line-height: 1.95;
-}
-
 .reading-pages {
   min-width: 0;
 }
@@ -2286,7 +2078,6 @@ a {
   .section-page,
   .article-page,
   .reading-notes-section,
-  .gallery-section,
   .journal-section,
   .cosmic-section {
     width: min(1040px, calc(100% - 2rem));
@@ -2303,20 +2094,9 @@ a {
     width: 7.5rem;
   }
 
-  .reading-desk,
   .journal-month {
     grid-template-columns: 1fr;
     gap: 1.5rem;
-  }
-
-  .reading-margin {
-    padding: 0 0 1rem;
-    border-right: 0;
-    border-bottom: 1px solid rgba(134, 185, 195, 0.28);
-  }
-
-  .reading-margin p br {
-    display: none;
   }
 
   .journal-month-heading {
@@ -2335,7 +2115,6 @@ a {
   .section-page,
   .article-page,
   .reading-notes-section,
-  .gallery-section,
   .journal-section,
   .cosmic-section {
     width: calc(100% - 1rem);
@@ -2343,7 +2122,6 @@ a {
 
   .section-page,
   .reading-notes-section,
-  .gallery-section,
   .journal-section,
   .cosmic-section {
     padding: 2.5rem 1.25rem 3.5rem;

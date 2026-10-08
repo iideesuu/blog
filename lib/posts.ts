@@ -13,16 +13,12 @@ export const sectionConfig = {
     href: "/cosmic-walk/"
   },
   "reading-notes": {
-    label: "书页回声",
+    label: "回声拾贝",
     href: "/reading-notes/"
   },
   fragments: {
-    label: "朝夕手记",
+    label: "情绪手记",
     href: "/fragments/"
-  },
-  gallery: {
-    label: "人间拾光",
-    href: "/gallery/"
   }
 } as const;
 

@@ -2,7 +2,7 @@
 
 这是一个以深海蓝与《白鲸》为视觉底色的 React 博客。首页采用响应式双联页布局：左页是取自小说特征的抹香鲸海事蚀刻画与多语言思想语录，右页是一扇窄幅阅读窗。文章使用 Markdown 写作，构建与静态文件服务都在容器中运行。
 
-四个栏目页面保持同宽，宇宙漫步、书页回声、朝夕手记和人间拾光分别采用思想索引、书页边注、月度手记与影像网格布局。
+三个栏目页面保持同宽：宇宙漫步采用思想索引，回声拾贝以书页边注收录读后感与思考文章，情绪手记以月度日记记录日常与心绪。
 
 ## 本地运行
 
@@ -29,12 +29,10 @@
 content/
 ├── cosmic-walk/      # 宇宙漫步
 │   └── let-the-future-object.md
-├── reading-notes/    # 书页回声（阅读笔记）
+├── reading-notes/    # 回声拾贝（读后感与思考文章）
 │   └── a-reading-note.md
-├── fragments/        # 朝夕手记（日记）
-│   └── an-ordinary-afternoon.md
-└── gallery/          # 人间拾光（生活瞬间）
-    └── a-small-light.md
+└── fragments/        # 情绪手记（日记）
+    └── an-ordinary-afternoon.md
 ```
 
 最简单的写作步骤：
@@ -72,8 +70,8 @@ draft: false
 - `author` 是文章公开署名，也会写入页面的作者 metadata；现有文章使用 `iideesuu`，新文章请填写你希望公开显示的署名。
 - `draft: true` 表示草稿，不会出现在首页、栏目或文章页面；准备发布时改成 `false`。
 - `demo: true` 只用于现有示例文章，正式文章不需要填写。
-- 书页回声文章可选填写 `book`、`bookAuthor` 和 `excerpt`，它们会显示在栏目索引中。
-- 人间拾光文章可选填写 `location`、`cover`、`coverAlt` 和 `excerpt`；图片放在 `public/images/posts/` 后，`cover` 使用 `/images/posts/example.jpg` 这样的路径。若不填写 `cover`，栏目会使用正文中的第一张 Markdown 图片。
+- 回声拾贝收录读后感和关于生活、世界、自我的思考文章。读后感可选填写 `book`、`bookAuthor`，各类文章都可填写 `excerpt`；这些信息会显示在栏目索引中，思考文章无需填写书籍信息。
+- 情绪手记主要收录日记，按月份与日期归档。
 - Markdown 原始文件不会直接公开；构建会把已发布文章转换成静态 HTML。
 
 文章图片放进 `public/images/posts/`，正文中这样引用：

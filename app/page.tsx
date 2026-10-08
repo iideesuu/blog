@@ -8,7 +8,6 @@ export default function HomePage() {
   const cosmicWalk = getPostsBySection("cosmic-walk").slice(0, 3);
   const readingNotes = getPostsBySection("reading-notes").slice(0, 3);
   const fragments = getPostsBySection("fragments").slice(0, 3);
-  const gallery = getPostsBySection("gallery").slice(0, 3);
 
   return (
     <main id="main-content" className="home-page">
@@ -55,21 +54,15 @@ export default function HomePage() {
                 posts={cosmicWalk}
               />
               <PostList
-                heading="书页回声"
+                heading="回声拾贝"
                 href="/reading-notes/"
                 posts={readingNotes}
                 emptyLabel="暂未收录"
               />
               <PostList
-                heading="朝夕手记"
+                heading="情绪手记"
                 href="/fragments/"
                 posts={fragments}
-              />
-              <PostList
-                heading="人间拾光"
-                href="/gallery/"
-                posts={gallery}
-                emptyLabel="暂未收录"
               />
             </section>
           </div>
